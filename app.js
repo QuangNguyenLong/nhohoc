@@ -32,8 +32,6 @@ function getAllPassages() {
   );
 }
 
-const BOOK_ABBR = { "luan-ngu": "LN", "trung-dung": "TD" };
-
 function loadState() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
@@ -62,7 +60,6 @@ const allPassages = getAllPassages();
 const passageById = Object.fromEntries(allPassages.map(p => [p.uid, p]));
 
 // Mọi câu đều tự động nằm trong bộ ôn tập ngay từ đầu — không cần thao tác thủ công.
-// "Mới" = chưa từng được đánh giá (reps === 0). "Đến hạn" = đã học rồi và ngày ôn (due) đã tới/qua.
 function ensureEntry(uid) {
   if (!srsState[uid]) {
     srsState[uid] = { ease: 2.5, interval: 0, reps: 0, due: todayStr() };
@@ -72,13 +69,57 @@ function ensureEntry(uid) {
 allPassages.forEach(p => ensureEntry(p.uid));
 saveState(srsState);
 
-// ============ Tabs ============
-const tabs = document.querySelectorAll(".tab");
+function passagesOfBook(bookId) {
+  return allPassages.filter(p => p.bookId === bookId);
+}
+
+// ============ Book (top-level) navigation ============
+const bookTabsEl = document.getElementById("book-tabs");
+const brandTitleEl = document.getElementById("brand-title");
+const brandSubEl = document.getElementById("brand-sub");
+
+let currentBookId = TU_THU_LIBRARY.books[0].id;
+let currentChapterId = TU_THU_LIBRARY.books[0].chapters[0].id;
+
+function currentBook() {
+  return TU_THU_LIBRARY.books.find(b => b.id === currentBookId);
+}
+
+function renderBookTabs() {
+  bookTabsEl.innerHTML = "";
+  TU_THU_LIBRARY.books.forEach(book => {
+    const btn = document.createElement("button");
+    btn.className = "tab book-tab" + (book.id === currentBookId ? " active" : "");
+    btn.setAttribute("role", "tab");
+    btn.textContent = book.title;
+    btn.addEventListener("click", () => switchBook(book.id));
+    bookTabsEl.appendChild(btn);
+  });
+  const book = currentBook();
+  brandTitleEl.textContent = book.title;
+  brandSubEl.textContent = book.subtitle;
+}
+
+function switchBook(bookId) {
+  if (bookId === currentBookId) return;
+  currentBookId = bookId;
+  currentChapterId = currentBook().chapters[0].id;
+  renderBookTabs();
+  renderChapterRail();
+  renderPassages();
+  updateDueBadge();
+  const activeSection = document.querySelector("#section-tabs .tab.active").dataset.tab;
+  if (activeSection === "review") startReviewSession();
+  if (activeSection === "progress") renderProgress();
+}
+
+// ============ Section-level tabs (Đọc hiểu / Ôn tập / Tiến độ) ============
+const sectionTabs = document.querySelectorAll("#section-tabs .tab");
 const views = document.querySelectorAll(".view");
 
-tabs.forEach(tab => {
+sectionTabs.forEach(tab => {
   tab.addEventListener("click", () => {
-    tabs.forEach(t => { t.classList.remove("active"); t.setAttribute("aria-selected", "false"); });
+    sectionTabs.forEach(t => { t.classList.remove("active"); t.setAttribute("aria-selected", "false"); });
     tab.classList.add("active");
     tab.setAttribute("aria-selected", "true");
     const target = tab.dataset.tab;
@@ -91,7 +132,6 @@ tabs.forEach(tab => {
 });
 
 // ============ Reading view ============
-const bookSwitcherEl = document.getElementById("book-switcher");
 const chapterRail = document.getElementById("chapter-rail");
 const chapterNumberEl = document.getElementById("chapter-number");
 const chapterNameEl = document.getElementById("chapter-name");
@@ -100,30 +140,6 @@ const passageListEl = document.getElementById("passage-list");
 
 const ROMAN = ["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII","XIV","XV","XVI","XVII","XVIII","XIX","XX",
   "XXI","XXII","XXIII","XXIV","XXV","XXVI","XXVII","XXVIII","XXIX","XXX","XXXI","XXXII","XXXIII"];
-
-let currentBookId = TU_THU_LIBRARY.books[0].id;
-let currentChapterId = TU_THU_LIBRARY.books[0].chapters[0].id;
-
-function currentBook() {
-  return TU_THU_LIBRARY.books.find(b => b.id === currentBookId);
-}
-
-function renderBookSwitcher() {
-  bookSwitcherEl.innerHTML = "";
-  TU_THU_LIBRARY.books.forEach(book => {
-    const btn = document.createElement("button");
-    btn.className = "book-pill" + (book.id === currentBookId ? " active" : "");
-    btn.textContent = book.title;
-    btn.addEventListener("click", () => {
-      currentBookId = book.id;
-      currentChapterId = book.chapters[0].id;
-      renderBookSwitcher();
-      renderChapterRail();
-      renderPassages();
-    });
-    bookSwitcherEl.appendChild(btn);
-  });
-}
 
 function renderChapterRail() {
   chapterRail.innerHTML = "";
@@ -180,7 +196,7 @@ function renderPassages() {
   });
 }
 
-// ============ Review (spaced repetition, randomized daily session) ============
+// ============ Review (spaced repetition, randomized daily session, per book) ============
 const dueBadge = document.getElementById("due-badge");
 const reviewRemainingEl = document.getElementById("review-remaining");
 const shuffleBtn = document.getElementById("shuffle-btn");
@@ -199,21 +215,21 @@ sessionSizeInput.value = settings.sessionSize;
 let reviewQueue = [];
 let currentCardId = null;
 
-// Thẻ "đến hạn" (đã học, đã tới ngày ôn lại) + thẻ "mới" (chưa từng ôn), trộn ngẫu nhiên, giới hạn theo phiên.
 function buildDailySession() {
   const size = settings.sessionSize;
-  const due = allPassages.filter(p => {
+  const pool = passagesOfBook(currentBookId);
+  const due = pool.filter(p => {
     const s = ensureEntry(p.uid);
     return s.reps > 0 && s.due <= todayStr();
   }).map(p => p.uid);
-  const fresh = allPassages.filter(p => ensureEntry(p.uid).reps === 0).map(p => p.uid);
+  const fresh = pool.filter(p => ensureEntry(p.uid).reps === 0).map(p => p.uid);
 
-  const pool = shuffle([...shuffle(due), ...shuffle(fresh)]);
-  return pool.slice(0, size);
+  const merged = shuffle([...shuffle(due), ...shuffle(fresh)]);
+  return merged.slice(0, size);
 }
 
 function updateDueBadge() {
-  const count = allPassages.filter(p => {
+  const count = passagesOfBook(currentBookId).filter(p => {
     const s = ensureEntry(p.uid);
     return s.due <= todayStr();
   }).length;
@@ -258,7 +274,7 @@ function showNextCard() {
   shuffleBtn.hidden = false;
   currentCardId = reviewQueue[0];
   const p = passageById[currentCardId];
-  cardSeal.textContent = `${BOOK_ABBR[p.bookId] || ""} ${p.id}`.trim();
+  cardSeal.textContent = p.id;
   cardHanviet.textContent = p.hanviet || "(Đoạn này chỉ có bản dịch nghĩa, không có phiên âm riêng)";
   cardNghia.textContent = p.nghia;
   cardBinh.textContent = p.binh || "(Chưa có lời bình cho câu này)";
@@ -283,8 +299,8 @@ document.querySelectorAll(".rate-btn").forEach(btn => {
   });
 });
 
-function rate(id, rating) {
-  const s = ensureEntry(id);
+function rate(uid, rating) {
+  const s = ensureEntry(uid);
   if (rating === "hard") {
     s.ease = Math.max(1.3, s.ease - 0.2);
     s.reps = 0;
@@ -301,22 +317,22 @@ function rate(id, rating) {
   saveState(srsState);
 }
 
-// ============ Progress + backup ============
+// ============ Progress (per book) + backup (whole library) ============
 function renderProgress() {
-  const total = allPassages.length;
+  const pool = passagesOfBook(currentBookId);
   let studied = 0, mastered = 0;
-  allPassages.forEach(p => {
+  pool.forEach(p => {
     const s = ensureEntry(p.uid);
     if (s.reps > 0) studied++;
     if (s.interval > 30) mastered++;
   });
-  document.getElementById("stat-total").textContent = total;
+  document.getElementById("stat-total").textContent = pool.length;
   document.getElementById("stat-added").textContent = studied;
   document.getElementById("stat-mastered").textContent = mastered;
 }
 
 document.getElementById("reset-btn").addEventListener("click", () => {
-  if (confirm("Xoá toàn bộ tiến độ ôn tập? Hành động này không thể hoàn tác.")) {
+  if (confirm("Xoá toàn bộ tiến độ ôn tập (cho tất cả các sách)? Hành động này không thể hoàn tác.")) {
     localStorage.removeItem(STORAGE_KEY);
     srsState = {};
     allPassages.forEach(p => ensureEntry(p.uid));
@@ -332,7 +348,7 @@ document.getElementById("export-btn").addEventListener("click", () => {
   const url = URL.createObjectURL(blob);
   const a = document.createElement("a");
   a.href = url;
-  a.download = `luan-ngu-tien-do-${todayStr()}.json`;
+  a.download = `tu-thu-tien-do-${todayStr()}.json`;
   document.body.appendChild(a);
   a.click();
   a.remove();
@@ -361,7 +377,7 @@ document.getElementById("import-input").addEventListener("change", (e) => {
 });
 
 // ============ Init ============
-renderBookSwitcher();
+renderBookTabs();
 renderChapterRail();
 renderPassages();
 updateDueBadge();

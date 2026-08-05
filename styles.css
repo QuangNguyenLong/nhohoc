@@ -54,6 +54,10 @@ body {
   align-items: flex-end;
   justify-content: space-between;
   gap: 20px;
+}
+
+#section-tabs {
+  padding-bottom: 16px;
   border-bottom: 2px solid var(--ink);
 }
 
@@ -143,27 +147,30 @@ main { padding-top: 32px; }
 #view-read { display: none; }
 #view-read.active { display: block; }
 
-.book-switcher {
+.book-tabs {
   display: flex;
-  gap: 8px;
-  margin-bottom: 24px;
+  gap: 4px;
+  margin-bottom: 4px;
 }
 
-.book-pill {
+.book-tab {
   font-family: var(--font-mono);
-  font-size: 12px;
-  letter-spacing: 0.03em;
-  background: var(--card-bg);
-  border: 1px solid var(--line);
+  font-size: 13px;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
   color: var(--ink-soft);
-  padding: 8px 14px;
-  cursor: pointer;
+  padding: 9px 4px;
+  margin-left: 16px;
 }
 
-.book-pill.active {
-  border-color: var(--seal);
+.book-tab:hover { background: none; color: var(--ink); }
+
+.book-tab.active {
+  background: none;
   color: var(--seal);
   font-weight: 700;
+  border-bottom-color: var(--seal);
 }
 
 .read-body { display: flex; gap: 28px; align-items: flex-start; }
@@ -402,8 +409,8 @@ main { padding-top: 32px; }
 .flashcard {
   position: relative;
   width: 100%;
-  min-height: 260px;
   cursor: pointer;
+  display: grid;
   transform-style: preserve-3d;
   transition: transform 0.5s cubic-bezier(.4,.2,.2,1);
 }
@@ -411,8 +418,10 @@ main { padding-top: 32px; }
 .flashcard.flipped { transform: rotateY(180deg); }
 
 .flashcard-face {
-  position: absolute;
-  inset: 0;
+  grid-area: 1 / 1;
+  min-height: 220px;
+  max-height: 60vh;
+  overflow-y: auto;
   backface-visibility: hidden;
   background: var(--card-bg);
   border: 1px solid var(--line);
@@ -424,7 +433,7 @@ main { padding-top: 32px; }
   text-align: center;
 }
 
-.flashcard-back { transform: rotateY(180deg); justify-content: flex-start; text-align: left; }
+.flashcard-back { transform: rotateY(180deg); justify-content: flex-start; text-align: left; align-items: stretch; }
 
 .flashcard-front .seal {
   position: static;
@@ -438,6 +447,7 @@ main { padding-top: 32px; }
   font-size: 19px;
   line-height: 1.65;
   margin: 0;
+  overflow-wrap: break-word;
 }
 
 .flip-hint {
@@ -563,6 +573,9 @@ main { padding-top: 32px; }
   .passage-card { padding: 60px 16px 16px; }
   .seal { top: 16px; left: 16px; }
   .rate-btn { font-size: 12px; padding: 10px 4px; }
+  .flashcard-face { padding: 22px 18px; max-height: 55vh; }
+  .book-tab { margin-left: 8px; font-size: 12px; }
+  .site-header { padding-top: 24px; }
 }
 
 /* accessible focus */

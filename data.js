@@ -18,15 +18,15 @@ const TU_THU_LIBRARY = {
         "passages": [
           {
             "id": "1.1",
-            "hanviet": "Tử viết: Học nhi thời tập chi, bất diệc duyệt hồ ? Hữu bằng tự viễn phương lai, bất diệc lạc hồ ? Nhân bất tri nhi bất uấn, bất diệc quân tử hồ ?",
-            "nghia": "Khổng tử nói: Học thì phải luyện tập, chẳng vui lắm sao ? Có bạn hữu nơi xa đến thăm, chẳng mừng lắm sao? Người chẳng hiểu ta mà ta không buồn giận họ, thế chẳng phải người quân tử ư ?",
+            "hanviet": "Tử viết: Học nhi thời tập chi, bất diệc duyệt hồ? Hữu bằng tự viễn phương lai, bất diệc lạc hồ? Nhân bất tri nhi bất uấn, bất diệc quân tử hồ?",
+            "nghia": "Khổng tử nói: Học thì phải luyện tập, chẳng vui lắm sao? Có bạn hữu nơi xa đến thăm, chẳng mừng lắm sao? Người chẳng hiểu ta mà ta không buồn giận họ, thế chẳng phải người quân tử ư?",
             "binh": "Bài học đầu tiên, Khổng tử nói về niềm vui “học và hành”, niềm vui đón “bạn phương xa” và…nhắc đừng buồn khi có người hiểu lầm ta"
           },
           {
             "id": "1.2",
-            "hanviet": "Hữu tử viết: Kỳ vi nhân dã hiếu đễ, nhi hiếu phạm thượng giả, tiển hĩ; bất hiếu phạm thượng, nhi hiếu tác loạn giả, vị chi hữu dã. Quân tử vụ bản, bản lập nhi đạo sinh. Hiếu đễ dã giả, kỳ vi nhân chi bản dữ !",
+            "hanviet": "Hữu tử viết: Kỳ vi nhân dã hiếu đễ, nhi hiếu phạm thượng giả, tiển hĩ; bất hiếu phạm thượng, nhi hiếu tác loạn giả, vị chi hữu dã. Quân tử vụ bản, bản lập nhi đạo sinh. Hiếu đễ dã giả, kỳ vi nhân chi bản dữ!",
             "nghia": "Hữu tử nói: Người biết hiếu thuận với cha mẹ, kính trọng người lớn tuổi hơn mà lại thích cãi cọ xung đột mạo phạm cấp trên là hiếm có; Người không thích mạo phạm cấp trên mà lại thích làm loạn là không có. Quân tử chuyên tâm lo cái gốc tu thân thì đạo lập thân tự nhiên phát sinh. Hiếu và đễ là cái gốc của đạo Nhân.",
-            "binh": "Hữu tử tức Hữu Nhược, tự Tử Hữu người nước Lỗ, là học trò Khổng tử. Hiếu: hiếu thảo với cha mẹ, đễ : tôn trọng anh, chị, các bề trên"
+            "binh": "Hữu tử tức Hữu Nhược, tự Tử Hữu người nước Lỗ, là học trò Khổng tử. Hiếu: hiếu thảo với cha mẹ, đễ: tôn trọng anh, chị, các bề trên"
           },
           {
             "id": "1.3",
@@ -36,19 +36,19 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "1.4",
-            "hanviet": "Tăng tử viết: Ngô nhật tam tỉnh ngô thân. Vị nhân mưu nhi bất trung hồ? Dữ bằng hữu giao nhi bất tín hồ ? Truyền, bất tập hồ ?",
-            "nghia": "Tăng tử nói: Tôi mỗi ngày xét mình ba điều. Mưu việc cho người khác thành tâm chưa ? Kết giao bạn bè đã giữ chữ tín chưa ? Kiến thức thầy truyền dạy, đã luyện tập chưa ? Phần cuối có người dịch là: Kiến thức ta sắp đi truyền dạy, đã luyện tập chưa? )",
+            "hanviet": "Tăng tử viết: Ngô nhật tam tỉnh ngô thân. Vị nhân mưu nhi bất trung hồ? Dữ bằng hữu giao nhi bất tín hồ? Truyền, bất tập hồ?",
+            "nghia": "Tăng tử nói: Tôi mỗi ngày xét mình ba điều. Mưu việc cho người khác thành tâm chưa? Kết giao bạn bè đã giữ chữ tín chưa? Kiến thức thầy truyền dạy, đã luyện tập chưa? Phần cuối có người dịch là: Kiến thức ta sắp đi truyền dạy, đã luyện tập chưa? )",
             "binh": "Tăng tử tức Tăng Sâm, học trò giogỉ của Khổng tử, sau này viết ra sách “Đại học”."
           },
           {
             "id": "1.5",
-            "hanviet": ":,,, Tử viết: Đạo thiên thừa chi quốc, kính sự nhi tín, tiết dụng nhi, ái nhân, sử dân dĩ thời.",
+            "hanviet": ",,, Tử viết: Đạo thiên thừa chi quốc, kính sự nhi tín, tiết dụng nhi, ái nhân, sử dân dĩ thời.",
             "nghia": "Khổng tử nói: Lãnh đạo quốc gia có nghìn cỗ xe, phải giữ điều tín mọi việc, tiết kiệm chi tiêu, yêu mến dân, sử dụng sức dân theo thời gian thích hợp",
             "binh": "Vua quan sử dụng sức dân cần phải nghĩ tới mùa vụ, tránh sai khiến tùy tiện khiến nông dân lỡ thời vụ)."
           },
           {
             "id": "1.6",
-            "hanviet": ": ,, , Tử viết: Đệ tử, nhập tắc hiếu, xuất tắc đễ, cẩn nhi tín, phiếm ái chúng nhi thân nhân, hành hữu dư lực, tắc dĩ học văn.",
+            "hanviet": ",,, Tử viết: Đệ tử, nhập tắc hiếu, xuất tắc đễ, cẩn nhi tín, phiếm ái chúng nhi thân nhân, hành hữu dư lực, tắc dĩ học văn.",
             "nghia": "Khổng tử nói: Này trò, ở nhà phải hiếu thuận với cha mẹ, ra ngoài tôn kính người hơn tuổi, cẩn thận giữ điều tín, gần gũi thân cận với người nhân đức, được như vậy mà còn dư sức thì học tập tri thức nữa.",
             "binh": ""
           },
@@ -62,7 +62,7 @@ const TU_THU_LIBRARY = {
             "id": "1.8",
             "hanviet": "Tử viết: Quân tử, bất trọng tắc bất uy, học tắc bất cố. Chủ trung tín. Vô hữu bất như kỷ giả; Quá tắc vật đạn cải.",
             "nghia": "Khổng tử nói: Quân tử thiếu thái độ trang trọng thì không uy nghiêm; học cũng không củng cố được kết quả. Quân tử lấy chữ tín và trung làm chủ. Không kết bạn với người không giống mình. Có sai lầm không ngại sửa chữa.",
-            "binh": "Bạn đọc thử nghĩ xem có nên “kết bạn với người không giống mình” ?"
+            "binh": "Bạn đọc thử nghĩ xem có nên “kết bạn với người không giống mình”?"
           },
           {
             "id": "1.9",
@@ -72,8 +72,8 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "1.10",
-            "hanviet": ":,, ,,, ? Tử Cầm vấn ư Tử Cống viết: Phu tử chí ư thị bang dã; tất văn kỳ chính, cầu chi dự, ức dữ chi dự ? Tử Cống viết: Phu tử ôn, lương, cung, kiệm, nhượng dĩ đắc chi. Phu tử chi cầu chi dã, kỳ chư dị hồ nhân chi cầu chi dự ?",
-            "nghia": "Tử Cầm hỏi Tử Cống rằng: Thầy Khổng đi qua các nước đều được tham dự chính sự ở các nước ấy. Là do thầy cầu xin hay do người ta yêu cầu ? Tử Cống đáp: Thầy Khổng có đức tính ôn, lương, cung, kiệm, nhường nhịn nên được như vậy. Cách cầu việc của thầy khác với lối xin việc của người khác.",
+            "hanviet": ",,,,,? Tử Cầm vấn ư Tử Cống viết: Phu tử chí ư thị bang dã; tất văn kỳ chính, cầu chi dự, ức dữ chi dự? Tử Cống viết: Phu tử ôn, lương, cung, kiệm, nhượng dĩ đắc chi. Phu tử chi cầu chi dã, kỳ chư dị hồ nhân chi cầu chi dự?",
+            "nghia": "Tử Cầm hỏi Tử Cống rằng: Thầy Khổng đi qua các nước đều được tham dự chính sự ở các nước ấy. Là do thầy cầu xin hay do người ta yêu cầu? Tử Cống đáp: Thầy Khổng có đức tính ôn, lương, cung, kiệm, nhường nhịn nên được như vậy. Cách cầu việc của thầy khác với lối xin việc của người khác.",
             "binh": "ôn: ôn hòa, lương: hiền dịu, cung: cung kính, kiệm: tiết kiệm, nhượng: nhường nhịn. Tử Cầm và Tử Cống có tên là Đoan Mộc Tứ đều là học trò Khổng tử)."
           },
           {
@@ -84,7 +84,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "1.12",
-            "hanviet": ":,,,,, . Hữu tử viết: Lễ chi dụng, hòa vi quí. Tiên vương chi đạo, tư vi mĩ, tiểu đại do chi, hữu sở bất hành. Tri hòa nhi hòa, bất dĩ lễ tiết chi, diệc bất khả hành dã.",
+            "hanviet": ",,,,,. Hữu tử viết: Lễ chi dụng, hòa vi quí. Tiên vương chi đạo, tư vi mĩ, tiểu đại do chi, hữu sở bất hành. Tri hòa nhi hòa, bất dĩ lễ tiết chi, diệc bất khả hành dã.",
             "nghia": "Hữu tử nói: Giữ lễ mà đạt được sự hài hòa là quí. Đạo trị nước của vua chúa thời trước, việc lớn nhỏ đều tuân theo sự hài hòa. Nhưng nếu chỉ biết hài hòa, không lấy chữ “lễ” để ràng buộc thì việc nào cũng không xong.",
             "binh": ""
           },
@@ -96,14 +96,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "1.14",
-            "hanviet": ":,,, , Quân tử thực vô cầu bão, cư vô cầu an, mẫn ư sự nhi thận ư ngôn, tựu hữu đạo nhi chính yên, khả vị hiếu học dã dĩ.",
+            "hanviet": ",,,, Quân tử thực vô cầu bão, cư vô cầu an, mẫn ư sự nhi thận ư ngôn, tựu hữu đạo nhi chính yên, khả vị hiếu học dã dĩ.",
             "nghia": "Quân tử ăn không cầu no, chỗ ở không cầu an toàn quá mức, làm việc minh mẫn mà lời nói thận trọng, là kẻ có đạo chính đáng, có thể gọi là người hiếu học.",
             "binh": "“an cư” nghĩa rất rộng: nơi ở an toàn, nghiêm mật lại thoải mái rộng rãi, cầu kỳ, ở được lâu, ít thay đổi chỗ… Quan điểm “cư vô cầu an” của quân tử trái với phương châm thông thường “an cư lạc nghiệp”"
           },
           {
             "id": "1.15",
-            "hanviet": "Tử Cống viết “Bần nhi vô siểm, phú nhi vô kiêu, hà như ? ”. Tử viết “Khả dã. Vị nhược bần nhi lạc, phú nhi hiếu lễ giả dã”. Tử Cống viết “Thi vân, như thiết như tha ! Như trác như ma, kỳ tư chi vị dư ?”. Tử viết “Tứ dã ! Thỉ khả dữ ngôn “Thi” dĩ hĩ, cáo chư vãng nhi tri lai giả”. Tử Cống hỏi “Kinh Thi viết: như cắt như gọt (xương, sừng), như mài như giũa (đá ngọc) để tạo ra vật quí, là nói điều này phải chăng ?”.",
-            "nghia": "Tử Cống hỏi “Nghèo khổ mà không nịnh bợ, giàu có mà không kiêu ngạo, như vậy được chưa ?”. Khổng tử đáp “Như vậy là được, nhưng không bằng nghèo mà lạc quan, giàu mà chuộng học lễ nghĩa”. Khổng tử nói “Tứ này, có thể bắt đầu bàn luận Kinh Thi được rồi, bởi vì nói cho ngươi việc quá khứ, ngươi đã hiểu việc tương lai”.",
+            "hanviet": "Tử Cống viết “Bần nhi vô siểm, phú nhi vô kiêu, hà như?”. Tử viết “Khả dã. Vị nhược bần nhi lạc, phú nhi hiếu lễ giả dã”. Tử Cống viết “Thi vân, như thiết như tha! Như trác như ma, kỳ tư chi vị dư?”. Tử viết “Tứ dã! Thỉ khả dữ ngôn “Thi” dĩ hĩ, cáo chư vãng nhi tri lai giả”. Tử Cống hỏi “Kinh Thi viết: như cắt như gọt (xương, sừng), như mài như giũa (đá ngọc) để tạo ra vật quí, là nói điều này phải chăng?”.",
+            "nghia": "Tử Cống hỏi “Nghèo khổ mà không nịnh bợ, giàu có mà không kiêu ngạo, như vậy được chưa?”. Khổng tử đáp “Như vậy là được, nhưng không bằng nghèo mà lạc quan, giàu mà chuộng học lễ nghĩa”. Khổng tử nói “Tứ này, có thể bắt đầu bàn luận Kinh Thi được rồi, bởi vì nói cho ngươi việc quá khứ, ngươi đã hiểu việc tương lai”.",
             "binh": "“Nghèo lạc quan” nghĩa là vẫn ước mơ, phấn đấu làm giàu chứ không phải lạc quan chịu nghèo. “Như cắt như gọt, như mài như giũa” ý nói việc học hành rèn luyện phải kiên trì và khéo léo)."
           },
           {
@@ -122,7 +122,7 @@ const TU_THU_LIBRARY = {
         "passages": [
           {
             "id": "2.1",
-            "hanviet": ", Tử viết: Vi chính dĩ đức, thí như Bắc thần, cư kỳ sở nhi chúng tinh cung chi",
+            "hanviet": "Tử viết: Vi chính dĩ đức, thí như Bắc thần, cư kỳ sở nhi chúng tinh cung chi",
             "nghia": "Khổng tử nói: Cầm quyền phải có đức, giống như sao Bắc đẩu ở nơi cố định cho các ngôi sao vây quanh.",
             "binh": ""
           },
@@ -140,14 +140,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "2.4",
-            "hanviet": "Tử viết: Ngô thập ngũ nhi chí ư học, tam thập nhi lập, tứ thập nhi bất hoặc, ngũ thập nhi tri thiên mệnh, lục thập nhi nhĩ thuận, thất thập nhi tòng tâm sở dục bất du củ..",
+            "hanviet": "Tử viết: Ngô thập ngũ nhi chí ư học, tam thập nhi lập, tứ thập nhi bất hoặc, ngũ thập nhi tri thiên mệnh, lục thập nhi nhĩ thuận, thất thập nhi tòng tâm sở dục bất du củ.",
             "nghia": "Khổng tử nói: Lúc mười lăm tuổi ta đã lo nỗ lực học tập. Ba mươi tuổi đã xác định được chí hướng. Bốn mươi tuổi đã hiểu được lý sự, không còn bị lầm lẫn. Năm mươi tuổi đã hiểu được mệnh trời. Sáu mươi tuổi nghe người khác nói đều thuận tai cả. Bảy mươi tuổi có thể theo lòng mong muốn mà không vượt ra ngoài giới hạn. 15 tuổi mà chưa có chí học hành thì nên chọn con đường lao động chân tay thích hợp. Chưa tới 30 tuổi mà chưa ổn định nghề nghiệp thì vẫn chưa đáng lo, đừng sốt ruột… 40 tuổi: hiểu rõ mọi sự, không nhầm lẫn nữa. 50 tuổi: nhìn rõ quãng đời còn lại, ung dung đi tới tương lai (tri thiên mệnh) 60 tuổi: hiểu và đồng tình với lời nói đúng, biết lời nói sai mà không bực bội. 70 tuổi: nhu cầu cá nhân được thực hiện, tự hài lòng mà không quá trớn, vẫn phù hợp khách quan. Khổng tử phân chia cuộc đời của một người bình thường thành 6 giai đoạn, có tính chất tương đối…Nếu người có năng lực (lại gặp hoàn cảnh thuận lợi) thì 6 cột mốc sẽ đến sớm hơn. Trái lại, người yếu kém hoặc ít may mắn thì mỗi cột mốc đến muộn hơn.",
             "binh": ""
           },
           {
             "id": "2.5",
-            "hanviet": "Mạnh Ý tử vấn hiếu, Tử viết “Vô vi”, Phàn Trì ngữ, Tử cáo chi viết: “Mạnh Tôn vân hiếu ư ngã, ngã đối viết vô vi. Phàn Trì viết: “Hà vị dã ?”. Tử viết “Sinh, sự chi dĩ lễ; tử, táng chi dĩ lễ, tế chi dĩ lễ.”",
-            "nghia": "Mạnh Ý tử hỏi về đạo Hiếu. Khổng tử nói “Không được làm trái (lễ)”. Phàn Trì đánh xe cho Khổng tử, Khổng tử kể lại rằng Mạnh Ý tử có hỏi ta về đạo hiếu, ta trả lời là không được vi phạm lễ. Phàn Trì hỏi lại “Như thế là ý gì ?”. Khổng tử nói “Cha mẹ lúc còn sống, ta phải theo lễ mà phụng sự. Cha mẹ chết, phải theo lễ mà an táng, theo lễ mà cúng tế”.",
+            "hanviet": "Mạnh Ý tử vấn hiếu, Tử viết “Vô vi”, Phàn Trì ngữ, Tử cáo chi viết: “Mạnh Tôn vân hiếu ư ngã, ngã đối viết vô vi. Phàn Trì viết: “Hà vị dã?”. Tử viết “Sinh, sự chi dĩ lễ; tử, táng chi dĩ lễ, tế chi dĩ lễ.”",
+            "nghia": "Mạnh Ý tử hỏi về đạo Hiếu. Khổng tử nói “Không được làm trái (lễ)”. Phàn Trì đánh xe cho Khổng tử, Khổng tử kể lại rằng Mạnh Ý tử có hỏi ta về đạo hiếu, ta trả lời là không được vi phạm lễ. Phàn Trì hỏi lại “Như thế là ý gì?”. Khổng tử nói “Cha mẹ lúc còn sống, ta phải theo lễ mà phụng sự. Cha mẹ chết, phải theo lễ mà an táng, theo lễ mà cúng tế”.",
             "binh": ""
           },
           {
@@ -158,13 +158,13 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "2.7",
-            "hanviet": "Tử Du vấn hiếu, Tử viết: “Kim chi hiếu giả, thị vị năng dưỡng. Chí ư khuyển mã, giai năng hữu dưỡng, bất kính, hà dĩ biệt hồ ?”. Tử Du hỏi về đạo Hiếu.",
-            "nghia": "Khổng tử đáp: Thông thường, những người có thể nuôi dưỡng được cha mẹ thì được gọi là có hiếu. Đến cả giống chó ngựa thì người ta vẫn nuôi được, nếu không kính trọng cha mẹ trong khi nuôi dưỡng, thì có khác chi nuôi chó ngựa ?!",
+            "hanviet": "Tử Du vấn hiếu, Tử viết: “Kim chi hiếu giả, thị vị năng dưỡng. Chí ư khuyển mã, giai năng hữu dưỡng, bất kính, hà dĩ biệt hồ?”. Tử Du hỏi về đạo Hiếu.",
+            "nghia": "Khổng tử đáp: Thông thường, những người có thể nuôi dưỡng được cha mẹ thì được gọi là có hiếu. Đến cả giống chó ngựa thì người ta vẫn nuôi được, nếu không kính trọng cha mẹ trong khi nuôi dưỡng, thì có khác chi nuôi chó ngựa!",
             "binh": ""
           },
           {
             "id": "2.8",
-            "hanviet": "Tử Hạ vấn hiếu, Tử viết: Sắc nan. Hữu sự, đệ tử phục kỳ lao; hữu tửu thực, tiên sinh soạn, tằng thị dĩ vi hiếu hồ ? Tử Hạ hỏi về đạo Hiếu.",
+            "hanviet": "Tử Hạ vấn hiếu, Tử viết: Sắc nan. Hữu sự, đệ tử phục kỳ lao; hữu tửu thực, tiên sinh soạn, tằng thị dĩ vi hiếu hồ? Tử Hạ hỏi về đạo Hiếu.",
             "nghia": "Khổng tử nói: Khó nhất là con cái có giữ được vẻ hòa vui thường xuyên lúc phụng dưỡng cha mẹ hay không. Khi có việc cực nhọc, con cái chủ động làm thay, có gì ngon mang cho cha mẹ ăn…Như thế chắc gì đã là có hiếu?",
             "binh": ""
           },
@@ -176,13 +176,13 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "2.10",
-            "hanviet": ":, Tử viết: Thị kỳ sở dĩ, quan kỳ sở do, sát kỳ sở an, nhân yên sưu tai ? Nhân yên sưu tai ?",
-            "nghia": "Khổng tử nói: Nhìn kỹ cách người làm, xét xem người làm vì cái gì, xem kỹ người làm có vui vẻ không, như thế người ta có gì mà giấu được ? Có gì mà giấu được ?",
+            "hanviet": ", Tử viết: Thị kỳ sở dĩ, quan kỳ sở do, sát kỳ sở an, nhân yên sưu tai? Nhân yên sưu tai?",
+            "nghia": "Khổng tử nói: Nhìn kỹ cách người làm, xét xem người làm vì cái gì, xem kỹ người làm có vui vẻ không, như thế người ta có gì mà giấu được? Có gì mà giấu được?",
             "binh": ""
           },
           {
             "id": "2.11",
-            "hanviet": ", Tử viết: Ôn cố nhi tri tân, khả dĩ vi sư hĩ",
+            "hanviet": "Tử viết: Ôn cố nhi tri tân, khả dĩ vi sư hĩ",
             "nghia": "Khổng tử nói: Ôn tập cái cũ để hiểu cái mới, có thể làm thầy được rồi.",
             "binh": ""
           },
@@ -218,44 +218,44 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "2.17",
-            "hanviet": ": ,,,, Tử viết: Do, hối nhữ, tri chi hồ ? Tri chi vi tri chi, bất tri vi bất tri, thị tri dã.",
-            "nghia": "Khổng tử nói: Này trò Do, ta dạy ngươi, có hiểu bài không ? Biết thì nói là biết, không biết thì nói không biết. Đó là biết vậy.",
+            "hanviet": ",,,, Tử viết: Do, hối nhữ, tri chi hồ? Tri chi vi tri chi, bất tri vi bất tri, thị tri dã.",
+            "nghia": "Khổng tử nói: Này trò Do, ta dạy ngươi, có hiểu bài không? Biết thì nói là biết, không biết thì nói không biết. Đó là biết vậy.",
             "binh": ""
           },
           {
             "id": "2.18",
-            "hanviet": "Tử Trương học can lộc, Tử viết: “Đa văn khuyết nghi, thận ngôn kỳ dư, tắc quả vưu; Đa kiến khuyết đãi, thận hành kỳ dư, tắc quả hối. Ngôn quả vưu, hành quả hối, lộc tại kỳ trung hĩ ”.",
+            "hanviet": "Tử Trương học can lộc, Tử viết: “Đa văn khuyết nghi, thận ngôn kỳ dư, tắc quả vưu; Đa kiến khuyết đãi, thận hành kỳ dư, tắc quả hối. Ngôn quả vưu, hành quả hối, lộc tại kỳ trung hĩ”.",
             "nghia": "Tử Trương hỏi cách học cầu bổng lộc, Khổng tử nói: Cần nghe nhiều, điều nghi ngờ giữ lại, điều gì hiểu rõ thì nói ra, như thế ít sai lầm. Phải quan sát nhiều, giữ lại điều nghi ngờ đừng làm, chỉ làm cái điều chắc chắn, như vậy ít hối hận. Nói năng ít sai, làm ít hối hận thì bổng lộc nằm trong ấy rồi.",
             "binh": ""
           },
           {
             "id": "2.19",
             "hanviet": "Lỗ Ai Công vấn viết: “Hà vi tắc dân phục?”. Khổng tử đối viết: “Cử trực thố chư uổng, tắc dân phục; Cử uổng thố chư trực, tắc dân bất phục.”.",
-            "nghia": "Lỗ Ai Công (vua nước Lỗ, quê Khổng tử) hỏi: Làm sao cho dân phục ? Khổng tử đáp: Bổ nhiệm người ngay thẳng trên kẻ ác, ắt dân phục. Xếp kẻ ác trên người ngay thẳng thì dân không phục.",
+            "nghia": "Lỗ Ai Công (vua nước Lỗ, quê Khổng tử) hỏi: Làm sao cho dân phục? Khổng tử đáp: Bổ nhiệm người ngay thẳng trên kẻ ác, ắt dân phục. Xếp kẻ ác trên người ngay thẳng thì dân không phục.",
             "binh": ""
           },
           {
             "id": "2.20",
-            "hanviet": "Quí Khang tử vấn: “Sử dân kính, trung dĩ khuyến, như chi hà ?”. Khổng tử viết: “Lâm chi dĩ trang, tắc kính; Hiếu từ, tắc trung; Cử thiện nhi giáo bất năng, tắc khuyến”.",
-            "nghia": "Quí Khang tử hỏi: Làm thế nào cho dân kính trọng, trung thành với ta và tự khuyên bảo nhau ? Khổng tử đáp: Đối xử mọi việc trang trọng, dân sẽ kính trọng; Hiếu thảo với cha mẹ, hiền từ với mọi người thì dân sẽ trung thành. Sử dụng người tốt và giáo dục người kém, dân chúng sẽ tự khuyên bảo nhau.",
+            "hanviet": "Quí Khang tử vấn: “Sử dân kính, trung dĩ khuyến, như chi hà?”. Khổng tử viết: “Lâm chi dĩ trang, tắc kính; Hiếu từ, tắc trung; Cử thiện nhi giáo bất năng, tắc khuyến”.",
+            "nghia": "Quí Khang tử hỏi: Làm thế nào cho dân kính trọng, trung thành với ta và tự khuyên bảo nhau? Khổng tử đáp: Đối xử mọi việc trang trọng, dân sẽ kính trọng; Hiếu thảo với cha mẹ, hiền từ với mọi người thì dân sẽ trung thành. Sử dụng người tốt và giáo dục người kém, dân chúng sẽ tự khuyên bảo nhau.",
             "binh": "Quí Khang tử là đại thần nước Lỗ"
           },
           {
             "id": "2.21",
-            "hanviet": "Tử viết: Thư vân “Hiếu hồ duy hiếu, hữu ư huynh đệ. Thi ư hữu chính, thị diệc vi chính, hề kỳ vi vi chính ?”",
-            "nghia": "Có người hỏi Khổng tử: Sao Thầy không ra làm chính trị ? Khổng tử đáp: Kinh Thượng Thư viết rằng “Ta chỉ thực hiện đạo hiếu, sống với anh em. Phổ biến đạo ra khắp chính trường, cũng là làm chính trị rồi, cứ gì phải ra làm chính trị ?”.",
+            "hanviet": "Tử viết: Thư vân “Hiếu hồ duy hiếu, hữu ư huynh đệ. Thi ư hữu chính, thị diệc vi chính, hề kỳ vi vi chính?”",
+            "nghia": "Có người hỏi Khổng tử: Sao Thầy không ra làm chính trị? Khổng tử đáp: Kinh Thượng Thư viết rằng “Ta chỉ thực hiện đạo hiếu, sống với anh em. Phổ biến đạo ra khắp chính trường, cũng là làm chính trị rồi, cứ gì phải ra làm chính trị?”.",
             "binh": "Khổng tử tin rằng mình khuyên dạy các nhà chính trị, như vậy cũng là làm chính trị"
           },
           {
             "id": "2.22",
             "hanviet": "Tử viết: “Nhân nhi vô tín, bất tri kỳ hà dã. Đại xa vô nghê, tiểu xa vô nghê, kỳ hà dĩ hành chi tai”.",
-            "nghia": "Khổng tử nói: Người không có chữ tín, chẳng biết sẽ làm được việc gì. Cỗ xe lớn không có chốt (hãm), cỗ xe nhỏ cũng không có chốt thì làm sao chạy được ?!.",
+            "nghia": "Khổng tử nói: Người không có chữ tín, chẳng biết sẽ làm được việc gì. Cỗ xe lớn không có chốt (hãm), cỗ xe nhỏ cũng không có chốt thì làm sao chạy được.",
             "binh": ""
           },
           {
             "id": "2.23",
-            "hanviet": "Tử Trương vấn: “Thập thế khả tri dã ?”. Tử viết: “Ân nhân ư Hạ lễ, sở tổn ích khả tri dã; Chunhân ư Ân lễ, sở tổn ích khả tri dã. Kỳ hoặc kếChugiả, tuy bách thế, khả tri dã”. Tử",
-            "nghia": "Trương hỏi: Có thể biết được (về lễ) 10 đời sau không ? Khổng tử đáp: Nhà Ân dựa theo lễ nhà Hạ, bớt hay thêm có thể hiểu được. Nhà Chu theo lễ nhà Ân, thêm bớt có thể hiểu được. Tương lai nhà Chu hoặc trăm đời sau cũng có thể đoán được.",
+            "hanviet": "Tử Trương vấn: “Thập thế khả tri dã?”. Tử viết: “Ân nhân ư Hạ lễ, sở tổn ích khả tri dã; Chunhân ư Ân lễ, sở tổn ích khả tri dã. Kỳ hoặc kếChugiả, tuy bách thế, khả tri dã”. Tử",
+            "nghia": "Trương hỏi: Có thể biết được (về lễ) 10 đời sau không? Khổng tử đáp: Nhà Ân dựa theo lễ nhà Hạ, bớt hay thêm có thể hiểu được. Nhà Chu theo lễ nhà Ân, thêm bớt có thể hiểu được. Tương lai nhà Chu hoặc trăm đời sau cũng có thể đoán được.",
             "binh": ""
           },
           {
@@ -274,26 +274,26 @@ const TU_THU_LIBRARY = {
         "passages": [
           {
             "id": "3.1",
-            "hanviet": ": , Khổng tử vị Quí Thị: Bát Dật vũ ư đình, thị khả nhẫn, thục bất khả nhẫn dã!",
-            "nghia": "Khổng tử nói về Quí Thị: Múa điệu Bát Dật ở sân đình, sự ấy chấp nhận được thì việc gì chẳng dám làm ! Khổng tử sống vào thời Xuân thu, thời này có hai bậc vua. Thiên tử (hoàng đế nhà Chu) là vua lớn nhất bao trùm Trung Hoa, mỗi nước chư hầu có một vua (hầu), dưới vua chư hầu là quan đại phu, dưới quan đại phu là quan sĩ, dưới nữa là gia thần. Kinh Lễ của nhà Chu qui định mọi thứ quyền lợi, nghi thức kể cả trang phục, lối giải trí văn nghệ…gắn liền với cấp bậc. Khổng tử cho rằng nếu vi phạm một lễ, dù nhỏ (như nhảy múa) thì sau có thể vi phạm lớn hơn, thậm chí làm phản. Ngài phê phán Quí Thị lúc này mới giữ chức đại phu nước Lỗ mà dám cho nhảy múa theo nghi thức thiên tử nhà Chu !… Thực tế giai đoạn này (Đông Chu từ 778 đến 256 trCN) đã nảy sinh một bậc vua thứ 2 chen vào giữa đế và hầu, gọi là vương (hoặc bá). Bá vương chỉ muốn chinh phục các chư hầu mà ngoi lên ngôi đế… Do vương chưa được danh chính ngôn thuận nên chưa có lễ qui định. Khổng tử chỉ thừa nhận có hai bậc là đế và hầu. Nhiều thời phong kiến về sau, các vua chúa chính thức đặt ra tước vương để làm yên lòng công thần và hoàng tộc nhưng không phong đất.)",
+            "hanviet": ", Khổng tử vị Quí Thị: Bát Dật vũ ư đình, thị khả nhẫn, thục bất khả nhẫn dã!",
+            "nghia": "Khổng tử nói về Quí Thị: Múa điệu Bát Dật ở sân đình, sự ấy chấp nhận được thì việc gì chẳng dám làm! Khổng tử sống vào thời Xuân thu, thời này có hai bậc vua. Thiên tử (hoàng đế nhà Chu) là vua lớn nhất bao trùm Trung Hoa, mỗi nước chư hầu có một vua (hầu), dưới vua chư hầu là quan đại phu, dưới quan đại phu là quan sĩ, dưới nữa là gia thần. Kinh Lễ của nhà Chu qui định mọi thứ quyền lợi, nghi thức kể cả trang phục, lối giải trí văn nghệ…gắn liền với cấp bậc. Khổng tử cho rằng nếu vi phạm một lễ, dù nhỏ (như nhảy múa) thì sau có thể vi phạm lớn hơn, thậm chí làm phản. Ngài phê phán Quí Thị lúc này mới giữ chức đại phu nước Lỗ mà dám cho nhảy múa theo nghi thức thiên tử nhà Chu!… Thực tế giai đoạn này (Đông Chu từ 778 đến 256 trCN) đã nảy sinh một bậc vua thứ 2 chen vào giữa đế và hầu, gọi là vương (hoặc bá). Bá vương chỉ muốn chinh phục các chư hầu mà ngoi lên ngôi đế… Do vương chưa được danh chính ngôn thuận nên chưa có lễ qui định. Khổng tử chỉ thừa nhận có hai bậc là đế và hầu. Nhiều thời phong kiến về sau, các vua chúa chính thức đặt ra tước vương để làm yên lòng công thần và hoàng tộc nhưng không phong đất.)",
             "binh": "Theo qui định lễ nhạc nhà Chu, hoàng đế được dùng 8 đội bát dật, mỗi đội 8 người (8 x 8 = 64 vũ công), vua chư hầu được dùng 6 đội, quan đại phu dùng 4 đội, quan sĩ dùng 2 đội. Họ Quí là đại phu mà dám dùng 8 đội, vậy là khi quân phạm thượng."
           },
           {
             "id": "3.2",
-            "hanviet": ":„,‟, Tam gia giả dĩ Ung triệt. Tử viết: Tướng duy tịch công, thiên tử mục mục, hề thủ ư tam gia chi đường ?",
-            "nghia": "Ba đại gia tấu bài nhạc “Ung” nghe sau khi cúng lễ. Khổng tử nói: “Trợ tế là vua chư hầu hoặc thiên tử chủ tế uy nghiêm sâu xa, bây giờ ba nhà làm thế là có ý gì ?”",
+            "hanviet": "„,‟, Tam gia giả dĩ Ung triệt. Tử viết: Tướng duy tịch công, thiên tử mục mục, hề thủ ư tam gia chi đường?",
+            "nghia": "Ba đại gia tấu bài nhạc “Ung” nghe sau khi cúng lễ. Khổng tử nói: “Trợ tế là vua chư hầu hoặc thiên tử chủ tế uy nghiêm sâu xa, bây giờ ba nhà làm thế là có ý gì?”",
             "binh": "Ba vị đại phu nước Lỗ là Trọng Tôn, Thúc Tôn, Quí Tôn lén dùng lễ chế thiên tử, tế tự xong còn ca tụng nhạc “Ung”. Khổng tử cảnh báo ba người ấy dám chơi bản nhạc “Ung” tức là phạm thượng, có mầm mống phản nghịch"
           },
           {
             "id": "3.3",
-            "hanviet": "Tử viết: “Nhân nhi bất nhân, như lễ hà ? Nhân nhi bất nhân, như nhạc hà ?”",
-            "nghia": "Khổng tử nói: Một người bất nhân, coi chữ lễ có ra gì ? Một người không có lòng nhân sao có thể tấu nhạc? Quan điểm mỹ học của Khổng tử bền vững muôn đời và rất hiện đại. Ngày nay chúng ta nghĩ đến phần lớn âm nhạc trẻ dễ dãi đầu thế kỷ 21, game onlines. v.v…thật nhố nhăng, chỉ là giải trí giết thời gian. Lại nghĩ đến mối quan hệ biện chứng giữa nội dung và hình thức, nếu hình thức nhố nhăng (nhạc, game) có thể gây tác động xấu, dần dần tác hại vào bản chất của “nhân”)",
+            "hanviet": "Tử viết: “Nhân nhi bất nhân, như lễ hà? Nhân nhi bất nhân, như nhạc hà?”",
+            "nghia": "Khổng tử nói: Một người bất nhân, coi chữ lễ có ra gì? Một người không có lòng nhân sao có thể tấu nhạc? Quan điểm mỹ học của Khổng tử bền vững muôn đời và rất hiện đại. Ngày nay chúng ta nghĩ đến phần lớn âm nhạc trẻ dễ dãi đầu thế kỷ 21, game onlines. v.v…thật nhố nhăng, chỉ là giải trí giết thời gian. Lại nghĩ đến mối quan hệ biện chứng giữa nội dung và hình thức, nếu hình thức nhố nhăng (nhạc, game) có thể gây tác động xấu, dần dần tác hại vào bản chất của “nhân”)",
             "binh": "nhân là cốt lõi chi phối tất cả, lễ và nhạc là hình thức bên ngoài, thiếu “nhân” thì “lễ và nhạc” chỉ là phô trương giả dối, sẽ không có tác dụng gì tốt. Như vậy lễ-nhạc- nhân là một thể hữu cơ thống nhất."
           },
           {
             "id": "3.4",
-            "hanviet": "Lâm Phóng vấn lễ chi bản. Tử viết: “Đại tai vấn ! Lễ, dự kỳ xa, ninh kiệm; Tang, dự kỳ dị dã, ninh thích.”",
-            "nghia": "Lâm Phóng (người nước Lỗ) hỏi về bản chất của lễ. Khổng tử nói: Vấn đề này rất quan trọng ! Lễ nói chung mà đi kèm với xa hoa, không bằng tiết kiệm. Đám tang mà cầu kỳ phô trương, chẳng bằng đau buồn trong lòng.",
+            "hanviet": "Lâm Phóng vấn lễ chi bản. Tử viết: “Đại tai vấn! Lễ, dự kỳ xa, ninh kiệm; Tang, dự kỳ dị dã, ninh thích.”",
+            "nghia": "Lâm Phóng (người nước Lỗ) hỏi về bản chất của lễ. Khổng tử nói: Vấn đề này rất quan trọng! Lễ nói chung mà đi kèm với xa hoa, không bằng tiết kiệm. Đám tang mà cầu kỳ phô trương, chẳng bằng đau buồn trong lòng.",
             "binh": ""
           },
           {
@@ -304,20 +304,20 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "3.6",
-            "hanviet": "Quí Thị lữ ư Thái Sơn, Tử vị Nhiễm Hữu viết: “Nhữ phất năng cứu dự? Đối viết “Bất năng”. Tử viết: “Ô hô ! Tằng vị Thái Sơn bất như Lâm Phóng hồ ?”.",
+            "hanviet": "Quí Thị lữ ư Thái Sơn, Tử vị Nhiễm Hữu viết: “Nhữ phất năng cứu dự? Đối viết “Bất năng”. Tử viết: “Ô hô! Tằng vị Thái Sơn bất như Lâm Phóng hồ?”.",
             "nghia": "Quí Thị đi lễ núi Thái Sơn, Khổng tử nói với Nhiễm Hữu rằng: “Ngươi không can thiệp việc đó ư?”. Nhiễm Hữu đáp: “Không thể được!”. Không tử nói: “Than ôi, đã như thần núi Thái Sơn lại không bằng Lâm Phóng ư?”.",
-            "binh": "Núi Thái Sơn ở nước Lỗ (tỉnh Sơn Đông ngày nay) rất linh thiêng, thiên tử ủy nhiệm vua Lỗ đi cúng tế, vậy mà Quí Thị đại phu nước Lỗ dám vượt lễ đi cúng. Khổng tử trách thần núi Thái Sơn vẫn nhận lễ của Quí Thị tức là không bằng Lâm Phóng một người dân Lỗ hiểu biết lễ (xem lại câu 3.4 ở trên)."
+            "binh": "Núi Thái Sơn ở nước Lỗ (tỉnh Sơn Đông ngày nay) rất linh thiêng, thiên tử ủy nhiệm vua Lỗ đi cúng tế, vậy mà Quí Thị đại phu nước Lỗ dám vượt lễ đi cúng. Khổng tử trách thần núi Thái Sơn vẫn nhận lễ của Quí Thị tức là không bằng Lâm Phóng một người dân Lỗ hiểu biết lễ (xem lại câu 3. 4 ở trên)."
           },
           {
             "id": "3.7",
-            "hanviet": "Tử viết: “Quân tử vô sở tranh, tất dã xạ hồ ! Ấp nhượng nhi thăng, hạ nhi ẩm, kỳ tranh dã quân tử”.",
+            "hanviet": "Tử viết: “Quân tử vô sở tranh, tất dã xạ hồ! Ấp nhượng nhi thăng, hạ nhi ẩm, kỳ tranh dã quân tử”.",
             "nghia": "Khổng tử nói: “Quân tử không cần tranh đua, có thể tranh đua khi bắn cung thôi. Vái chào khi bước lên bắn, xong ngồi uống rượu nâng chén mừng nhau – đó mới chính là lối tranh đua của quân tử”.",
             "binh": "Tranh đua cũng như thi bắn cung, cần trổ tài hết sức, nhưng vẫn phải giữ lễ với nhau. Bắn cung là môn thi không đối kháng, còn dễ thực hiện. Như môn thi đối kháng thì quả là khó giữ chữ Lễ, vậy cần phải có luật chơi và trọng tài rắn"
           },
           {
             "id": "3.8",
-            "hanviet": "Tử Hạ vấn viết: “Xảo tiếu thiến hề, mỹ mục phán hề. Tố dĩ vi huyến hề. Hà vi dã ?”. Tử viết: “Hội sự hậu tố”. Tử Hạ viết: “Lễ hậu hồ?”. Tử viết “Khởi dư giả thương dã, thỉ khả dữ ngôn thi dĩ hĩ ”. Tử",
-            "nghia": "Hạ hỏi: “Cười khéo đẹp làm sao, đôi mắt thật có duyên. Nền trắng vẽ bức tranh rực rỡ”. Kinh Thi nói thế nghĩa là gì ? Khổng tử đáp: Phải có nền trắng đẹp trước, sau mới vẽ tranh. Tử Hạ tiếp: Vậy lễ nhạc cũng đến sau “nhân”ư ? Khổng tử nói: Như thế là trò hiểu biết đấy, ngươi có thể cùng ta thảo luận Kinh Thi được rồi.",
+            "hanviet": "Tử Hạ vấn viết: “Xảo tiếu thiến hề, mỹ mục phán hề. Tố dĩ vi huyến hề. Hà vi dã?”. Tử viết: “Hội sự hậu tố”. Tử Hạ viết: “Lễ hậu hồ?”. Tử viết “Khởi dư giả thương dã, thỉ khả dữ ngôn thi dĩ hĩ”. Tử",
+            "nghia": "Hạ hỏi: “Cười khéo đẹp làm sao, đôi mắt thật có duyên. Nền trắng vẽ bức tranh rực rỡ”. Kinh Thi nói thế nghĩa là gì? Khổng tử đáp: Phải có nền trắng đẹp trước, sau mới vẽ tranh. Tử Hạ tiếp: Vậy lễ nhạc cũng đến sau “nhân”ư? Khổng tử nói: Như thế là trò hiểu biết đấy, ngươi có thể cùng ta thảo luận Kinh Thi được rồi.",
             "binh": "Nhân đức và lễ là nền tảng của nghệ thuật, kẻ bất nhân không thể làm nghệ sĩ tử tế được"
           },
           {
@@ -334,7 +334,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "3.11",
-            "hanviet": ",,! Hoặc vấn Đế chi thuyết, Tử viết: Bất tri dã. Tri kỳ thuyết giả chi ư thiên hạ dã, kỳ như kì chư tư hồ ! Chỉ kỳ chưởng.",
+            "hanviet": ",! Hoặc vấn Đế chi thuyết, Tử viết: Bất tri dã. Tri kỳ thuyết giả chi ư thiên hạ dã, kỳ như kì chư tư hồ! Chỉ kỳ chưởng.",
             "nghia": "Có người hỏi về chuyện tế Đế (hoàng đế cúng tế tổ tiên và trời), Khổng tử đáp: “Ta không biết. Người biết việc ấy thì cai trị thiên hạ cũng dễ như đưa vật vào chỗ này”, Khổng tử chỉ vào bàn tay.",
             "binh": ""
           },
@@ -347,7 +347,7 @@ const TU_THU_LIBRARY = {
           {
             "id": "3.13",
             "hanviet": "Vương Tôn Giả vấn viết: “Dự kỳ mị ư Áo, ninh mị ư Táo, hà vị dã?”. Tử viết: “Bất nhiên. Hoạch tội ư thiên, vô sở đảo dã.” Vương Tôn",
-            "nghia": "Giả hỏi: “Nịnh thần Áo, chẳng bằng nịnh thần Táo” nghĩa là sao ? Khổng tử đáp: Không đúng. Định tội do Trời, còn nơi nào để cầu xin!",
+            "nghia": "Giả hỏi: “Nịnh thần Áo, chẳng bằng nịnh thần Táo” nghĩa là sao? Khổng tử đáp: Không đúng. Định tội do Trời, còn nơi nào để cầu xin!",
             "binh": "Thần Áo thờ ở nhà trên, thần Táo thờ ở dưới bếp. Thần Táo lo việc ăn no mặc ấm nên người dân nghèo coi trọng hơn thần Áo… Khổng tử bảo không nên phân biệt đối xử các thần, Trời cao sẽ phán xét tất cả)."
           },
           {
@@ -359,7 +359,7 @@ const TU_THU_LIBRARY = {
           {
             "id": "3.15",
             "hanviet": "Tử nhập thái miếu, mỗi sự vấn. Hoặc viết: “Thục vị Trâu nhân chi Tử tri lễ hồ? Nhập thái miếu, mỗi sự vấn”. Tử văn chi, viết: “Thị lễ dã”.",
-            "nghia": "Khổng tử đi vào thái miếu (nước Lỗ), gặp mỗi việc đều hỏi kỹ. Có người nói: “Ai bảo con trai ấp Trâu (chỉ Khổng tử) biết lễ ? Anh ta đến thái miếu mà cái gì cũng không biết, phải hỏi”. Khổng tử nói: “Thế là biết lễ vậy”.",
+            "nghia": "Khổng tử đi vào thái miếu (nước Lỗ), gặp mỗi việc đều hỏi kỹ. Có người nói: “Ai bảo con trai ấp Trâu (chỉ Khổng tử) biết lễ? Anh ta đến thái miếu mà cái gì cũng không biết, phải hỏi”. Khổng tử nói: “Thế là biết lễ vậy”.",
             "binh": ""
           },
           {
@@ -370,8 +370,8 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "3.17",
-            "hanviet": "Tử Cống dục khứ cáo sóc chi hí dương. Tử viết: “Tứ dã ! Nhĩ ái kỳ dương, ngã ái kỳ lễ”.",
-            "nghia": "Tử Cống làm lễ sóc muốn bỏ tục lệ cúng dê. Khổng tử nói “anh Tứ này ! Ngươi yêu dê của ngươi, ta tiếc lễ của ta”.",
+            "hanviet": "Tử Cống dục khứ cáo sóc chi hí dương. Tử viết: “Tứ dã! Nhĩ ái kỳ dương, ngã ái kỳ lễ”.",
+            "nghia": "Tử Cống làm lễ sóc muốn bỏ tục lệ cúng dê. Khổng tử nói “anh Tứ này! Ngươi yêu dê của ngươi, ta tiếc lễ của ta”.",
             "binh": "lễ Sóc là ngày mồng một đầu tháng, theo Lỗ lễ qui định cúng một con dê. Vua Lỗ bỏ không cúng dê nhưng vẫn bắt dân nộp dê. Tử Cống bèn đòi bỏ luôn tục cúng dê. Khổng tử bất đồng, kiên trì giữ lễ, nên nói rằng cúng con dê là nhắc ta giữ lễ)."
           },
           {
@@ -383,7 +383,7 @@ const TU_THU_LIBRARY = {
           {
             "id": "3.19",
             "hanviet": "Định Công vấn: “Quân sử thần, thần sự quân, như chi hà? Khổng tử đối viết: Quân sử thần dĩ lễ, thần sự quân dĩ trung. Vua Lỗ Định",
-            "nghia": "Công hỏi: Vua sai khiển bề tôi, bề tôi phụng sự vua, phải như thế nào là tốt ? Khổng tử thưa: Vua sử dụng bề tôi theo lễ, bề tôi thờ vua phải trung thành.",
+            "nghia": "Công hỏi: Vua sai khiển bề tôi, bề tôi phụng sự vua, phải như thế nào là tốt? Khổng tử thưa: Vua sử dụng bề tôi theo lễ, bề tôi thờ vua phải trung thành.",
             "binh": ""
           },
           {
@@ -394,14 +394,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "3.21",
-            "hanviet": "Ai Công vấn xã ư Tể Ngã, Tể Ngã đối viết: Hạ hậu thị dĩ tùng, Ân nhân dĩ bách,Chunhân dĩ lật, viết: Sử dân chiến lật”. Tử văn chi, viết: “Thành sự bất thuyết, toại sự bất gián, ký vãng bất cữu”.",
+            "hanviet": "Ai Công vấn xã ư Tể Ngã, Tể Ngã đối viết: Hạ hậu thị dĩ tùng, Ân nhân dĩ bách, Chunhân dĩ lật, viết: Sử dân chiến lật”. Tử văn chi, viết: “Thành sự bất thuyết, toại sự bất gián, ký vãng bất cữu”.",
             "nghia": "Lỗ Ai Công hỏi Tể Ngã về việc lập đàn xã, Tể Ngã trả lời: Đời Hạ dùng cây tùng, đời Ân dùng cây bách, đời Chu dùng cây lật là có ý khiến cho dân nhìn thấy cây lật mà sợ hãi”. Khổng tử nghe biết, trách Tể Ngã rằng “Việc đã thành, không nên nói lại. Việc nhất định xảy ra, không nên can ngăn. Việc đã qua, không nên trách”. Xã () là thần Đất và tắc () là thần Lúa. Nhà vua mỗi năm có nhiệm vụ thay mặt dân chúng tế lễ ở bàn thờ xã tắc. Nếu là một giang sơn thì ắt phải có xã tắc vậy).",
             "binh": "Xã là nơi thờ thần đất, triều đại nào thích cây gì trồng cây đó hoặc tùy theo chất đất. Cái tên cây không có ý nghĩa gì. Tể Ngã thuyết minh về 3 loại cây là có ý xui vua dựng đàn xã sao cho dân sợ. Khổng tử không hài lòng, có ý trách Tể Ngã."
           },
           {
             "id": "3.22",
-            "hanviet": "Tử viết: Quản Trọng chi khí tiểu tai ! Hoặc viết: Quản Trọng kiệm hồ ? Viết: Quản thị hữu tam quy, quan sự bất nhiếp, yên đắc kiệm ? Nhiên tắc Quản Trọng tri lễ hồ ?. Viết: Bang quân thụ tắc môn, Quản thị diệc thụ tắc môn; Bang quân vi lưỡng quân chi hảo hữu phản điếm, Quản thị diệc hữu phản điếm. Quản thị nhi tri lễ, thục bất tri lễ ?",
-            "nghia": "Khổng tử nói: Quản Trọng bụng dạ hẹp hòi. Có người hỏi: Hay là Quản Trọng tiết kiệm ? Khổng tử nói: Quản Trọng qui ra ba lỗi, thu nhiều thuế má của dân thị thành, trong nhà nuôi nhiều đầy tớ, mỗi người chỉ làm một việc không kiêm nhiệm, thế sao gọi là tiết kiệm ? Người kia hỏi tiếp: Quản Trọng có biết lễ không ? Khổng tử đáp: Vua chư hầu dựng bình phong trước nhà, Quản Trọng cũng dựng bình phong trước nhà. Vua chư hầu mở tiệc tiếp vua khác được dùng giá úp chén, Quản Trọng đãi khách cũng dùng giá úp chén. Ôi Quản Trọng mà biết lễ, thì còn ai không biết lễ !",
+            "hanviet": "Tử viết: Quản Trọng chi khí tiểu tai! Hoặc viết: Quản Trọng kiệm hồ? Viết: Quản thị hữu tam quy, quan sự bất nhiếp, yên đắc kiệm? Nhiên tắc Quản Trọng tri lễ hồ. Viết: Bang quân thụ tắc môn, Quản thị diệc thụ tắc môn; Bang quân vi lưỡng quân chi hảo hữu phản điếm, Quản thị diệc hữu phản điếm. Quản thị nhi tri lễ, thục bất tri lễ?",
+            "nghia": "Khổng tử nói: Quản Trọng bụng dạ hẹp hòi. Có người hỏi: Hay là Quản Trọng tiết kiệm? Khổng tử nói: Quản Trọng qui ra ba lỗi, thu nhiều thuế má của dân thị thành, trong nhà nuôi nhiều đầy tớ, mỗi người chỉ làm một việc không kiêm nhiệm, thế sao gọi là tiết kiệm? Người kia hỏi tiếp: Quản Trọng có biết lễ không? Khổng tử đáp: Vua chư hầu dựng bình phong trước nhà, Quản Trọng cũng dựng bình phong trước nhà. Vua chư hầu mở tiệc tiếp vua khác được dùng giá úp chén, Quản Trọng đãi khách cũng dùng giá úp chén. Ôi Quản Trọng mà biết lễ, thì còn ai không biết lễ!",
             "binh": ""
           },
           {
@@ -412,7 +412,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "3.24",
-            "hanviet": "Nghi phong nhân thỉnh kiến, viết: “Quân tử chi chí ư tư dã, ngô vị thưởng bất đắc kiến dã”. Tòng giả kiến chi. Xuất viết: “Nhị tam tử hà hoạn ư tang hồ ? Thiên hạ chi vô đạo dã cửu hĩ, thiên tương dĩ phu tử vi mộc đạc”.",
+            "hanviet": "Nghi phong nhân thỉnh kiến, viết: “Quân tử chi chí ư tư dã, ngô vị thưởng bất đắc kiến dã”. Tòng giả kiến chi. Xuất viết: “Nhị tam tử hà hoạn ư tang hồ? Thiên hạ chi vô đạo dã cửu hĩ, thiên tương dĩ phu tử vi mộc đạc”.",
             "nghia": "Quan trấn thủ ấp Nghi xin gặp (Khổng tử), nói: “Quân tử các nơi đến đây, chưa có ai tôi chưa được tiếp kiến”. Học trò dẫn vào gặp Khổng tử. Khi trở ra, vị quan đó nói với học trò của thầy Khổng: “Các vị đừng lo buồn việc Khổng tử mất chức. Thiên hạ vô đạo đã lâu, trời sai Khổng tử làm cái mõ cây (gõ mõ cảnh báo người đời).",
             "binh": "Khổng tử từ bỏ chức tướng quốc nước Lỗ, đi chu du sang nước Vệ, ở đây gặp quan ấp tên Nghi. Ông Nghi sùng bái, đánh giá cao vai trò thầy Khổng còn hơn mọi chức quan"
           },
@@ -425,7 +425,7 @@ const TU_THU_LIBRARY = {
           {
             "id": "3.26",
             "hanviet": "Tử viết: Cư thượng bất khoan, vi lễ bất kính, lâm tang bất ai, ngô hà dĩ quan chi tai?”.",
-            "nghia": "Khổng tử nói: Cấp trên thiếu khoan dung kẻ dưới, hành lễ thiếu kính cẩn, gặp việc tang không đau buồn, làm sao ta có thể chịu họ được ? Hết thiên 3",
+            "nghia": "Khổng tử nói: Cấp trên thiếu khoan dung kẻ dưới, hành lễ thiếu kính cẩn, gặp việc tang không đau buồn, làm sao ta có thể chịu họ được? Hết thiên 3",
             "binh": ""
           }
         ]
@@ -438,8 +438,8 @@ const TU_THU_LIBRARY = {
         "passages": [
           {
             "id": "4.1",
-            "hanviet": "Tử viết: “Lý nhân vi mỹ, trạch bất xứ nhân, yên đắc tri ?”",
-            "nghia": "Khổng tử viết: Ở nơi có nhân đức là tốt đẹp, sống nơi thiếu nhân đức sao gọi là hiểu biết ?",
+            "hanviet": "Tử viết: “Lý nhân vi mỹ, trạch bất xứ nhân, yên đắc tri?”",
+            "nghia": "Khổng tử viết: Ở nơi có nhân đức là tốt đẹp, sống nơi thiếu nhân đức sao gọi là hiểu biết?",
             "binh": ""
           },
           {
@@ -462,19 +462,19 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "4.5",
-            "hanviet": "Tử viết: Phú dữ quí, thị nhân chi sở dục dã. Bất dĩ kỳ đạo đắc chi, bất xứ dã; Bần dữ tiện, thị nhân chi sở ố dã; bất dĩ kỳ đạo đắc chi, bất khứ dã. Quân tử khứ nhân, ố hồ thành danh ? Quân tử vô chung thực chi gian vi nhân, tạo thứ tất ư thị, điên phái tất ư thị.",
-            "nghia": "Khổng tử viết: Giàu và sang thì ai cũng thích. Không dùng đạo nhân mà đạt được thì không nên chọn làm. Nghèo và thấp hèn, chẳng ai thích. Không dùng đạo nhân để thoát nghèo hèn thì không làm. Người quân tử mà bỏ mất điều nhân, sao có thể gọi là quân tử ? Quân tử không làm trái điều nhân dù chỉ trong khoảng cách một bữa ăn (*), dù vội vã cấp thiết cũng không như vậy, dù phải khốn cùng phiêu dạt cũng không xa rời đạo nhân.",
+            "hanviet": "Tử viết: Phú dữ quí, thị nhân chi sở dục dã. Bất dĩ kỳ đạo đắc chi, bất xứ dã; Bần dữ tiện, thị nhân chi sở ố dã; bất dĩ kỳ đạo đắc chi, bất khứ dã. Quân tử khứ nhân, ố hồ thành danh? Quân tử vô chung thực chi gian vi nhân, tạo thứ tất ư thị, điên phái tất ư thị.",
+            "nghia": "Khổng tử viết: Giàu và sang thì ai cũng thích. Không dùng đạo nhân mà đạt được thì không nên chọn làm. Nghèo và thấp hèn, chẳng ai thích. Không dùng đạo nhân để thoát nghèo hèn thì không làm. Người quân tử mà bỏ mất điều nhân, sao có thể gọi là quân tử? Quân tử không làm trái điều nhân dù chỉ trong khoảng cách một bữa ăn (*), dù vội vã cấp thiết cũng không như vậy, dù phải khốn cùng phiêu dạt cũng không xa rời đạo nhân.",
             "binh": "* “Trong khoảng cách một bữa ăn”: tức là trong nửa ngày quân tử cũng không quên làm điều nhân đức)."
           },
           {
             "id": "4.6",
-            "hanviet": "Tử viết: Ngã vị kiến hảo nhân giả, ố bất nhân giả. Hiếu nhân giả vô dĩ thượng chi; Ố bất nhân giả, kỳ vi nhân hĩ, bất sử bất nhân giả gia hồ kỳ thân. Hữu năng nhất nhật dụng kỳ lực ư nhân hĩ hồ ? Ngã vị kiến lực bất túc giả. Cái hữu chi hĩ, ngã vị chi kiến dã.",
-            "nghia": "Khổng tử nói: Ta chưa thấy người nào thích điều nhân và ghét kẻ bất nhân. Người có nhân không đặt cái gì trên chữ nhân. Người ghét điều ác, thực tế biết làm điều nhân, không chịu thân thích với kẻ bất nhân. Có ai dốc sức làm điều nhân suốt ngày chưa ? Ta chưa thấy người đạt điều nhân mà không phải dốc sức rèn luyện. Có người không cần dốc sức cũng làm được điều nhân, nhưng ta chưa thấy bao giờ.",
+            "hanviet": "Tử viết: Ngã vị kiến hảo nhân giả, ố bất nhân giả. Hiếu nhân giả vô dĩ thượng chi; Ố bất nhân giả, kỳ vi nhân hĩ, bất sử bất nhân giả gia hồ kỳ thân. Hữu năng nhất nhật dụng kỳ lực ư nhân hĩ hồ? Ngã vị kiến lực bất túc giả. Cái hữu chi hĩ, ngã vị chi kiến dã.",
+            "nghia": "Khổng tử nói: Ta chưa thấy người nào thích điều nhân và ghét kẻ bất nhân. Người có nhân không đặt cái gì trên chữ nhân. Người ghét điều ác, thực tế biết làm điều nhân, không chịu thân thích với kẻ bất nhân. Có ai dốc sức làm điều nhân suốt ngày chưa? Ta chưa thấy người đạt điều nhân mà không phải dốc sức rèn luyện. Có người không cần dốc sức cũng làm được điều nhân, nhưng ta chưa thấy bao giờ.",
             "binh": ""
           },
           {
             "id": "4.7",
-            "hanviet": "Tử viết: Nhân chi quá dã, các ư kỳ đảng.Quan quá, tư tri nhân hĩ.",
+            "hanviet": "Tử viết: Nhân chi quá dã, các ư kỳ đảng. Quan quá, tư tri nhân hĩ.",
             "nghia": "Khổng tử nói: Người mắc sai lầm, còn tùy theo loại người nào. Nhìn sai lầm của họ, ta biết có phải người đức nhân không.",
             "binh": "Có nhiều kiểu sai lầm, quân tử cũng có thể mắc sai lầm nhưng vẫn khác với sai lầm của kẻ tiểu nhân)."
           },
@@ -498,7 +498,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "4.11",
-            "hanviet": ", Tử viết: quân tử hoài đức, tiểu nhân hoài thổ; Quân tử hoài hình, tiểu nhân hoài huệ Quân tử coi trọng hình thức phép tắc, tiểu nhân chỉ mong ân huệ.",
+            "hanviet": "Tử viết: quân tử hoài đức, tiểu nhân hoài thổ; Quân tử hoài hình, tiểu nhân hoài huệ Quân tử coi trọng hình thức phép tắc, tiểu nhân chỉ mong ân huệ.",
             "nghia": "Khổng tử nói: Quân tử nghĩ đến đạo đức, tiểu nhân nghĩ đến đất đai.",
             "binh": ""
           },
@@ -510,19 +510,19 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "4.13",
-            "hanviet": "Tử viết: Năng dĩ lễ nhượng vi quốc hồ, hà hữu ? Bất năng dĩ lễ nhượng vi quốc, như lễ hà ?",
-            "nghia": "Khổng tử nói: Dùng lễ nhượng để trị quốc, được không ? Nếu không dùng lễ nhượng để trị quốc được thì lễ còn có tác dụng gì nữa.",
+            "hanviet": "Tử viết: Năng dĩ lễ nhượng vi quốc hồ, hà hữu? Bất năng dĩ lễ nhượng vi quốc, như lễ hà?",
+            "nghia": "Khổng tử nói: Dùng lễ nhượng để trị quốc, được không? Nếu không dùng lễ nhượng để trị quốc được thì lễ còn có tác dụng gì nữa.",
             "binh": "“lễ nhượng trị quốc” là lãnh đạo mềm dẻo, nhường nhịn lẫn nhau. Chắc hẳn điều này lạc hậu so với thời đại “pháp quyền”. Hình như chế độ “pháp quyền xã hội chủ nghĩa” ưa dùng “lễ nhượng” kiểu Khổng tử"
           },
           {
             "id": "4.14",
-            "hanviet": ". Tử viết: Bất hoạn vô vị, hoạn sở dĩ lập; Bất hoạn mạc kỷ tri, cầu vi khả tri dã.",
+            "hanviet": "Tử viết: Bất hoạn vô vị, hoạn sở dĩ lập; Bất hoạn mạc kỷ tri, cầu vi khả tri dã.",
             "nghia": "Khổng tử nói: Chẳng lo buồn vì không có địa vị, chỉ lo không có đức tài xứng với địa vị ấy. Không cần lo người khác không hiểu mình, nên lo làm sao có năng lực khiến cho người khác biết mình.",
             "binh": ""
           },
           {
             "id": "4.15",
-            "hanviet": "Tử viết: Sâm hồ, ngô đạo nhất dĩ quán chi.”. Tăng tử viết: “Duy”. Tử xuất, môn nhân vấn viết: “Hà vị dã ?”. Tăng tử viết: “Phu tử chi đạo, trung thứ nhi dĩ hĩ”.",
+            "hanviet": "Tử viết: Sâm hồ, ngô đạo nhất dĩ quán chi.”. Tăng tử viết: “Duy”. Tử xuất, môn nhân vấn viết: “Hà vị dã?”. Tăng tử viết: “Phu tử chi đạo, trung thứ nhi dĩ hĩ”.",
             "nghia": "Khổng tử nói: Trò Sâm à, đạo của ta nhất quán một điểm thôi. Tăng tử: Đúng ạ. Khổng tử đi ra, một người khác hỏi: “Thầy nói như vậy có ý gì?”. Tăng tử nói: Đạo của thầy chỉ có một chữ “trung thứ” thôi. [ Chú thích: Tăng tử là Tăng Sâm. Trung nghĩa là trung thành, tận tâm theo đạo nhân. Mình làm được rồi thì muốn người khác cũng làm được (kỷ dục đạt nhi đạt nhân). Thứ là: Cái gì mình không muốn thì cũng đừng làm cho người khác (kỷ sở bất dục, vật thi ư nhân) ]",
             "binh": ""
           },
@@ -540,7 +540,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "4.18",
-            "hanviet": ",,, Tử viết: Sự phụ mẫu kỷ gián, kiến chí bất tòng, hựu kính bất vi, lao nhi bất oán.",
+            "hanviet": ",, Tử viết: Sự phụ mẫu kỷ gián, kiến chí bất tòng, hựu kính bất vi, lao nhi bất oán.",
             "nghia": "Khổng tử nói: Phụng dưỡng cha mẹ phải can ngăn khuyên giải, nếu can không được, vẫn phải tôn kính không làm trái, đừng để cha mẹ mệt vì oán giận.",
             "binh": ""
           },
@@ -620,14 +620,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "5.4",
-            "hanviet": "Tử Cống vấn viết: Tứ dã hà như ? Tử viết: Nhữ, khí dã. Viết: Hà khí dã ? Viết: Hồ liễn dã. Tử Khổng tử: Như cái hồ liễn",
-            "nghia": "Cống hỏi: Tứ là người thế nào ạ? Khổng tử đáp: Ngươi giống như một công cụ. Tử Cống hỏi : Như công cụ nào ? Ý nói Tử Cống (tên là Tứ) là người tài nhưng chỉ giỏi một loại công việc).",
+            "hanviet": "Tử Cống vấn viết: Tứ dã hà như? Tử viết: Nhữ, khí dã. Viết: Hà khí dã? Viết: Hồ liễn dã. Tử Khổng tử: Như cái hồ liễn",
+            "nghia": "Cống hỏi: Tứ là người thế nào ạ? Khổng tử đáp: Ngươi giống như một công cụ. Tử Cống hỏi: Như công cụ nào? Ý nói Tử Cống (tên là Tứ) là người tài nhưng chỉ giỏi một loại công việc).",
             "binh": "Hồ liễn là cái bình đựng thức ăn cúng trong tông miếu"
           },
           {
             "id": "5.5",
-            "hanviet": "Hoặc viết: Ung dã nhân nhi bất nịnh. Tử viết: Yên dụng nịnh ? Ngự nhân dĩ khẩu cấp, lũ tăng ư nhân, bất tri kỳ nhân. Yên dụng nịnh?",
-            "nghia": "Có người nói: Ung là người có đức nhân, không biết nịnh (kém tài ăn nói). Khổng tử nói: Tại sao phải có tài nói khéo? Nhanh mồm miệng để cãi thay cho người ta, thường bị người ta ghét, ta chẳng biết anh ta có nhân không. Sao cần phải nịnh ?",
+            "hanviet": "Hoặc viết: Ung dã nhân nhi bất nịnh. Tử viết: Yên dụng nịnh? Ngự nhân dĩ khẩu cấp, lũ tăng ư nhân, bất tri kỳ nhân. Yên dụng nịnh?",
+            "nghia": "Có người nói: Ung là người có đức nhân, không biết nịnh (kém tài ăn nói). Khổng tử nói: Tại sao phải có tài nói khéo? Nhanh mồm miệng để cãi thay cho người ta, thường bị người ta ghét, ta chẳng biết anh ta có nhân không. Sao cần phải nịnh?",
             "binh": ""
           },
           {
@@ -638,32 +638,32 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "5.7",
-            "hanviet": "Tử viết: Đạo bất hành, thừa phù phù ư hải, tòng ngã giả, kỳ Do dư !. Tử Lộ văn chi hỉ. Tử viết: Do dã hảo dũng quá ngã, vô sở thủ tài.",
+            "hanviet": "Tử viết: Đạo bất hành, thừa phù phù ư hải, tòng ngã giả, kỳ Do dư. Tử Lộ văn chi hỉ. Tử viết: Do dã hảo dũng quá ngã, vô sở thủ tài.",
             "nghia": "Khổng tử viết: Nếu Đạo của ta không được thực hiện, ta sẽ ngồi bè gỗ trôi ra biển, theo ta đi có lẽ chỉ có Trọng Do… Tử Lộ nghe thấy rất vui. Khổng tử nói tiếp: Do này, chí dũng cảm của người cao hơn ta, tìm đâu ra người như thế.",
             "binh": "Khổng tử biểu lộ ý chí quyết tâm truyền bá đạo nhân tới cùng. Ông khen học trò Trọng Do tức Tử Lộ có được đức “dũng” để làm việc nghĩa"
           },
           {
             "id": "5.8",
-            "hanviet": "Mạnh Vũ Bá vấn Tử Lộ nhân hồ ? Tử viết: Bất tri dã. Hựu vấn. Tử viết: “Do dã, thiên thừa chi quốc, khả sử trị kỳ phú dã, bất tri kỳ nhân dã. “Cầu dã hà như?”. Tử viết: “Cầu dã, thiên thất chi ấp, bách thừa chi gia, khả sử vi chi tể dã, bất tri kỳ nhân dã. “Xích dã hà như ?”. Tử viết: Xích dã, thúc đới lập ư triều, khả sử dữ tân khách ngôn dã, bất tri kỳ nhân dã.",
-            "nghia": "Mạnh Vũ Bá hỏi rằng Tử Lộ có đức nhân không. Khổng tử nói: Không biết. Bá lại hỏi. Khổng tử nói: Trọng Do có thể giao quản lý nước nghìn cỗ xe, nhưng ta không biết hắn là người có nhân hay không. Lại hỏi tiếp: “Cầu là người thế nào?”. Khổng tử nói: Nhiễm Cầu có thể giao làm quan tể một ấp có nghìn hộ, chỉ huy lính trăm binh xa, còn nó có nhân hay không, ta không biết. “Còn Công Tây Xích thế nào ?”. Khổng tử đáp: Xích à, mặc lễ phục đứng trong triều đình, phụ trách tiếp đãi khách nước ngoài. Nhưng ta cũng không biết anh ta là người có đức nhân không.",
+            "hanviet": "Mạnh Vũ Bá vấn Tử Lộ nhân hồ? Tử viết: Bất tri dã. Hựu vấn. Tử viết: “Do dã, thiên thừa chi quốc, khả sử trị kỳ phú dã, bất tri kỳ nhân dã. “Cầu dã hà như?”. Tử viết: “Cầu dã, thiên thất chi ấp, bách thừa chi gia, khả sử vi chi tể dã, bất tri kỳ nhân dã. “Xích dã hà như?”. Tử viết: Xích dã, thúc đới lập ư triều, khả sử dữ tân khách ngôn dã, bất tri kỳ nhân dã.",
+            "nghia": "Mạnh Vũ Bá hỏi rằng Tử Lộ có đức nhân không. Khổng tử nói: Không biết. Bá lại hỏi. Khổng tử nói: Trọng Do có thể giao quản lý nước nghìn cỗ xe, nhưng ta không biết hắn là người có nhân hay không. Lại hỏi tiếp: “Cầu là người thế nào?”. Khổng tử nói: Nhiễm Cầu có thể giao làm quan tể một ấp có nghìn hộ, chỉ huy lính trăm binh xa, còn nó có nhân hay không, ta không biết. “Còn Công Tây Xích thế nào?”. Khổng tử đáp: Xích à, mặc lễ phục đứng trong triều đình, phụ trách tiếp đãi khách nước ngoài. Nhưng ta cũng không biết anh ta là người có đức nhân không.",
             "binh": "Con người có năng lực làm việc thì được tín nhiệm. Nhưng phải qua thực tế mới đánh giá được đức nhân của họ)."
           },
           {
             "id": "5.9",
-            "hanviet": "Tử vị Tử Cống viết: “Nhữ dữ Hồi dã thục dũ ?. Đối viết: “Tứ dã hà cảm vọng Hồi ? Hồi dã văn nhất dĩ tri thập, tứ dã văn nhất dĩ tri nhị. Tử viết: “Phất như dã. Ngô dữ nhữ phất như dã.”.",
-            "nghia": "Khổng tử nói với Tử Cống: Ngươi với Nhan Hồi ai giỏi hơn ? Tử Công đáp: Con làm sao dám sánh với Nhan Hồi. Hồi nghe một việc thì suy ra được mười việc, con nghe một việc chỉ suy ra được 2 việc thôi. Khổng tử nói: Chẳng bằng. Ta và ngươi chẳng bằng Hồi.",
+            "hanviet": "Tử vị Tử Cống viết: “Nhữ dữ Hồi dã thục dũ. Đối viết: “Tứ dã hà cảm vọng Hồi? Hồi dã văn nhất dĩ tri thập, tứ dã văn nhất dĩ tri nhị. Tử viết: “Phất như dã. Ngô dữ nhữ phất như dã.”.",
+            "nghia": "Khổng tử nói với Tử Cống: Ngươi với Nhan Hồi ai giỏi hơn? Tử Công đáp: Con làm sao dám sánh với Nhan Hồi. Hồi nghe một việc thì suy ra được mười việc, con nghe một việc chỉ suy ra được 2 việc thôi. Khổng tử nói: Chẳng bằng. Ta và ngươi chẳng bằng Hồi.",
             "binh": "Thế giới bao la phong phú nhưng việc này có liên quan với việc kia. Học cần biết suy luận từ việc này đến việc khác theo các qui luật biện chứng…Tử Cống tự biết mình không bằng Nhan Hồi, đó là Cống hiểu biết. Ngay cả Khổng tử cũng nói mình chẳng bằng trò Hồi)."
           },
           {
             "id": "5.10",
-            "hanviet": "Tể Dữ trú tẩm, Tử viết: Hủ mộc bất khả điêu dã, phân thổ chi tường bất khả ô dã, ư Dữ dữ hà tru !. Tử viết: Thỉ ngô ư nhân dã, thính kỳ ngôn nhi tín kỳ hành; Kim ngô ư nhân dã, thính kỳ ngôn nhi quan kỳ hành. Ư Dữ dữ cải thị. Tể Dữ ngủ ban ngày,",
+            "hanviet": "Tể Dữ trú tẩm, Tử viết: Hủ mộc bất khả điêu dã, phân thổ chi tường bất khả ô dã, ư Dữ dữ hà tru. Tử viết: Thỉ ngô ư nhân dã, thính kỳ ngôn nhi tín kỳ hành; Kim ngô ư nhân dã, thính kỳ ngôn nhi quan kỳ hành. Ư Dữ dữ cải thị. Tể Dữ ngủ ban ngày,",
             "nghia": "Khổng tử nói: Gỗ mục thì không thể đẽo thành công cụ, bức tường bằng đất xấu không thể quét vôi mới được. Còn gì để trách cứ anh ấy nữa. Khổng tử nói thêm: trước đây ta chỉ nghe người khác nói thì tin (anh ta), bây giờ ta nghe rồi còn phải quan sát (anh ta) nữa. Tể Dữ ngủ ngày khiến ta thay đối suy nghĩ (về anh ta).",
             "binh": "Khổng tử khuyên trò học tập tích cực…Tể Dữ nói thì hay nhưng không chăm chỉ. Nay thầy Khổng chính mắt nhìn thấy mới đánh giá đúng về anh ta)."
           },
           {
             "id": "5.11",
-            "hanviet": ":. : Tử viết: Ngô vị kiến cương giả. Hoặc đối viết: Thân Trành. Tử viết Trành dã dục, yên đắc cương ?.",
-            "nghia": "Khổng tử nói: Ta chưa thấy người nào kiên cường. Có người đáp “Thân Trành là người như vậy”. Khổng tử nói: Thân Trành nhiều dục vọng, sao gọi là kiên cường ?",
+            "hanviet": ".: Tử viết: Ngô vị kiến cương giả. Hoặc đối viết: Thân Trành. Tử viết Trành dã dục, yên đắc cương.",
+            "nghia": "Khổng tử nói: Ta chưa thấy người nào kiên cường. Có người đáp “Thân Trành là người như vậy”. Khổng tử nói: Thân Trành nhiều dục vọng, sao gọi là kiên cường?",
             "binh": "Thân Trành là người kiêu hãnh, vị kỷ, người ta tưởng nhầm là kiên cường"
           },
           {
@@ -686,13 +686,13 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "5.15",
-            "hanviet": "Tử Cống vấn viết: Khổng Văn tử hà dĩ vị chi “văn” dã ? Tử viết: Mẫn nhi hiếu học, bất sỉ hạ vấn, thị dĩ vị chi “văn” dã. Tử",
-            "nghia": "Cống hỏi: Khổng Văn tử vì sao đặt tên thụy là “văn” ? Khổng tử nói: Ông ta thông minh lại ham học, không cho là nhục khi cần hỏi người dưới mình, nên đặt tên thụy là “văn”.",
+            "hanviet": "Tử Cống vấn viết: Khổng Văn tử hà dĩ vị chi “văn” dã? Tử viết: Mẫn nhi hiếu học, bất sỉ hạ vấn, thị dĩ vị chi “văn” dã. Tử",
+            "nghia": "Cống hỏi: Khổng Văn tử vì sao đặt tên thụy là “văn”? Khổng tử nói: Ông ta thông minh lại ham học, không cho là nhục khi cần hỏi người dưới mình, nên đặt tên thụy là “văn”.",
             "binh": ""
           },
           {
             "id": "5.16",
-            "hanviet": ":,,, Tử vị Tử Sản hữu quân tử chi đạo tứ yên: Kỳ hành kỷ dã cung, kỳ sự thượng dã kính, kỳ dưỡng dân dã huệ, kỳ sử dân dã nghĩa.",
+            "hanviet": ",,, Tử vị Tử Sản hữu quân tử chi đạo tứ yên: Kỳ hành kỷ dã cung, kỳ sự thượng dã kính, kỳ dưỡng dân dã huệ, kỳ sử dân dã nghĩa.",
             "nghia": "Khổng tử nói về Tử Sản có bốn phẩm chất của người quân tử: Làm người xử sự rất khiêm cung. Phụng thờ vua cung kính, có trách nhiệm, nuôi dưỡng dân cho nhiều ân huệ, điều khiển dân hợp lý.",
             "binh": "Công Tôn Tử Sản là cháu của Trịnh Mục công, cầm quyền nước Trịnh hơn 20 năm, nhà cải cách nổi tiếng. Bài này nói về 4 phẩm chất của người quản lý quốc gia"
           },
@@ -704,14 +704,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "5.18",
-            "hanviet": "Tử viết: Tang Văn Trọng cư thái, sơn tiết tảo chuyết, hà như kỳ tri dã !",
-            "nghia": "Khổng tử nói: Tang Văn Trọng nuôi một con rùa lớn, quanh cột nhà chạm khắc núi non và hình rong biển, người như vậy sao gọi là người có trí !",
+            "hanviet": "Tử viết: Tang Văn Trọng cư thái, sơn tiết tảo chuyết, hà như kỳ tri dã!",
+            "nghia": "Khổng tử nói: Tang Văn Trọng nuôi một con rùa lớn, quanh cột nhà chạm khắc núi non và hình rong biển, người như vậy sao gọi là người có trí!",
             "binh": "Tang Văn Trọng sưu tầm rùa lớn, quanh cột nhà chạm khắc núi non, trên kèo chạm trổ hoa văn đẹp đẽ, bị Khổng tử chê trách. Người xưa thường tìm bắt rùa lấy mai để bói toán cát hung, nhà vua thường dùng rùa to, quan đại phu chỉ được dùng rùa nhỏ. Tang Văn Trọng dùng rùa to là không đúng phép tắc. Việc chạm khắc núi non và hoa văn đẹp đẽ thường chỉ có trong cung điện hay tông miếu nhà vua, người dân thường không được tùy tiện làm như vậy)."
           },
           {
             "id": "5.19",
-            "hanviet": "Tử Trương vấn viết: Lệnh doãn tử Văn tam sĩ vi lệnh doãn, vô hỉ sắc; tam dĩ chi, vô uẩn sắc. Cựu mệnh quân chi chính, tất dĩ cáo tân lệnh doãn. Hà như ? Tử viết: Trung hĩ. Viết: Nhân hĩ hồ ? Viết: Vị tri. Yên đắc nhân ? Viết: Thôi tử thí Tề quân, Trần tử văn hữu mã thập thừa, khí nhi vi chi, chí ư tha bang, tắc viết: Do ngô đại phu Thôi tử dã. Vi chi. Chi nhất bang, tắc hựu viết: Do ngô đại phu Thôi tử dã, vi chi, hà như ?. Tử viết: Thanh hĩ. Viết: Nhân hĩ hồ ? Viết : Vị tri, yên đắc nhân ? Tử",
-            "nghia": "Trương hỏi: Tử Văn ba lần làm quan lệnh doãn nước Sở, không tỏ vẻ vui mừng; Ba lần bị bãi quan mà không oán hận. Mỗi lần thay đổi chức vụ, đều đem chính sự bàn giao đầy đủ cho quan mới. Nên đánh giá ông ta thế nào ? Khổng tử nói: Là người trung thành. Tử Trương hỏi thêm: Tử Văn là người có nhân, được không ? Khổng tử đáp: Ta không biết, làm sao đánh giá có nhân được. Tử Trương lại hỏi: Khi Thôi tử (Thôi Trữ) giết vua Tề Trang công, Trần Văn tử có 10 cỗ xe ngựa dám vứt bỏ mà rời nước Tề sang nước khác, lại nhận xét: “Người chấp chính ở đây cũng giống như Thôi tử nước tôi”. Nói rồi lại bỏ đi nước khác, được một thời gian lại chê “Cũng giống như Thôi tử nước chúng tôi”… Rồi lại bỏ đi qua nước khác, vậy đánh giá ông ta thế nào ? Khổng tử đáp: Người ấy rất trong sạch. Tử Trương nói: có phải là người nhân không ? Khổng tử nói: Không biết, sao vội đánh giá được!",
+            "hanviet": "Tử Trương vấn viết: Lệnh doãn tử Văn tam sĩ vi lệnh doãn, vô hỉ sắc; tam dĩ chi, vô uẩn sắc. Cựu mệnh quân chi chính, tất dĩ cáo tân lệnh doãn. Hà như? Tử viết: Trung hĩ. Viết: Nhân hĩ hồ? Viết: Vị tri. Yên đắc nhân? Viết: Thôi tử thí Tề quân, Trần tử văn hữu mã thập thừa, khí nhi vi chi, chí ư tha bang, tắc viết: Do ngô đại phu Thôi tử dã. Vi chi. Chi nhất bang, tắc hựu viết: Do ngô đại phu Thôi tử dã, vi chi, hà như. Tử viết: Thanh hĩ. Viết: Nhân hĩ hồ? Viết: Vị tri, yên đắc nhân? Tử",
+            "nghia": "Trương hỏi: Tử Văn ba lần làm quan lệnh doãn nước Sở, không tỏ vẻ vui mừng; Ba lần bị bãi quan mà không oán hận. Mỗi lần thay đổi chức vụ, đều đem chính sự bàn giao đầy đủ cho quan mới. Nên đánh giá ông ta thế nào? Khổng tử nói: Là người trung thành. Tử Trương hỏi thêm: Tử Văn là người có nhân, được không? Khổng tử đáp: Ta không biết, làm sao đánh giá có nhân được. Tử Trương lại hỏi: Khi Thôi tử (Thôi Trữ) giết vua Tề Trang công, Trần Văn tử có 10 cỗ xe ngựa dám vứt bỏ mà rời nước Tề sang nước khác, lại nhận xét: “Người chấp chính ở đây cũng giống như Thôi tử nước tôi”. Nói rồi lại bỏ đi nước khác, được một thời gian lại chê “Cũng giống như Thôi tử nước chúng tôi”… Rồi lại bỏ đi qua nước khác, vậy đánh giá ông ta thế nào? Khổng tử đáp: Người ấy rất trong sạch. Tử Trương nói: có phải là người nhân không? Khổng tử nói: Không biết, sao vội đánh giá được!",
             "binh": ""
           },
           {
@@ -728,7 +728,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "5.22",
-            "hanviet": ": , , Tử tại Trần viết: Qui dư ! Qui dư ! Ngô đảng chi tiểu tử cuồng giản, phỉ nhiên thành chương, bất tri sở dĩ tài chi.",
+            "hanviet": ",, Tử tại Trần viết: Qui dư! Qui dư! Ngô đảng chi tiểu tử cuồng giản, phỉ nhiên thành chương, bất tri sở dĩ tài chi.",
             "nghia": "Khổng tử (lúc còn ở nước Trần) nói: Về đi, về đi. Học trò quê hương ta kinh nghiệm còn it ỏi, văn chương học vấn tuy có chỗ khả quan nhưng chưa biết đào sâu sự lí, mở mang đạo đức và hiểu biết bản thân.",
             "binh": ""
           },
@@ -740,26 +740,26 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "5.24",
-            "hanviet": "Tử viết: Thục vị Vi Sinh Cao trực ? Hoặc khất ê yên, khất chư kỳ lân nhi dự chi.",
-            "nghia": "Khổng tử nói: Ai bảo Vi Sinh Cao là người thẳng thắn ? Có người đến xin giấm, nhà không có không dám nói thực, rồi sang nhà hàng xóm xin cho người ta (kể như của nhà mình).",
+            "hanviet": "Tử viết: Thục vị Vi Sinh Cao trực? Hoặc khất ê yên, khất chư kỳ lân nhi dự chi.",
+            "nghia": "Khổng tử nói: Ai bảo Vi Sinh Cao là người thẳng thắn? Có người đến xin giấm, nhà không có không dám nói thực, rồi sang nhà hàng xóm xin cho người ta (kể như của nhà mình).",
             "binh": ""
           },
           {
             "id": "5.25",
-            "hanviet": ": ,,,, Tử viết: Xảo ngôn lệnh sắc túc cung, Tả Khâu Minh sỉ chi, Khâu diệc sỉ chi. Nặc oán nhi hữu kỳ nhân, Tả Khâu Minh sỉ chi, Khâu diệc sỉ chi.",
+            "hanviet": ",,,, Tử viết: Xảo ngôn lệnh sắc túc cung, Tả Khâu Minh sỉ chi, Khâu diệc sỉ chi. Nặc oán nhi hữu kỳ nhân, Tả Khâu Minh sỉ chi, Khâu diệc sỉ chi.",
             "nghia": "Khổng tử nói: Những người nói khéo, ngọt ngào, giả bộ hiền lành, cung kính quá độ, Tả Khâu Minh cho như thế là đáng sỉ nhục, Khâu ta cũng cho là sỉ nhục. Giấu kín oán hận trong lòng mà giả bộ hữu hảo, Tả Khâu Minh cho đó là sỉ nhục, Khâu ta cũng cho là đáng nhục.",
             "binh": "Tả Khâu Minh là tác giả bộ Chiến quốc sách"
           },
           {
             "id": "5.26",
-            "hanviet": "Nhan Uyên, Tử Lộ thị. Tử viết: Hạp các ngôn nhĩ chí ? Tử Lộ viết: Nguyện xa mã, y khinh cừu, dữ bằng hữu cộng, tệ chi nhi vô hám. Nhan Uyên viết: Nguyện vô phạt thiện, vô thi lao. Tử Lộ viết: Nguyện văn tử chi chí. Tử viết: Lão giả an chi, bằng hữu tín chi, thiếu giả hoài chi.",
-            "nghia": "Nhan Uyên, Tử Lộ theo hầu. Khổng tử nói: Sao các anh chẳng nói ý chí của mình (cho ta nghe) ? Tử Lộ thưa: Con nguyện mang xe ngựa, áo da cừu của con cho bạn hữu dùng, dù đến hỏng cũng không oán giận. Nhan Uyên nói: Con nguyện không phô trương ưu điểm của con, không tỏ rõ công lao của mình. Tử Lộ thưa: chúng con muốn nghe thầy nói nguyện vọng của thầy. Khổng tử đáp: Người già được nuôi dưỡng đầy đủ, bạn bè tin cậy lẫn nhau, trẻ em được quan tâm chăm sóc.",
+            "hanviet": "Nhan Uyên, Tử Lộ thị. Tử viết: Hạp các ngôn nhĩ chí? Tử Lộ viết: Nguyện xa mã, y khinh cừu, dữ bằng hữu cộng, tệ chi nhi vô hám. Nhan Uyên viết: Nguyện vô phạt thiện, vô thi lao. Tử Lộ viết: Nguyện văn tử chi chí. Tử viết: Lão giả an chi, bằng hữu tín chi, thiếu giả hoài chi.",
+            "nghia": "Nhan Uyên, Tử Lộ theo hầu. Khổng tử nói: Sao các anh chẳng nói ý chí của mình (cho ta nghe)? Tử Lộ thưa: Con nguyện mang xe ngựa, áo da cừu của con cho bạn hữu dùng, dù đến hỏng cũng không oán giận. Nhan Uyên nói: Con nguyện không phô trương ưu điểm của con, không tỏ rõ công lao của mình. Tử Lộ thưa: chúng con muốn nghe thầy nói nguyện vọng của thầy. Khổng tử đáp: Người già được nuôi dưỡng đầy đủ, bạn bè tin cậy lẫn nhau, trẻ em được quan tâm chăm sóc.",
             "binh": ""
           },
           {
             "id": "5.27",
-            "hanviet": ": . Tử viết: Dĩ hĩ hồ ! Ngô vị kiến năng kiến kỳ quá nhi nội tự tụng giả dã.",
-            "nghia": "Khổng tử nói: Thôi hết rồi ! Ta chưa từng thấy người nào có thể tự phát hiện sai lầm và tự phê phán bản thân.",
+            "hanviet": ". Tử viết: Dĩ hĩ hồ! Ngô vị kiến năng kiến kỳ quá nhi nội tự tụng giả dã.",
+            "nghia": "Khổng tử nói: Thôi hết rồi! Ta chưa từng thấy người nào có thể tự phát hiện sai lầm và tự phê phán bản thân.",
             "binh": ""
           },
           {
@@ -784,19 +784,19 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "6.2",
-            "hanviet": "Trọng Cung vấn tử Tang Bá Tử. Tử viết: Khả dã, giản. Trọng Cung vấn: Cư kính nhi hành giản, dĩ lâm kỳ dân, bất diệc khả hồ ? Cư giản nhi hành giản, vô nãi đại giản hồ ? Tử viết: Ung chi ngôn nhiên. Trọng Cung (tức Nhiễm Ung) hỏi Khổng tử về Tang Bá Tử.",
+            "hanviet": "Trọng Cung vấn tử Tang Bá Tử. Tử viết: Khả dã, giản. Trọng Cung vấn: Cư kính nhi hành giản, dĩ lâm kỳ dân, bất diệc khả hồ? Cư giản nhi hành giản, vô nãi đại giản hồ? Tử viết: Ung chi ngôn nhiên. Trọng Cung (tức Nhiễm Ung) hỏi Khổng tử về Tang Bá Tử.",
             "nghia": "Khổng tử nói: Được đấy, con người này giản dị chất phác. Trọng Cung lại hỏi: Sống kính nhường, làm việc giản dị, gần gũi dân chúng, như vậy chẳng tốt sao? Còn nếu chỉ có kính nhường, làm việc giản dị mộc mạc thì e rằng thái quá chăng? Khổng tử đáp: Ngươi nói rất đúng.",
             "binh": ""
           },
           {
             "id": "6.3",
-            "hanviet": ":?. :,,, , Ai Công vấn: Đệ tử thục vi hiếu học ? Khổng tử đối viết: Hữu Nhan Hồi giả hiếu học, bất thiên nộ, bất nhị quá, bất hạnh đoản mệnh tử hĩ. Kim dã tắc vong, vị văn hiếu học giả dã. Vua Lỗ Ai",
-            "nghia": "Công hỏi: Đệ tử của ngài có ai ham học nhất ? Khổng tử đáp: Có Nhan Hồi là học trò ham học, khi giận không lệch lạc giận qua người khác, không bao giờ phạm lỗi lầm cũ nhưng bất hạnh đoản mệnh. Nay đã chết rồi, chẳng nghe thấy ai hiếu học như thế nữa.",
+            "hanviet": ".:,,,, Ai Công vấn: Đệ tử thục vi hiếu học? Khổng tử đối viết: Hữu Nhan Hồi giả hiếu học, bất thiên nộ, bất nhị quá, bất hạnh đoản mệnh tử hĩ. Kim dã tắc vong, vị văn hiếu học giả dã. Vua Lỗ Ai",
+            "nghia": "Công hỏi: Đệ tử của ngài có ai ham học nhất? Khổng tử đáp: Có Nhan Hồi là học trò ham học, khi giận không lệch lạc giận qua người khác, không bao giờ phạm lỗi lầm cũ nhưng bất hạnh đoản mệnh. Nay đã chết rồi, chẳng nghe thấy ai hiếu học như thế nữa.",
             "binh": ""
           },
           {
             "id": "6.4",
-            "hanviet": "Tử Hoa sứ ư Tề, Nhiễm tử vi kỳ mẫu thỉnh túc. Tử viết: Dữ chi phủ. Thỉnh ích. Viết: Dữ chi dữu. Nhiễm tử dữ chi túc ngũ bính. Tử viết: Xích chi thích Tề dã, thừa phì mã, y khinh cừu.. Ngô văn chi dã: quân tử chu cấp bất tế phú. Tử Hoa đi sứ sang nước Tề, Nhiễm Hữu thưa với Khổng tử: tiện xe đi nước Tề gửi cho mẹ Tử Hoa một ít lương thực. Khổng tử bảo cho một vò gạo. Nhiễm nài thêm ít nữa. Khổng tử bảo cho thêm một hũ nữa. Nhiễm Hữu mang cho năm bính (80 đấu). Thấy thế,",
+            "hanviet": "Tử Hoa sứ ư Tề, Nhiễm tử vi kỳ mẫu thỉnh túc. Tử viết: Dữ chi phủ. Thỉnh ích. Viết: Dữ chi dữu. Nhiễm tử dữ chi túc ngũ bính. Tử viết: Xích chi thích Tề dã, thừa phì mã, y khinh cừu. Ngô văn chi dã: quân tử chu cấp bất tế phú. Tử Hoa đi sứ sang nước Tề, Nhiễm Hữu thưa với Khổng tử: tiện xe đi nước Tề gửi cho mẹ Tử Hoa một ít lương thực. Khổng tử bảo cho một vò gạo. Nhiễm nài thêm ít nữa. Khổng tử bảo cho thêm một hũ nữa. Nhiễm Hữu mang cho năm bính (80 đấu). Thấy thế,",
             "nghia": "Khổng tử nói: Tử Hoa (tức Công Tây Xích) đi sứ nước Tề ngồi xe có ngựa kéo, mặc áo da vừa nhẹ vừa ấm. Ta nghe nói người quân tử chỉ cứu tế cho người nghèo, không cứu tế người giàu.",
             "binh": ""
           },
@@ -808,7 +808,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "6.6",
-            "hanviet": "Tử vị Trọng Cung, viết: Lê ngưu vi chi tuynh thả giác. Tuy dục vật dụng, sơn xuyên bổng xá chư ?",
+            "hanviet": "Tử vị Trọng Cung, viết: Lê ngưu vi chi tuynh thả giác. Tuy dục vật dụng, sơn xuyên bổng xá chư?",
             "nghia": "Khổng tử nói về Trọng Cung: Con bê là con của bò lang lông đỏ hai sừng cân đối. Người ta cho là mẹ nó lang nên không dùng nó làm vật tế. Thần núi thần sông có nỡ bỏ rơi nó đâu?",
             "binh": "Người xưa cúng tế bằng con bò màu lông đỏ vì rất quí màu đỏ. Trọng Cung có người cha độc ác hèn hạ, nên nhà cầm quyền không muốn dùng Cung làm quan. Khổng tử nói vậy để an ủi Cung và phản đối quan niệm coi trọng lý lịch, dòng dõi"
           },
@@ -820,20 +820,20 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "6.8",
-            "hanviet": "Quí Khang tử vấn: Trọng Do khả sử tòng chính dã dư ?. Tử viết: Do dã quả, ư tòng chính hồ hà hữu Viết: Tứ dã khả sử tòng chính dã dư ? Viết: Tài dã đạt, ư tòng chính hồ hà hữu Viết: Cầu dã khả sử tòng chính dã dư ? Viết: Cầu dã nghệ, ư tòng chính hồ hà hữu Quí Khang tử hỏi: Trọng Do có thể giao làm lãnh đạo được không ?",
-            "nghia": "Khổng tử nói: Do là người quyết đoán, làm lãnh đạo còn có gì khó khăn. Quí Khang tử hỏi: Đoan Mộc Tứ giao làm quan chức được không ? Khổng tử: Tứ có tài năng, làm quan chắc sẽ thuận lợi thôi. Quí hỏi tiếp: Nhiễm Cầu làm quan được không? Khổng tử đáp: Cầu đa tài đa nghệ, làm quan có gì khó khăn đâu.",
+            "hanviet": "Quí Khang tử vấn: Trọng Do khả sử tòng chính dã dư. Tử viết: Do dã quả, ư tòng chính hồ hà hữu Viết: Tứ dã khả sử tòng chính dã dư? Viết: Tài dã đạt, ư tòng chính hồ hà hữu Viết: Cầu dã khả sử tòng chính dã dư? Viết: Cầu dã nghệ, ư tòng chính hồ hà hữu Quí Khang tử hỏi: Trọng Do có thể giao làm lãnh đạo được không?",
+            "nghia": "Khổng tử nói: Do là người quyết đoán, làm lãnh đạo còn có gì khó khăn. Quí Khang tử hỏi: Đoan Mộc Tứ giao làm quan chức được không? Khổng tử: Tứ có tài năng, làm quan chắc sẽ thuận lợi thôi. Quí hỏi tiếp: Nhiễm Cầu làm quan được không? Khổng tử đáp: Cầu đa tài đa nghệ, làm quan có gì khó khăn đâu.",
             "binh": ""
           },
           {
             "id": "6.9",
-            "hanviet": "Quí thị sử Mẫn Tử Khiên vi Phí tể, Mẫn Tử Khiên viết: Thiện vi ngã từ yên ! Như hữu phục ngã giả, tắc ngô tất tại Vấn thượng hĩ.",
+            "hanviet": "Quí thị sử Mẫn Tử Khiên vi Phí tể, Mẫn Tử Khiên viết: Thiện vi ngã từ yên! Như hữu phục ngã giả, tắc ngô tất tại Vấn thượng hĩ.",
             "nghia": "Quí thị cho mời Mẫn Tử Khiên làm quan tể ấp Phí. Mẫn nói (với người báo tin): Xin vui lòng từ chối giúp tôi. Nếu có người lại đến mời, tôi đành phải trốn lên ở thượng nguồn sông Vấn thôi.",
             "binh": "quan tể là quan đứng đầu. Mẫn Tử Khiên oán trách họ Quí tiếm quyền nên không chịu ra hợp tác"
           },
           {
             "id": "6.10",
-            "hanviet": "Bá Ngưu hữu tật, Tử vấn chi, tự dũ chấp kỳ thủ, viết: Vong chi, mệnh hĩ phu, tư nhân dã nhi hữu tư tật dã ! Tư nhân dã nhi hữu tư tật dã !",
-            "nghia": "Bá Ngưu nằm bệnh, Khổng tử đến thăm, cầm tay nói: Thôi rồi, đây là mệnh rồi. Người tốt thế này mà mắc bệnh này. Người tốt thế này mà mắc bệnh này !",
+            "hanviet": "Bá Ngưu hữu tật, Tử vấn chi, tự dũ chấp kỳ thủ, viết: Vong chi, mệnh hĩ phu, tư nhân dã nhi hữu tư tật dã! Tư nhân dã nhi hữu tư tật dã!",
+            "nghia": "Bá Ngưu nằm bệnh, Khổng tử đến thăm, cầm tay nói: Thôi rồi, đây là mệnh rồi. Người tốt thế này mà mắc bệnh này. Người tốt thế này mà mắc bệnh này!",
             "binh": "Người tốt mà mắc bệnh này, chẳng phải do mình gây ra, là mệnh trời không tránh khỏi"
           },
           {
@@ -856,7 +856,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "6.14",
-            "hanviet": "Tử Du vi Vũ Thành tể. Tử viết: Nhữ đắc nhân yên nhĩ lạc hồ ? Viết: Hữu Đạm Đài Diệt Minh giả, hành bất do kinh, phi công sự vị thường chí ư yển chi thất dã. Tử Du làm quan tể ấp Vũ Thành.",
+            "hanviet": "Tử Du vi Vũ Thành tể. Tử viết: Nhữ đắc nhân yên nhĩ lạc hồ? Viết: Hữu Đạm Đài Diệt Minh giả, hành bất do kinh, phi công sự vị thường chí ư yển chi thất dã. Tử Du làm quan tể ấp Vũ Thành.",
             "nghia": "Khổng tử nói: Ở đây ngươi có thích ai không? Trả lời: có người tên Đạm Đài Diệt Minh, đi không qua lối tắt, không có việc công thì không đến công sở.",
             "binh": ""
           },
@@ -868,14 +868,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "6.16",
-            "hanviet": ": Tử viết: Bất hữu Chúc Đà chi nịnh, nhi hữu Tống Triều chi mỹ, nan hồ miễn ư kim chi thế hĩ.",
+            "hanviet": "Tử viết: Bất hữu Chúc Đà chi nịnh, nhi hữu Tống Triều chi mỹ, nan hồ miễn ư kim chi thế hĩ.",
             "nghia": "Khổng tử nói: Nếu không nói khéo như Chúc Đà mà có sắc đẹp như công tử Triều nước Tống, đời nay khó mà tránh bị người ta ghét bỏ.",
             "binh": ""
           },
           {
             "id": "6.17",
             "hanviet": "Tử viết: Thùy năng xuất bất do hộ, hà mạc do tư đạo dã?",
-            "nghia": "Khổng tử nói: Có ai ra khỏi nhà mà không qua cửa ? Làm người cớ sao không theo đạo lí chung đó mà làm ?",
+            "nghia": "Khổng tử nói: Có ai ra khỏi nhà mà không qua cửa? Làm người cớ sao không theo đạo lí chung đó mà làm?",
             "binh": ""
           },
           {
@@ -922,14 +922,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "6.25",
-            "hanviet": "Tử viết: Cô bất cô, cô tai ! Cô tai !",
-            "nghia": "Khổng tử nói: Cái bình rượu không ra bình rượu. Bình rượu đây ư! sao có thể gọi là bình rượu ?",
+            "hanviet": "Tử viết: Cô bất cô, cô tai! Cô tai!",
+            "nghia": "Khổng tử nói: Cái bình rượu không ra bình rượu. Bình rượu đây ư! sao có thể gọi là bình rượu?",
             "binh": "Chú thích: thời xưa bình rượu lễ có 6 góc cạnh là đúng mẫu mực, nếu thay bằng cái bình khác chứng tỏ chữ lễ bị coi thường, nên Khổng tử lo lắng. Lời bàn: Người bình thường, thực dụng sẽ chê trách Khổng tử là “quá máy móc, công thức, cứng nhắc”. Cốt yếu là có rượu cúng, cần gì cái bình đựng phải đúng mẫu mực (!). Đây là câu chuyện tiêu biểu cho tính lễ giáo nghiêm túc mà Khổng tử, đạo Nho yêu cầu."
           },
           {
             "id": "6.26",
-            "hanviet": "Tể Ngã vấn viết: Nhân giả tuy cáo chi viết tỉnh hữu nhân yên, kỳ tòng chi dã ? Khổng tử viết: Hà vi kỳ nhiên dã ? Quân tử khả thệ dã, bất khả hãm; Khả khi dã, bất khả võng dã. Tể",
-            "nghia": "Ngã hỏi: Người nhân đức được báo có người rơi xuống giếng, anh ta có nhảy xuống cứu không? Khổng tử đáp: Sao phải làm vậy ? Quân tử tìm cách cứu người, không thể tự hãm hại thân mình; Quân tử có thể bị lừa bởi những điều có lý, nhưng không thể bị hại vì lời xằng bậy.",
+            "hanviet": "Tể Ngã vấn viết: Nhân giả tuy cáo chi viết tỉnh hữu nhân yên, kỳ tòng chi dã? Khổng tử viết: Hà vi kỳ nhiên dã? Quân tử khả thệ dã, bất khả hãm; Khả khi dã, bất khả võng dã. Tể",
+            "nghia": "Ngã hỏi: Người nhân đức được báo có người rơi xuống giếng, anh ta có nhảy xuống cứu không? Khổng tử đáp: Sao phải làm vậy? Quân tử tìm cách cứu người, không thể tự hãm hại thân mình; Quân tử có thể bị lừa bởi những điều có lý, nhưng không thể bị hại vì lời xằng bậy.",
             "binh": ""
           },
           {
@@ -940,20 +940,20 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "6.28",
-            "hanviet": "Tử kiếnNamtử, Tử Lộ bất duyệt. Phu tử thỉ chi viết: “Dư sở phủ giả. Thiên yếm chi! Thiên yếm chi !",
+            "hanviet": "Tử kiếnNamtử, Tử Lộ bất duyệt. Phu tử thỉ chi viết: “Dư sở phủ giả. Thiên yếm chi! Thiên yếm chi!",
             "nghia": "Khổng tử gặp nàng Nam tử, Tử Lộ không vui. Khổng tử thề rằng: Như ta mà làm gì trái lễ thì trời phạt ta”.",
             "binh": "nàngNamtử là vợ vua Vệ Linh công nước Vệ, nàng rất đẹp nhưng nhiều tai tiếng. Ai muốn làm quan đều ra mắtNamtử trước… Tử Lộ nghĩ rằng thầy Khổng cũng làm như người thường…Nhưng Khổng tử vì việc công mà đến chứ không nhờ cậy, ngài phải thề với học trò"
           },
           {
             "id": "6.29",
             "hanviet": "Tử viết: Trung dung chi vi đức dã, kỳ chí hĩ hồ! Dân tiển cửu hĩ.",
-            "nghia": "Trung dung là đạo đức tốt đẹp cao nhất ! Dân chúng từ lâu thiếu hẳn đạo đức này.",
+            "nghia": "Trung dung là đạo đức tốt đẹp cao nhất! Dân chúng từ lâu thiếu hẳn đạo đức này.",
             "binh": ""
           },
           {
             "id": "6.30",
-            "hanviet": "Tử Cống viết: Như hữu bác thi ư dân nhi năng tế chúng, hà như ? Khả vị nhân hồ? Tử viết: Hà sự ư nhân ? Tất dã thánh hồ ! Nghiêu Thuấn kỳ do bệnh chư. Phu nhân giả, kỷ dục lập nhi lập nhân, kỷ dục đạt nhi đạt nhân. Năng cận thủ thí khả vị nhân chi, phương dã dĩ. Tử",
-            "nghia": "Cống nói: Nếu có một người đưa nhiều điều tốt đến cho dân, giúp dân sống tốt, có phải là người nhân không ? Khổng tử đáp: Không chỉ là người nhân mà là bậc thánh nhân. Vua Nghiêu vua Thuấn cũng khó làm được như vậy. Người có nhân muốn thành người nhân đức thì cũng muốn người khác như mình, người có nhân đã làm được việc gì cũng muốn người khác đạt như thế. Lấy bản thân mình làm thí dụ để hiểu người khác, đức nhân là vậy. Hết thiên 6",
+            "hanviet": "Tử Cống viết: Như hữu bác thi ư dân nhi năng tế chúng, hà như? Khả vị nhân hồ? Tử viết: Hà sự ư nhân? Tất dã thánh hồ! Nghiêu Thuấn kỳ do bệnh chư. Phu nhân giả, kỷ dục lập nhi lập nhân, kỷ dục đạt nhi đạt nhân. Năng cận thủ thí khả vị nhân chi, phương dã dĩ. Tử",
+            "nghia": "Cống nói: Nếu có một người đưa nhiều điều tốt đến cho dân, giúp dân sống tốt, có phải là người nhân không? Khổng tử đáp: Không chỉ là người nhân mà là bậc thánh nhân. Vua Nghiêu vua Thuấn cũng khó làm được như vậy. Người có nhân muốn thành người nhân đức thì cũng muốn người khác như mình, người có nhân đã làm được việc gì cũng muốn người khác đạt như thế. Lấy bản thân mình làm thí dụ để hiểu người khác, đức nhân là vậy. Hết thiên 6",
             "binh": ""
           }
         ]
@@ -972,13 +972,13 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "7.2",
-            "hanviet": "Tử viết: Mặc nhi thức chi, học nhi bất yếm, hối nhân bất quyện, hà hữu ư ngã tai ?",
-            "nghia": "Khổng tử: Lặng yên nhớ điều đã học, kiên trì học tập không biết chán, dạy bảo người khác không biết mệt mỏi, ta đã làm được việc nào trong ba việc ấy ?",
+            "hanviet": "Tử viết: Mặc nhi thức chi, học nhi bất yếm, hối nhân bất quyện, hà hữu ư ngã tai?",
+            "nghia": "Khổng tử: Lặng yên nhớ điều đã học, kiên trì học tập không biết chán, dạy bảo người khác không biết mệt mỏi, ta đã làm được việc nào trong ba việc ấy?",
             "binh": ""
           },
           {
             "id": "7.3",
-            "hanviet": ", ,,, Tử viết: Đức chi bất tu, học chi bất giảng, văn nghĩa bất năng tỉ, bất thiện bất năng cải, thị ngô ưu dã.",
+            "hanviet": ",,, Tử viết: Đức chi bất tu, học chi bất giảng, văn nghĩa bất năng tỉ, bất thiện bất năng cải, thị ngô ưu dã.",
             "nghia": "Khổng tử nói: Đức hạnh mà không tu dưỡng, học không giảng giải, thấy việc nghĩa không làm, mắc điều sai không chịu sửa chữa, đó là những nỗi lo của ta.",
             "binh": ""
           },
@@ -990,7 +990,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "7.5",
-            "hanviet": "Tử viết: Thậm hĩ ngô suy dã ! Cửu hĩ ngô bất phục mộng kiếnChucông.",
+            "hanviet": "Tử viết: Thậm hĩ ngô suy dã! Cửu hĩ ngô bất phục mộng kiếnChucông.",
             "nghia": "Khổng tử: Ta già yếu lắm rồi, từ lâu ta không nằm mộng thấy Chu công.",
             "binh": "Chu công tức Chu Công Đán, phò giúp anh là Chu Vũ Vương diệt trừ vua Trụ, lập ra nhà Chu. Khi anh chết, lại phò cháu ruột lên ngôi là Chu Thành Vương, đóng vai trò cố vấn tối cao xây dựng nhà Chu cai trị ngàn nước chư hầu. Chu công tiếp tục công việc của cha là Chu Văn Vương chú giải bộ sách Kinh Dịch- bộ sách triết học cổ điển nhất xứ Trung Hoa. Khổng tử rất sùng bái Chu công, kiến trúc sư nhà Chu, thường gọi là thánh nhân. Lời nói của Khổng tử có hai ý: lo buồn vì sức khỏe đã suy yếu mà lễ chế nhà Chuchưa được phục hồi"
           },
@@ -1008,20 +1008,20 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "7.8",
-            "hanviet": ":,, Tử viết: Bất phẫn bất khải, bất phỉ bất phát. Cử nhất ngung bất dĩ tam ngung phản, tắc bất phục dã.",
+            "hanviet": ",, Tử viết: Bất phẫn bất khải, bất phỉ bất phát. Cử nhất ngung bất dĩ tam ngung phản, tắc bất phục dã.",
             "nghia": "Khổng tử nói: Kẻ nào chưa uất ức vì chưa hiểu được thì ta không gợi mở cho. Kẻ nào không hậm hực vì chưa thể nói ra được thì ta chẳng hướng dẫn cho nói. Kẻ đã được ta chỉ cho một góc (vuông) mà chẳng biết tự xét ba góc kia thì ta chẳng dạy nó nữa.",
             "binh": ""
           },
           {
             "id": "7.9",
             "hanviet": "Tử thực ư hữu tang giả chi trắc, vị thường bão dã. Tử ư thị nhật khốc, tắc bất ca",
-            "nghia": "Khổng tử đến viếng nhà có tang, không bao giờ ăn no. 7.10. Hôm nào Khổng tử đi viếng đám tang, suốt ngày hôm ấy không ca hát.",
+            "nghia": "Khổng tử đến viếng nhà có tang, không bao giờ ăn no. 7. 10. Hôm nào Khổng tử đi viếng đám tang, suốt ngày hôm ấy không ca hát.",
             "binh": "Khổng tử đi viếng tang rất thực lòng, chẳng chiếu lệ qua loa"
           },
           {
             "id": "7.10",
-            "hanviet": ":,, Tử vị Nhan Uyên viết: Dụng chi tắc hành, xá chi tắc tàng, duy ngã dữ nhĩ hữu thị phu!. Tử Lộ viết: Tử hành tam quân, tắc thùy dự ? Tử viết: Bạo hổ bằng hà, tử nhi vô hối giả, ngô bất dữ dã. Tất dã lâm sự nhi cụ. Hiếu mưu nhi thành giả dã.",
-            "nghia": "Khổng tử nói với Nhan Uyên: Dùng ta thì ta giúp cho sự nghiệp, không dùng thì ta đi ở ẩn, chỉ có ta với ngươi làm được thế thôi. Tử Lộ hỏi: Nếu Thầy cầm quân đi đánh giặc, thầy chọn ai theo ? Khổng tử đáp: Kẻ tay không mà bắt cọp, không thuyền mà lội qua sông, chết không tiếc thân, những kẻ ấy ta không cho theo với ta. Khi lâm sự ắt phải biết lo lắng thận trọng, suy tính mưu lược để thành công, những người đó ta mới cho theo.",
+            "hanviet": ",, Tử vị Nhan Uyên viết: Dụng chi tắc hành, xá chi tắc tàng, duy ngã dữ nhĩ hữu thị phu. Tử Lộ viết: Tử hành tam quân, tắc thùy dự? Tử viết: Bạo hổ bằng hà, tử nhi vô hối giả, ngô bất dữ dã. Tất dã lâm sự nhi cụ. Hiếu mưu nhi thành giả dã.",
+            "nghia": "Khổng tử nói với Nhan Uyên: Dùng ta thì ta giúp cho sự nghiệp, không dùng thì ta đi ở ẩn, chỉ có ta với ngươi làm được thế thôi. Tử Lộ hỏi: Nếu Thầy cầm quân đi đánh giặc, thầy chọn ai theo? Khổng tử đáp: Kẻ tay không mà bắt cọp, không thuyền mà lội qua sông, chết không tiếc thân, những kẻ ấy ta không cho theo với ta. Khi lâm sự ắt phải biết lo lắng thận trọng, suy tính mưu lược để thành công, những người đó ta mới cho theo.",
             "binh": "Tử Lộ tự hào mình có dũng khí, ắt được thầy đánh giá cao. Nhưng Khổng tử chỉ đánh giá cao những người mưu trí, cẩn trọng"
           },
           {
@@ -1044,8 +1044,8 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "7.14",
-            "hanviet": "Nhiễm Hữu viêt: Phu tử vi Vệ quân hồ ? Tử Cống viết: Nặc, ngô thương vấn chi. Nhập, viết: Bá Di, Thúc Tề hà nhân dã ? Viêt: Cổ chi hiền nhân dã. Viết: Oán hồ ?. Viết: Cầu nhân nhi đắc nhân, hữu hà oán. Xuất, viết: Phu tử bất vi dã. Nhiễm",
-            "nghia": "Hữu hỏi: Có phải thầy ta đi giúp vua nước Vệ không? Tử Cống nói: Thế à, để ta đi hỏi thầy xem. Nói rồi đến gặp Khổng tử thưa: “Bá Di, Thúc Tề là con người như thế nào ?”. Khổng tử đáp: Họ là người hiền ngày xưa. Tử Cống hỏi tiếp: Họ có oán hận gì không ? Khổng tử nói: Theo đuổi điều nhân mà được điều nhân, còn gì phải oán hận. Tử Cống quay về nói với Nhiễm Hữu: Thầy ta chẳng đi giúp nước Vệ đâu. (Chú thích: Bá Di, Thúc Tề là con của vua Cô Trúc, tranh nhau nhường ngôi cho người họ khác, đến mức phải trốn đi để khỏi bị ép làm vua. Ở nước Vệ, sau khi Vệ Linh Công mất, cháu nội của vua là Khoái Hốt được cử làm vua, cha là Khoái Quí âm mưu tranh ngôi vua. Hai cha con giành ngôi vua là bất nhân. Cả hai thầy trò Khổng tử – Tử Lộ đều tránh nói thẳng cái bất nhân của vua nước Vệ mà diễn đạt quan điểm của mình thông qua tấm gương Bá Di, Thúc Tề. Hai thầy trò quả là người thận trọng tinh tế trong ứng xử).",
+            "hanviet": "Nhiễm Hữu viêt: Phu tử vi Vệ quân hồ? Tử Cống viết: Nặc, ngô thương vấn chi. Nhập, viết: Bá Di, Thúc Tề hà nhân dã? Viêt: Cổ chi hiền nhân dã. Viết: Oán hồ. Viết: Cầu nhân nhi đắc nhân, hữu hà oán. Xuất, viết: Phu tử bất vi dã. Nhiễm",
+            "nghia": "Hữu hỏi: Có phải thầy ta đi giúp vua nước Vệ không? Tử Cống nói: Thế à, để ta đi hỏi thầy xem. Nói rồi đến gặp Khổng tử thưa: “Bá Di, Thúc Tề là con người như thế nào?”. Khổng tử đáp: Họ là người hiền ngày xưa. Tử Cống hỏi tiếp: Họ có oán hận gì không? Khổng tử nói: Theo đuổi điều nhân mà được điều nhân, còn gì phải oán hận. Tử Cống quay về nói với Nhiễm Hữu: Thầy ta chẳng đi giúp nước Vệ đâu. (Chú thích: Bá Di, Thúc Tề là con của vua Cô Trúc, tranh nhau nhường ngôi cho người họ khác, đến mức phải trốn đi để khỏi bị ép làm vua. Ở nước Vệ, sau khi Vệ Linh Công mất, cháu nội của vua là Khoái Hốt được cử làm vua, cha là Khoái Quí âm mưu tranh ngôi vua. Hai cha con giành ngôi vua là bất nhân. Cả hai thầy trò Khổng tử – Tử Lộ đều tránh nói thẳng cái bất nhân của vua nước Vệ mà diễn đạt quan điểm của mình thông qua tấm gương Bá Di, Thúc Tề. Hai thầy trò quả là người thận trọng tinh tế trong ứng xử).",
             "binh": ""
           },
           {
@@ -1062,13 +1062,13 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "7.17",
-            "hanviet": "Tử sở nhã ngôn, “Thi”, “ Thư”, chấp Lễ, giai nhã ngôn dã.",
+            "hanviet": "Tử sở nhã ngôn, “Thi”, “Thư”, chấp Lễ, giai nhã ngôn dã.",
             "nghia": "Khổng tử thích lời nói nhã nhặn, Kinh Thi, Kinh Thư và chấp hành Lễ, đều là những lời thanh nhã cả.",
             "binh": ""
           },
           {
             "id": "7.18",
-            "hanviet": ",: ,, Diệp Công vấn Tử Lộ ư Khổng tử, Tử Lộ bất đối. Tử viết: Nhữ hề bất viết, kỳ vi nhân dã, phát phẫn vong thực, lạc dĩ vong ưu, bất tri lão chi thương chí vân nhĩ.",
+            "hanviet": ":,, Diệp Công vấn Tử Lộ ư Khổng tử, Tử Lộ bất đối. Tử viết: Nhữ hề bất viết, kỳ vi nhân dã, phát phẫn vong thực, lạc dĩ vong ưu, bất tri lão chi thương chí vân nhĩ.",
             "nghia": "Diệp Công hỏi Tử Lộ về Khổng tử, Tử Lộ không trả lời… Khổng tử (biết vậy) nói với Tử Lộ: Sao ngươi không nói thầy của ngươi theo đạo nhân, lo lắng quên ăn, vui quên cả sầu, chẳng hề biết tuổi già đã đến.",
             "binh": ""
           },
@@ -1092,14 +1092,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "7.22",
-            "hanviet": "Tử viết: Thiên sinh đức ư dư, Hoàn Đồi kỳ như dư hà ?",
-            "nghia": "Khổng tử nói: Trời phú cho ta đạo đức, Hoàn Đồi làm gì được ta ?",
+            "hanviet": "Tử viết: Thiên sinh đức ư dư, Hoàn Đồi kỳ như dư hà?",
+            "nghia": "Khổng tử nói: Trời phú cho ta đạo đức, Hoàn Đồi làm gì được ta?",
             "binh": "Khổng tử đi dạy học về, làm lễ dưới một gốc cây cổ thụ, quan tư mã nước Tống là Hoàn Đồi sai chặt cây nhằm giết Khổng tử…"
           },
           {
             "id": "7.23",
-            "hanviet": "Tử viết: Nhị tam tử dĩ ngã vi ẩn hồ ? Ngô vô ẩn hồ nhĩ. Ngô vô hành nhi bất dự nhị tam tử giả, thị Khâu dã.",
-            "nghia": "Khổng tử nói: Các người cứ nghĩ ta còn điều gì giấu diếm ư ? Ta chẳng giấu diếm điều gì. Ta chẳng có việc gì đã làm mà không cho các ngươi biết, như chính ta là Khâu vậy.",
+            "hanviet": "Tử viết: Nhị tam tử dĩ ngã vi ẩn hồ? Ngô vô ẩn hồ nhĩ. Ngô vô hành nhi bất dự nhị tam tử giả, thị Khâu dã.",
+            "nghia": "Khổng tử nói: Các người cứ nghĩ ta còn điều gì giấu diếm ư? Ta chẳng giấu diếm điều gì. Ta chẳng có việc gì đã làm mà không cho các ngươi biết, như chính ta là Khâu vậy.",
             "binh": ""
           },
           {
@@ -1110,15 +1110,15 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "7.25",
-            "hanviet": "Tử viết: Thánh nhân ngô bất đắc nhi kiến chi hĩ ! Đắc kiến quân tử giả, tư khả hĩ. Tử viết: Thiện nhân ngô bât đắc nhi kiến chi hĩ ! Đắc kiến hữu hằng giả, tư khả hĩ. Vong nhi vi hữu, hư nhi vi doanh, ước nhi vi thái, nan hồ hữu hằng hĩ.",
-            "nghia": "Khổng tử nói: Bậc thánh nhân thì ta chưa nhìn thấy ! Người quân tử thì ta gặp rồi. Khổng tử lại nói: Bậc thiện nhân ta cũng chưa nhìn thấy, mới được thấy bậc hằng giả (người giữ tấm lòng nhân son sắt, không thay đổi). Những kẻ không có mà giả như có, thiếu thốn mà giả bộ đầy đủ, nghèo hèn mà giả bộ giàu sang thì kẻ ấy cũng chẳng giữ được tấm lòng chung thủy.",
+            "hanviet": "Tử viết: Thánh nhân ngô bất đắc nhi kiến chi hĩ! Đắc kiến quân tử giả, tư khả hĩ. Tử viết: Thiện nhân ngô bât đắc nhi kiến chi hĩ! Đắc kiến hữu hằng giả, tư khả hĩ. Vong nhi vi hữu, hư nhi vi doanh, ước nhi vi thái, nan hồ hữu hằng hĩ.",
+            "nghia": "Khổng tử nói: Bậc thánh nhân thì ta chưa nhìn thấy! Người quân tử thì ta gặp rồi. Khổng tử lại nói: Bậc thiện nhân ta cũng chưa nhìn thấy, mới được thấy bậc hằng giả (người giữ tấm lòng nhân son sắt, không thay đổi). Những kẻ không có mà giả như có, thiếu thốn mà giả bộ đầy đủ, nghèo hèn mà giả bộ giàu sang thì kẻ ấy cũng chẳng giữ được tấm lòng chung thủy.",
             "binh": ""
           },
           {
             "id": "7.26",
             "hanviet": "Tử điếu nhi bất cương, dặc bất xạ túc.",
             "nghia": "Khổng tử câu cá mà không bao giờ dùng lưới vét, săn thú không bắn con chim đã về tổ nghỉ",
-            "binh": "Đức nhân của Khổng tử bao gồm cả loài vật . Ngài tránh đánh lưới vét cả những con cá nhỏ, tránh bắn chim trong tổ vì có thể nó đang ấp trứng"
+            "binh": "Đức nhân của Khổng tử bao gồm cả loài vật. Ngài tránh đánh lưới vét cả những con cá nhỏ, tránh bắn chim trong tổ vì có thể nó đang ấp trứng"
           },
           {
             "id": "7.27",
@@ -1128,20 +1128,20 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "7.28",
-            "hanviet": "Hỗ hương nan dữ ngôn, đồng tử kiến, môn nhân hoặc. Tử viết: Dự kỳ tiến dã, bất dự kỳ thoái dã, duy hà thậm ? Nhân khiết kỷ dĩ tiến. Dự kỳ khiết dã. Bất bảo kỳ vãng dã.",
-            "nghia": "Người làng Hỗ khó trò chuyện, một đứa bé làng Hỗ gặp Khổng tử xin vào học, những học trò khác thấy nghi ngờ. Khổng tử nói: Ta ủng hộ sự tiến bộ, không thích cái suy thoái, sao lại đối xử thậm tệ ? Họ chân thành đến với mình, ta tán thành sự trong sạch vô tư. Không nên nghĩ đến quá khứ của họ.",
+            "hanviet": "Hỗ hương nan dữ ngôn, đồng tử kiến, môn nhân hoặc. Tử viết: Dự kỳ tiến dã, bất dự kỳ thoái dã, duy hà thậm? Nhân khiết kỷ dĩ tiến. Dự kỳ khiết dã. Bất bảo kỳ vãng dã.",
+            "nghia": "Người làng Hỗ khó trò chuyện, một đứa bé làng Hỗ gặp Khổng tử xin vào học, những học trò khác thấy nghi ngờ. Khổng tử nói: Ta ủng hộ sự tiến bộ, không thích cái suy thoái, sao lại đối xử thậm tệ? Họ chân thành đến với mình, ta tán thành sự trong sạch vô tư. Không nên nghĩ đến quá khứ của họ.",
             "binh": ""
           },
           {
             "id": "7.29",
-            "hanviet": "Tử viết: Nhân viễn hồ tai ? Ngã dục nhân, tư nhân chí hĩ.",
-            "nghia": "Khổng tử nói: Chẳng lẽ điều nhân xa xôi vậy ư ? Ta muốn đạt điều nhân thì điều nhân sẽ đến.",
+            "hanviet": "Tử viết: Nhân viễn hồ tai? Ngã dục nhân, tư nhân chí hĩ.",
+            "nghia": "Khổng tử nói: Chẳng lẽ điều nhân xa xôi vậy ư? Ta muốn đạt điều nhân thì điều nhân sẽ đến.",
             "binh": ""
           },
           {
             "id": "7.30",
-            "hanviet": "Trần tư bại vấn: Chiêu Công tri lễ hồ ? Khổng tử viết: Tri lễ. Khổng tử thoái, ấp Vu Mã Kỳ nhi tiến chi viết: Ngô văn quân tử bất đảng, quân tử diệc đảng hồ ? Quân thủ ư Ngô, vi đồng tính, vị chi Ngô mạnh tử. Quân nhi tri lễ, thục bất tri lễ ? Vu Mã Kỳ dĩ cáo. Tử viết: Khâu dã hạnh, cẩu hữu quá, nhân tất tri chi. Quan tư bại nước",
-            "nghia": "Trần hỏi: Vua Lỗ Chiêu Công có biết lễ không ? Khổng tử trả lời: Biết lễ. Sau khi Khổng tử ra ngoài, quan tư bại vái chào Vu Mã Kỳ rồi tiến đến nói: Ta nghe nói quân tử không thiên vị, sao người quân tử như Khổng tử lại thiên vị ? Vua (Lỗ) cưới con gái nước Ngô là người cùng họ, gọi bà ấy là Ngô mạnh tử (dòng thứ họ Ngô). Vua Lỗ mà biết lễ thì còn ai không biết lễ ?! Sau Vu Mã Kỳ nói lại, Khổng tử nói: Ta thật may mắn, chỉ mắc chút sai lầm thì có người phát hiện chỉ ra cho.",
+            "hanviet": "Trần tư bại vấn: Chiêu Công tri lễ hồ? Khổng tử viết: Tri lễ. Khổng tử thoái, ấp Vu Mã Kỳ nhi tiến chi viết: Ngô văn quân tử bất đảng, quân tử diệc đảng hồ? Quân thủ ư Ngô, vi đồng tính, vị chi Ngô mạnh tử. Quân nhi tri lễ, thục bất tri lễ? Vu Mã Kỳ dĩ cáo. Tử viết: Khâu dã hạnh, cẩu hữu quá, nhân tất tri chi. Quan tư bại nước",
+            "nghia": "Trần hỏi: Vua Lỗ Chiêu Công có biết lễ không? Khổng tử trả lời: Biết lễ. Sau khi Khổng tử ra ngoài, quan tư bại vái chào Vu Mã Kỳ rồi tiến đến nói: Ta nghe nói quân tử không thiên vị, sao người quân tử như Khổng tử lại thiên vị? Vua (Lỗ) cưới con gái nước Ngô là người cùng họ, gọi bà ấy là Ngô mạnh tử (dòng thứ họ Ngô). Vua Lỗ mà biết lễ thì còn ai không biết lễ! Sau Vu Mã Kỳ nói lại, Khổng tử nói: Ta thật may mắn, chỉ mắc chút sai lầm thì có người phát hiện chỉ ra cho.",
             "binh": "Khổng tử không biết việc vua Lỗ (đồng hương) lấy người cùng họ, khi được người khác nói ra, ông lấy làm vui chứ không giận. Đó là bản lĩnh của người có đức nhân"
           },
           {
@@ -1158,13 +1158,13 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "7.33",
-            "hanviet": "Tử viết: Nhược thánh dữ nhân, tắc ngô khải cảm ? Ức vi chi bất yếm, hối nhân bất quyện, tắc khả vị vân nhĩ dĩ hĩ. Công Tây Hoa viết: Chính duy đệ tử bất năng học dã.",
-            "nghia": "Khổng tử nói: Nếu bảo là người nhân đức, ta đâu dám nhận ? Hành động theo thánh nhân thì ta chưa biết chán, dạy người chưa biết mệt mỏi, chỉ có thể nói vậy thôi. Công Tây Hoa nói: Những điều đó, học trò tụi con không học nổi.",
+            "hanviet": "Tử viết: Nhược thánh dữ nhân, tắc ngô khải cảm? Ức vi chi bất yếm, hối nhân bất quyện, tắc khả vị vân nhĩ dĩ hĩ. Công Tây Hoa viết: Chính duy đệ tử bất năng học dã.",
+            "nghia": "Khổng tử nói: Nếu bảo là người nhân đức, ta đâu dám nhận? Hành động theo thánh nhân thì ta chưa biết chán, dạy người chưa biết mệt mỏi, chỉ có thể nói vậy thôi. Công Tây Hoa nói: Những điều đó, học trò tụi con không học nổi.",
             "binh": ""
           },
           {
             "id": "7.34",
-            "hanviet": "Tử tật bệnh, Tử Lộ thỉnh đảo. Tử viết: Hữu chư ? Tử Lộ đối viết: Hữu chi. “Lụy” viết: Đảo nhĩ ư thượng thần kì.”. Tử viết: Khâu chi đảo cữu hĩ. Khổng tử bị bệnh, Tử Lộ định làm lễ cầu cúng thần linh.",
+            "hanviet": "Tử tật bệnh, Tử Lộ thỉnh đảo. Tử viết: Hữu chư? Tử Lộ đối viết: Hữu chi. “Lụy” viết: Đảo nhĩ ư thượng thần kì.”. Tử viết: Khâu chi đảo cữu hĩ. Khổng tử bị bệnh, Tử Lộ định làm lễ cầu cúng thần linh.",
             "nghia": "Khổng tử nói: Có việc đó ư? Tử Lộ đáp: Có, sách Lụy viết: Cầu xin các vị thần ở trên. Khổng tử nói: Ta đã cầu khẩn từ lâu rồi.",
             "binh": "Thói thường, con người khi cần thiết mới đi cầu xin thần linh. Khổng tử nói “cầu khấn từ lâu” nghĩa là ông đã thực hành điều nhân đức hợp với thần linh, ắt sẽ được phù trợ"
           },
@@ -1196,7 +1196,7 @@ const TU_THU_LIBRARY = {
         "passages": [
           {
             "id": "8.1",
-            "hanviet": ":, Tử viết: Thái Bá, kỳ khả vị chí đức dã dĩ hĩ. Tam dĩ thiên hạ nhượng, dân vô đắc nhi xưng yên.",
+            "hanviet": ", Tử viết: Thái Bá, kỳ khả vị chí đức dã dĩ hĩ. Tam dĩ thiên hạ nhượng, dân vô đắc nhi xưng yên.",
             "nghia": "Khổng tử nói: Thái Bá là con người có đức hết mực. Ba lần đem thiên hạ nhường cho người khác, không để dân chúng biết mà ca ngợi. nguyện vua cha, bèn bàn với người em là Trọng Ung cùng trốn sang xứ Ngô Việt để cha dễ dàng thực hiện ý nguyện)",
             "binh": "Thái Bá là con trưởng của vua chư hầu Cổ Công Đán Phụ (tổ phụ nhà Chu), biết nhà vua muốn chọn Cơ Xương, con người em trai út là Quý Lịch của mình làm vua. Thái Bá biết ý"
           },
@@ -1208,32 +1208,32 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "8.3",
-            "hanviet": "Tăng Tử hữu bệnh, triệu môn đệ tử viết: Khải dư túc ! Khải dư thủ ! Thi vân: “Chiến chiến căng căng căng, như lâm thâm uyên, như lý bạc băng” nhi kim nhi hậu, ngô tri miễn phu, tiểu tử ! Tăng Tử ốm nặng, gọi học trò",
-            "nghia": "đến nói: Xem chân của ta, xem tay ta… Kinh Thi viết “Run rẩy nơm nớp, như đi ven vực thẳm, như bước trên lớp băng mỏng nước sâu”, từ nay về sau, ta không còn lo lỡ làm thương tổn thân thể vốn của mẹ cha nữa, các trò ơi !",
+            "hanviet": "Tăng Tử hữu bệnh, triệu môn đệ tử viết: Khải dư túc! Khải dư thủ! Thi vân: “Chiến chiến căng căng căng, như lâm thâm uyên, như lý bạc băng” nhi kim nhi hậu, ngô tri miễn phu, tiểu tử! Tăng Tử ốm nặng, gọi học trò",
+            "nghia": "đến nói: Xem chân của ta, xem tay ta… Kinh Thi viết “Run rẩy nơm nớp, như đi ven vực thẳm, như bước trên lớp băng mỏng nước sâu”, từ nay về sau, ta không còn lo lỡ làm thương tổn thân thể vốn của mẹ cha nữa, các trò ơi!",
             "binh": "Câu thơ trong Kinh Thi nhắc con người thường xuyên cẩn thận giữ gìn thân thể … Tăng tử sắp chết, nhận thấy thân thể mình nguyên vẹn thì yên tâm rằng chưa làm xúc phạm tổn thương thân thể, tức là đã giữ được chữ hiếu"
           },
           {
             "id": "8.4",
-            "hanviet": "Tăng Tử hữu tật, Mạnh Kính tử vấn chi. Tăng Tử ngôn viết: Điểu chi thương tử, kỳ minh dã ai ; Nhân chi thương tử, kỳ ngôn dã thiện. Quân tử sở quý hồ đạo giả tam: động dung mạo, tư viễn bạo mạn hĩ; Chính nhan sắc, tư cận tín hĩ; Xuất từ khí, tư viễn bỉ bội hĩ. Biên đậu chi sự, tắc hữu ti tồn.",
+            "hanviet": "Tăng Tử hữu tật, Mạnh Kính tử vấn chi. Tăng Tử ngôn viết: Điểu chi thương tử, kỳ minh dã ai; Nhân chi thương tử, kỳ ngôn dã thiện. Quân tử sở quý hồ đạo giả tam: động dung mạo, tư viễn bạo mạn hĩ; Chính nhan sắc, tư cận tín hĩ; Xuất từ khí, tư viễn bỉ bội hĩ. Biên đậu chi sự, tắc hữu ti tồn.",
             "nghia": "Tăng tử ốm nặng, Mạnh Kính tử đến thăm. Tăng tử nói: Con chim sắp chết tiếng kêu bi thương, con người sắp chết lời nói rất thực. Quân tử theo đạo cần chú ý ba điều: Cử chỉ nên khoan thai điềm đạm; ắt rời xa thô bạo ngạo mạn); Sắc mặt đoan trang nên được tín nhiệm, cất lời nói thì chú ý giọng điệu tránh thô bỉ sai sót. Còn việc cúng tế khác đã có quan chủ sự lo toan.",
             "binh": ""
           },
           {
             "id": "8.5",
-            "hanviet": "Tăng Tử viết: Dĩ năng vấn ư bất năng, dĩ đa vấn ư quả, hữu nhược vô, thực nhược hư; Phạm nhi bất giáo…..Tích giả ngô hữu thường tòng sự ư tư hĩ.",
+            "hanviet": "Tăng Tử viết: Dĩ năng vấn ư bất năng, dĩ đa vấn ư quả, hữu nhược vô, thực nhược hư; Phạm nhi bất giáo…. Tích giả ngô hữu thường tòng sự ư tư hĩ.",
             "nghia": "Tăng tử nói: Người làm được lại dám đi hỏi người không biết, người biết nhiều lại đi hỏi kẻ biết ít. Có tài năng mà nhìn qua như không có, có học thức mà thể hiện như không. Bị xúc phạm mà không tranh cãi so đo. Ta từng có những người bạn cũ như thế.",
             "binh": ""
           },
           {
             "id": "8.6",
-            "hanviet": "Tăng tử thuyết: Khả dĩ thác lục xích chi cô, khả dĩ ký bách lý chi mệnh, lâm đại tiết nhi bất đoạt dã. Quân tử nhân dư ? Quân tử nhân dã. Tăng",
-            "nghia": "Tử nói: Có thể gửi gắm vua còn nhỏ tuổi, có thể giao vận mệnh quốc gia, nguy hiểm thân mình không mất khí tiết. Người ấy có phải quân tử không ? Đúng là người quân tử.",
+            "hanviet": "Tăng tử thuyết: Khả dĩ thác lục xích chi cô, khả dĩ ký bách lý chi mệnh, lâm đại tiết nhi bất đoạt dã. Quân tử nhân dư? Quân tử nhân dã. Tăng",
+            "nghia": "Tử nói: Có thể gửi gắm vua còn nhỏ tuổi, có thể giao vận mệnh quốc gia, nguy hiểm thân mình không mất khí tiết. Người ấy có phải quân tử không? Đúng là người quân tử.",
             "binh": ""
           },
           {
             "id": "8.7",
-            "hanviet": "Tăng Tử viết: Sĩ bất khả dĩ bất hoằng nghị, nhậm trọng nhi đạo viễn. Nhân dĩ vi kỷ nhậm, bất diệc trọng hồ? Tử nhi hậu dĩ, bất diệc viễn hồ ? Tăng",
-            "nghia": "Tử nói: Kẻ sĩ không thể thiếu lý tưởng lớn lao và ý chí kiên cường bởi vì bởi vì họ phải gánh vác trách nhiệm lớn lao. Gánh điều nhân chẳng phải rất nặng ư ? Đến chết mới được ngừng nghỉ, chẳng phải đường dài ư ?",
+            "hanviet": "Tăng Tử viết: Sĩ bất khả dĩ bất hoằng nghị, nhậm trọng nhi đạo viễn. Nhân dĩ vi kỷ nhậm, bất diệc trọng hồ? Tử nhi hậu dĩ, bất diệc viễn hồ? Tăng",
+            "nghia": "Tử nói: Kẻ sĩ không thể thiếu lý tưởng lớn lao và ý chí kiên cường bởi vì bởi vì họ phải gánh vác trách nhiệm lớn lao. Gánh điều nhân chẳng phải rất nặng ư? Đến chết mới được ngừng nghỉ, chẳng phải đường dài ư?",
             "binh": ""
           },
           {
@@ -1304,13 +1304,13 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "8.19",
-            "hanviet": "Tử viết: Đại tai Nghiêu chi vi quân dã ! Nguy nguy hồ duy thiên vi đại, duy Nghiêu tắc chi. Đãng đãng hồ, dân vô năng danh yên. Nguy nguy hồ kỳ hữu thành công dã, hoán hồ kỳ hữu văn chương.",
-            "nghia": "Khổng tử nói: Vĩ đại thay vua Nghiêu ! Cao quí thay, chỉ có trời là cao lớn nhất, và chỉ có vua Nghiêu theo kịp đạo trời. Mênh mông bát ngát dân chúng không ca ngợi xiết. Công lao vua Nghiêu thật vĩ đại, văn chương lễ nhạc ban ra tươi sáng khắp nơi.",
+            "hanviet": "Tử viết: Đại tai Nghiêu chi vi quân dã! Nguy nguy hồ duy thiên vi đại, duy Nghiêu tắc chi. Đãng đãng hồ, dân vô năng danh yên. Nguy nguy hồ kỳ hữu thành công dã, hoán hồ kỳ hữu văn chương.",
+            "nghia": "Khổng tử nói: Vĩ đại thay vua Nghiêu! Cao quí thay, chỉ có trời là cao lớn nhất, và chỉ có vua Nghiêu theo kịp đạo trời. Mênh mông bát ngát dân chúng không ca ngợi xiết. Công lao vua Nghiêu thật vĩ đại, văn chương lễ nhạc ban ra tươi sáng khắp nơi.",
             "binh": ""
           },
           {
             "id": "8.20",
-            "hanviet": "Thuấn hữu thần ngũ nhân nhi thiên hạ trị. Vũ vương viết: Dư hữu thập nhân. Khổng tử viết: Tài nan, bất kỳ nhiên hồ ? Đường Ngu chi tế, ư tư kỳ thịnh, hữu phụ nhân yên cửu nhân nhi dĩ. Tam phân thiên hạ hữu kỳ nhị, dĩ phục sự Ân.Chuchi đức, kỳ khả vị chí đức dã dĩ hĩ.",
+            "hanviet": "Thuấn hữu thần ngũ nhân nhi thiên hạ trị. Vũ vương viết: Dư hữu thập nhân. Khổng tử viết: Tài nan, bất kỳ nhiên hồ? Đường Ngu chi tế, ư tư kỳ thịnh, hữu phụ nhân yên cửu nhân nhi dĩ. Tam phân thiên hạ hữu kỳ nhị, dĩ phục sự Ân. Chuchi đức, kỳ khả vị chí đức dã dĩ hĩ.",
             "nghia": "Vua Thuấn chỉ có năm hiền thần mà thiên hạ bền vững. Vua Vũ Vương từng nói: Ta có mười người. Khổng tử nói: Có được nhân tài khó thay, chẳng phải vậy ư? Sau thời Đường Ngu có lúc Vũ vương đạt đến thịnh vượng, nhưng trong 10 người chỉ có 1 người là nữ, nên thực ra chỉ có 9 người mà thôi. Được hai phần ba thiên hạ, vua Vũ vẫn lấy thân phận chư hầu phục vụ nhà Ân. Đức của vua Chu Vũ Vương là cao quí nhất.",
             "binh": ""
           },
@@ -1330,15 +1330,15 @@ const TU_THU_LIBRARY = {
         "passages": [
           {
             "id": "9.1",
-            "hanviet": "Tử hãn ngôn lợi dữ mệnh dữ nhân Xin xem thiên 5.13 Công Dã Tràng (Tử",
-            "nghia": "Khổng tử it bàn về lợi, mệnh trời và nhân tính. Chúng tôi đã tham khảo hai cách chú giải: 1. GS. Cao Xuân Huy giải thích:”Khổng tử ít khi bàn về lợi ích liên quan đến thiên mệnh và nhân” (GS Nguyễn Huệ Chi thuật lại qua một email khi tôi hỏi ý kiến thầy). Nghĩa là chỉ bàn về lợi nếu không liên quan đến mệnh và nhân. 2. Một số học giả Trung Quốc và Đài Loan cho rằng: Khổng tử ít khi bàn về lợi nhưng có bàn về mệnh trời và nhân tính (do phiên âm như sau: Tử hãn ngôn lợi dự mệnh dự nhân) Sau cùng chúng tôi chọn cách chú giải khác và tin tưởng là đúng hơn: “Lợi”: Khổng tử it bàn về lợi, vì lợi mình mà hại người, hại đạo. Quan điểm của cổ nhân thường là:Trọng nghĩa khinh lợi, Trọng nghĩa khinh tài, Nghĩa trước, lợi sau. Quan điểm đó phù hợp với lời Khổng tử. “Thiên mệnh” huyền bí, con người chưa thể thấu hiểu được, nói tùy tiện khiến người ta lo lắng. Do đó Khổng tử không muốn bàn về “Trời”. “Nhân” là khái niệm mở rộng, rất phức tạp, không thể đơn giản bàn lý thuyết, do vậy Khổng tử chỉ xem xét những trường hợp cụ thể của chữ Nhân. Cống nói: Văn chương của thầy, chúng ta đã được biết. Còn luận bàn của thầy về nhân tính và đạo trời thì chúng ta chưa biết).",
+            "hanviet": "Tử hãn ngôn lợi dữ mệnh dữ nhân Xin xem thiên 5. 13 Công Dã Tràng (Tử",
+            "nghia": "Khổng tử it bàn về lợi, mệnh trời và nhân tính. Chúng tôi đã tham khảo hai cách chú giải: 1. GS. Cao Xuân Huy giải thích:”Khổng tử ít khi bàn về lợi ích liên quan đến thiên mệnh và nhân” (GS Nguyễn Huệ Chi thuật lại qua một email khi tôi hỏi ý kiến thầy). Nghĩa là chỉ bàn về lợi nếu không liên quan đến mệnh và nhân. 2. Một số học giả Trung Quốc và Đài Loan cho rằng: Khổng tử ít khi bàn về lợi nhưng có bàn về mệnh trời và nhân tính (do phiên âm như sau: Tử hãn ngôn lợi dự mệnh dự nhân) Sau cùng chúng tôi chọn cách chú giải khác và tin tưởng là đúng hơn: “Lợi”: Khổng tử it bàn về lợi, vì lợi mình mà hại người, hại đạo. Quan điểm của cổ nhân thường là: Trọng nghĩa khinh lợi, Trọng nghĩa khinh tài, Nghĩa trước, lợi sau. Quan điểm đó phù hợp với lời Khổng tử. “Thiên mệnh” huyền bí, con người chưa thể thấu hiểu được, nói tùy tiện khiến người ta lo lắng. Do đó Khổng tử không muốn bàn về “Trời”. “Nhân” là khái niệm mở rộng, rất phức tạp, không thể đơn giản bàn lý thuyết, do vậy Khổng tử chỉ xem xét những trường hợp cụ thể của chữ Nhân. Cống nói: Văn chương của thầy, chúng ta đã được biết. Còn luận bàn của thầy về nhân tính và đạo trời thì chúng ta chưa biết).",
             "binh": "(Nguyễn Thanh Phong NCS ở Đài Loan cung cấp tư liệu)."
           },
           {
             "id": "9.2",
-            "hanviet": "Đạt Hạng đảng nhân viết: Đại tai Khổng tử ! Bác học nhi vô sở thành danh. Tử văn chi, vị môn đệ tử viết: Ngô hà chấp? Chấp ngự hồ ? Chấp xạ hồ ? Ngô chấp ngự hĩ.",
-            "nghia": "Một người ở làng Đạt Hạng nói: “Khổng tử thật là vĩ đại ! Người học rộng nhưng rất tiếc chẳng có chức danh gì”. Khổng tử nghe được, nói với học trò: “Ta làm cái gì ư? Ta đánh xe hay là bắn cung? Thôi, ta làm nghề đánh xe vậy.”",
-            "binh": "Người dân ca ngợi Khổng tử vĩ đại nhưng họ tiếc rằng ngài chẳng có danh hiệu gì. Thực ra Khổng tử vĩ đại ở đức nhân. Đây là điều cốt lõi của con người và nền tảng văn minh của xã hội…Con người không nhất thiết phải có một cái danh gì cụ thể. Nếu nhất định phải có thì ngài nhận mình là nghề đánh xe. Tức là đánh xe dẫn đường cho con người vậy !"
+            "hanviet": "Đạt Hạng đảng nhân viết: Đại tai Khổng tử! Bác học nhi vô sở thành danh. Tử văn chi, vị môn đệ tử viết: Ngô hà chấp? Chấp ngự hồ? Chấp xạ hồ? Ngô chấp ngự hĩ.",
+            "nghia": "Một người ở làng Đạt Hạng nói: “Khổng tử thật là vĩ đại! Người học rộng nhưng rất tiếc chẳng có chức danh gì”. Khổng tử nghe được, nói với học trò: “Ta làm cái gì ư? Ta đánh xe hay là bắn cung? Thôi, ta làm nghề đánh xe vậy.”",
+            "binh": "Người dân ca ngợi Khổng tử vĩ đại nhưng họ tiếc rằng ngài chẳng có danh hiệu gì. Thực ra Khổng tử vĩ đại ở đức nhân. Đây là điều cốt lõi của con người và nền tảng văn minh của xã hội…Con người không nhất thiết phải có một cái danh gì cụ thể. Nếu nhất định phải có thì ngài nhận mình là nghề đánh xe. Tức là đánh xe dẫn đường cho con người vậy!"
           },
           {
             "id": "9.3",
@@ -1354,14 +1354,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "9.5",
-            "hanviet": "Tử úy ư Khuông, viết: Văn Vương kí một, văn bất tại tư hồ? Thiên chi thương tang tư văn dã, hậu tử giả bất đắc dữ ư tư văn dã; Thiên chi vị táng tư văn dã, Khuông nhân kỳ như dư hà ?",
-            "nghia": "Khi qua đất Khuông bị vây khốn, Khổng tử nói: Vua Văn Vương đã mất đi, chẳng phải lễ nhạc, văn hóa đều còn ở nơi ta cả ư? Nếu Trời muốn hủy diệt nền văn hoá này thì sao vua Văn Vương mất đi lại ủy thác cho ta nắm lấy làm chi ? Còn nếu Trời không muốn mất nền văn hoá này thì người Khuông làm gì được ta !",
+            "hanviet": "Tử úy ư Khuông, viết: Văn Vương kí một, văn bất tại tư hồ? Thiên chi thương tang tư văn dã, hậu tử giả bất đắc dữ ư tư văn dã; Thiên chi vị táng tư văn dã, Khuông nhân kỳ như dư hà?",
+            "nghia": "Khi qua đất Khuông bị vây khốn, Khổng tử nói: Vua Văn Vương đã mất đi, chẳng phải lễ nhạc, văn hóa đều còn ở nơi ta cả ư? Nếu Trời muốn hủy diệt nền văn hoá này thì sao vua Văn Vương mất đi lại ủy thác cho ta nắm lấy làm chi? Còn nếu Trời không muốn mất nền văn hoá này thì người Khuông làm gì được ta!",
             "binh": ""
           },
           {
             "id": "9.6",
-            "hanviet": ":. :, ,:, Thái Tể vấn ư Tử Cống viết: Phu tử thánh giả dự ? Hà kỳ đa năng dã ? Tử Cống viết: Cố thiên tung chi thương thánh, hữu đa năng dã. Tử văn chi, viết: Thái Tể tri ngã hồ ? Ngô thiểu dã tiện, cổ đa năng bỉ sự. Quân tử đa hồ tai ? Bất đa dã.",
-            "nghia": "Quan Thái tể hỏi Tử Cống: Khổng tử là bậc thánh phải không? Vì sao ngài nhiều tài nghệ như vậy?. Tử Cống nói: Đây do Trời để cho Khổng tử làm thánh nhân, có nhiều tài… Khổng tử biết việc này, nói: “Quan Thái tể làm sao hiểu được ta. Lúc nhỏ ta nghèo hèn, phải làm nhiều nghề nên biết nhiều việc nhỏ mọn. Người quân tử có cần biết nhiều vậy không ? Ta nghĩ không cần biết nhiều như vậy”",
+            "hanviet": ".:,,:, Thái Tể vấn ư Tử Cống viết: Phu tử thánh giả dự? Hà kỳ đa năng dã? Tử Cống viết: Cố thiên tung chi thương thánh, hữu đa năng dã. Tử văn chi, viết: Thái Tể tri ngã hồ? Ngô thiểu dã tiện, cổ đa năng bỉ sự. Quân tử đa hồ tai? Bất đa dã.",
+            "nghia": "Quan Thái tể hỏi Tử Cống: Khổng tử là bậc thánh phải không? Vì sao ngài nhiều tài nghệ như vậy. Tử Cống nói: Đây do Trời để cho Khổng tử làm thánh nhân, có nhiều tài… Khổng tử biết việc này, nói: “Quan Thái tể làm sao hiểu được ta. Lúc nhỏ ta nghèo hèn, phải làm nhiều nghề nên biết nhiều việc nhỏ mọn. Người quân tử có cần biết nhiều vậy không? Ta nghĩ không cần biết nhiều như vậy”",
             "binh": ""
           },
           {
@@ -1372,14 +1372,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "9.8",
-            "hanviet": ": , Tử viết: Ngô hữu tri hồ tai ? Vô tri dã. Hữu bỉ phu vấn ư ngã, không không như dã. Ngã khấu kỳ lưỡng đoan nhi kiệt yên.",
-            "nghia": "Khổng tử nói: Ta có nhiều hiểu biết ư ? Không, ta không hiểu biết nhiều đâu. Có một nông dân hỏi ta một việc, lúc đầu ta chưa hiểu gì cả. Sau, ta phải hỏi lại trước sau đầu đuôi, rồi ta giải thích tường tận cho họ.",
+            "hanviet": ", Tử viết: Ngô hữu tri hồ tai? Vô tri dã. Hữu bỉ phu vấn ư ngã, không không như dã. Ngã khấu kỳ lưỡng đoan nhi kiệt yên.",
+            "nghia": "Khổng tử nói: Ta có nhiều hiểu biết ư? Không, ta không hiểu biết nhiều đâu. Có một nông dân hỏi ta một việc, lúc đầu ta chưa hiểu gì cả. Sau, ta phải hỏi lại trước sau đầu đuôi, rồi ta giải thích tường tận cho họ.",
             "binh": ""
           },
           {
             "id": "9.9",
-            "hanviet": "Tử viết:: Phượng điểu bất chí, hà bất xuất đồ, ngô dĩ hĩ phù !",
-            "nghia": "Khổng tử nói: Phượng hoàng không bay đến, sông Hoàng Hà không xuất hiện đồ thư, đời ta thế là hết rồi !",
+            "hanviet": "Tử viết:: Phượng điểu bất chí, hà bất xuất đồ, ngô dĩ hĩ phù!",
+            "nghia": "Khổng tử nói: Phượng hoàng không bay đến, sông Hoàng Hà không xuất hiện đồ thư, đời ta thế là hết rồi!",
             "binh": "Theo truyền thuyết, thiên hạ thái bình thì chim phượng hoàng bay đến, thánh nhân xuất hiện thì trên sông Hoàng nổi tấm đồ thư (truyền thuyết về Hà đồ / bức vẽ bát quái trên sông- nguồn gốc của Kinh Dịch). Khổng tử buồn bã vì thời Xuân thu loạn lạc, chư hầu phân tranh, mất hết đạo đức lễ nghĩa, không ai theo lễ nhàChunữa"
           },
           {
@@ -1396,19 +1396,19 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "9.12",
-            "hanviet": "Tử tật bệnh, Tử Lộ sử môn nhân vi thần. Bệnh gián, viết: Cửu hĩ tai, di chi hành trá dã. Vô thần nhi vi hữu thần. Ngô thùy khi ? Khi thiên hồ? Thả dư dữ kỳ tử ư thần chi thủ dã, vô ninh tử ư nhị tam tử chi thủ hồ? Thả dư tung bất đắc đại táng, dư tử ư đạo lộ hồ ?",
-            "nghia": "Khổng tử ốm nặng, Tử Lộ bảo học trò của thầy đóng vai gia thần lo liệu hậu sự. Bệnh tình thuyên giảm, Khổng tử nói: Quá lắm rồi, Trọng Do, thật quá bày vẽ. Không thực tế lại còn dối trá nữa. Ta làm gì có gia thần mà lại giả bộ thế. Ta lừa ai ? lừa trời chăng ? Giả sử ta chết trong tay gia thần, sao bằng chết trong tay học trò của ta ! Dù không được tang lễ trọng thể, chả lẽ ta chết ở ngoài đường hay sao ?",
+            "hanviet": "Tử tật bệnh, Tử Lộ sử môn nhân vi thần. Bệnh gián, viết: Cửu hĩ tai, di chi hành trá dã. Vô thần nhi vi hữu thần. Ngô thùy khi? Khi thiên hồ? Thả dư dữ kỳ tử ư thần chi thủ dã, vô ninh tử ư nhị tam tử chi thủ hồ? Thả dư tung bất đắc đại táng, dư tử ư đạo lộ hồ?",
+            "nghia": "Khổng tử ốm nặng, Tử Lộ bảo học trò của thầy đóng vai gia thần lo liệu hậu sự. Bệnh tình thuyên giảm, Khổng tử nói: Quá lắm rồi, Trọng Do, thật quá bày vẽ. Không thực tế lại còn dối trá nữa. Ta làm gì có gia thần mà lại giả bộ thế. Ta lừa ai? lừa trời chăng? Giả sử ta chết trong tay gia thần, sao bằng chết trong tay học trò của ta! Dù không được tang lễ trọng thể, chả lẽ ta chết ở ngoài đường hay sao?",
             "binh": "Tử Lộ vì tôn kính thầy mà đạo diễn đám tang thầy theo kiểu quan chức, quí tộc. Khổng tử thì muốn hành xử theo đúng chính danh, nếu làm như trò là dối người lừa trời, chết mà còn mắc thêm tội"
           },
           {
             "id": "9.13",
-            "hanviet": ": Tử Cống viết: Hữu mỹ ngọc ư tư, uẩn độc nhi tàng chư ? Cầu thiện giá nhi cô chư ? Tử viết: Cô chi tai, cô chi tai ! Ngã đãi giá giả dã. Tử",
-            "nghia": "Cống nói: Đây có viên ngọc đẹp, bây giờ cất vào trong tráp hay là đem tìm người biết giá trị của nó mà bán đi ? Khổng tử đáp: Bán đi, bán đi…Ta đang đợi người biết giá của nó đây.",
+            "hanviet": "Tử Cống viết: Hữu mỹ ngọc ư tư, uẩn độc nhi tàng chư? Cầu thiện giá nhi cô chư? Tử viết: Cô chi tai, cô chi tai! Ngã đãi giá giả dã. Tử",
+            "nghia": "Cống nói: Đây có viên ngọc đẹp, bây giờ cất vào trong tráp hay là đem tìm người biết giá trị của nó mà bán đi? Khổng tử đáp: Bán đi, bán đi…Ta đang đợi người biết giá của nó đây.",
             "binh": "Viên ngọc là ẩn dụ chỉ tài năng. Khổng tử nói mình chờ vua chúa mời đi làm quan"
           },
           {
             "id": "9.14",
-            "hanviet": "Tử dục cư Cửu Di. Hoặc viết: Lậu, như chi hà?. Tử viết: Quân tử cư chi, hà lậu chi hữu ?",
+            "hanviet": "Tử dục cư Cửu Di. Hoặc viết: Lậu, như chi hà. Tử viết: Quân tử cư chi, hà lậu chi hữu?",
             "nghia": "Khổng tử muốn đến đất Cửu Di để ở. Có người nói “Đất ấy quá lạc hậu, làm sao ở được”. Khổng tử nói: Có người quân tử ở đó, làm sao còn lạc hậu nữa.",
             "binh": ""
           },
@@ -1421,7 +1421,7 @@ const TU_THU_LIBRARY = {
           {
             "id": "9.16",
             "hanviet": "Tử viết: Xuất tắc sự công khanh, nhập tắc sự phụ huynh, tang sự bất cảm bất miễn, bất vi tửu khốn, hà hữu ư ngã tai.",
-            "nghia": "Khổng tử nói: Ở triều đình thì tôn kính công khanh. Ở nhà hiếu đễ với cha mẹ, anh chị, gặp việc tang thì chu toàn lễ tiết, rượu chè không quá say sưa. Những việc đó ta đã làm được ít nào chăng ?",
+            "nghia": "Khổng tử nói: Ở triều đình thì tôn kính công khanh. Ở nhà hiếu đễ với cha mẹ, anh chị, gặp việc tang thì chu toàn lễ tiết, rượu chè không quá say sưa. Những việc đó ta đã làm được ít nào chăng?",
             "binh": ""
           },
           {
@@ -1438,38 +1438,38 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "9.19",
-            "hanviet": ",,, Tử viết: Thí như vi sơn, vị thành nhất trách, chỉ, ngô chỉ dã; Thí như bình địa, tuy phúc nhất trách, tiến, ngô vãng dã.",
+            "hanviet": ",, Tử viết: Thí như vi sơn, vị thành nhất trách, chỉ, ngô chỉ dã; Thí như bình địa, tuy phúc nhất trách, tiến, ngô vãng dã.",
             "nghia": "Khổng tử nói: Cũng như đắp núi, nếu thêm một sọt nữa thì thành núi, nếu ta đột nhiên ngưng lại là do ta tự dừng lại. Lại ví như ta đắp hang hố thành đất bằng, chỉ đổ thêm một sọt đất nữa thôi, ta cũng cố gắng tiếp tục, đó là do ta muốn tiến đến thành công.",
             "binh": ""
           },
           {
             "id": "9.20",
-            "hanviet": "Tử viết: Ngữ chi nhi bất nọa giả, kỳ Hồi dã dư !",
+            "hanviet": "Tử viết: Ngữ chi nhi bất nọa giả, kỳ Hồi dã dư!",
             "nghia": "Khổng tử nói: Người nghe ta nói mà không uể oải, có lẽ chỉ có Nhan Hồi.",
             "binh": ""
           },
           {
             "id": "9.21",
-            "hanviet": "Tử vị Nhan Uyên: Tích hồ ! Ngô kiến kỳ tiến dã, vị kiến kỳ chỉ dã.",
-            "nghia": "Khổng tử nói về Nhan Uyên than rằng: Tiếc thay ! Ta chỉ thấy trò Hồi không ngừng tiến lên, chứ chưa bao giờ thấy trò ấy ngừng phấn đấu.",
+            "hanviet": "Tử vị Nhan Uyên: Tích hồ! Ngô kiến kỳ tiến dã, vị kiến kỳ chỉ dã.",
+            "nghia": "Khổng tử nói về Nhan Uyên than rằng: Tiếc thay! Ta chỉ thấy trò Hồi không ngừng tiến lên, chứ chưa bao giờ thấy trò ấy ngừng phấn đấu.",
             "binh": ""
           },
           {
             "id": "9.22",
-            "hanviet": "Tử viết: Miêu nhi bất tú giả hữu hĩ phù; Tú nhi bất thực giả hữu hĩ phù !",
-            "nghia": "Khổng tử nói: Lúa nảy mầm mà không ra đòng nở hoa, chuyện này đích xác là có đây ! Làm đòng nở hoa mà không kết hạt, chuyện này đích xác là có đây!",
+            "hanviet": "Tử viết: Miêu nhi bất tú giả hữu hĩ phù; Tú nhi bất thực giả hữu hĩ phù!",
+            "nghia": "Khổng tử nói: Lúa nảy mầm mà không ra đòng nở hoa, chuyện này đích xác là có đây! Làm đòng nở hoa mà không kết hạt, chuyện này đích xác là có đây!",
             "binh": "Khổng tử ví người quân tử cũng như cây lúa vậy, nghĩa là phải có ích"
           },
           {
             "id": "9.23",
-            "hanviet": "Tử viết: Hậu sinh khả úy, yên tri lai giả chi bất như kim dã ? Tứ thập, ngũ thập nhi vô văn yên, tư diệc bất túc úy dã dĩ.",
-            "nghia": "Khổng tử nói: Những người sinh sau rất đáng sợ, nhưng biết đâu tương lai của họ không bằng hiện nay ! Nếu họ đến bốn chục, năm chục tuổi mà chưa có tiếng tăm gì thì không phải sợ họ nữa.",
+            "hanviet": "Tử viết: Hậu sinh khả úy, yên tri lai giả chi bất như kim dã? Tứ thập, ngũ thập nhi vô văn yên, tư diệc bất túc úy dã dĩ.",
+            "nghia": "Khổng tử nói: Những người sinh sau rất đáng sợ, nhưng biết đâu tương lai của họ không bằng hiện nay! Nếu họ đến bốn chục, năm chục tuổi mà chưa có tiếng tăm gì thì không phải sợ họ nữa.",
             "binh": ""
           },
           {
             "id": "9.24",
-            "hanviet": "Tử viết: Pháp ngữ chi ngôn, năng vô tòng hồ ? Cải chi vi quí. Tốn dữ chi ngôn, năng vô duyệt hồ ? Dịch chi vi quí. Duyệt nhi bất dịch, tòng nhi bất cải, ngô mạt như chi hà dã dĩ hĩ.",
-            "nghia": "Khổng tử nói: Lời nói đúng đắn có thể không nghe theo ư ? Làm theo lời ấy mà sửa chữa mới là quý. Lời nói từ tốn nhẹ nhàng nghe không vui sướng sao ? Vui thích chưa đủ, còn phải suy nghĩ nữa. Chỉ biết tiếp thu mà không sửa chữa, biết vui thích mà không suy nghĩ, ta chả biết loại người ấy thế nào nữa.",
+            "hanviet": "Tử viết: Pháp ngữ chi ngôn, năng vô tòng hồ? Cải chi vi quí. Tốn dữ chi ngôn, năng vô duyệt hồ? Dịch chi vi quí. Duyệt nhi bất dịch, tòng nhi bất cải, ngô mạt như chi hà dã dĩ hĩ.",
+            "nghia": "Khổng tử nói: Lời nói đúng đắn có thể không nghe theo ư? Làm theo lời ấy mà sửa chữa mới là quý. Lời nói từ tốn nhẹ nhàng nghe không vui sướng sao? Vui thích chưa đủ, còn phải suy nghĩ nữa. Chỉ biết tiếp thu mà không sửa chữa, biết vui thích mà không suy nghĩ, ta chả biết loại người ấy thế nào nữa.",
             "binh": ""
           },
           {
@@ -1486,7 +1486,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "9.27",
-            "hanviet": "Tử viết: Ý tệ uân bào, dự ý hồ hạc giả lập nhi bất sỉ giả, kỳ Do dã dư ? Bất kỵ bất cầu, hà dụng bất tang ? Tử Lộ chung thân tụng chi. Tử viết: Thị đạo dã, hà túc dĩ tang ?",
+            "hanviet": "Tử viết: Ý tệ uân bào, dự ý hồ hạc giả lập nhi bất sỉ giả, kỳ Do dã dư? Bất kỵ bất cầu, hà dụng bất tang? Tử Lộ chung thân tụng chi. Tử viết: Thị đạo dã, hà túc dĩ tang?",
             "nghia": "Khổng tử nói: Mặc áo vải cũ rách dám đứng chung với người áo lông gấm mà không hổ thẹn, ta thấy chỉ có Tử Lộ thôi. Kinh Thi có câu: Không đố kỵ, chẳng tham cầu, làm gì mà chẳng tốt đẹp”. Tử Lộ nghe được, thích lắm cứ đọc mãi hai câu này… Thấy vậy Khổng tử bảo: Chỉ có đọc thuộc như vậy, chưa đủ tốt đẹp được.",
             "binh": ""
           },
@@ -1510,9 +1510,9 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "9.31",
-            "hanviet": "thiên kỳ phản nhi. Khải bất nhĩ tư, thất thị viễn nhi. Tử viết: Vị chi tư dã, phù hà viễn chi hữu? “Cây đường lệ nở hoa Đung đưa nở rồi khép Anh đâu quên nhớ em Chỉ vì nhà xa quá !”",
-            "nghia": "Đọc xong 4 câu thơ trên, Khổng tử bình luận: Vậy là chẳng “nhớ” gì đâu. Nhớ thật thì có gì là xa xôi ?! Khổng tử ?! Khổng tử còn mượn bài thơ nói về một chuyện khác: Yêu đạo lý là thật lòng nhưng người học kêu khó quá, kêu thiếu thời gian, nại ra mọi lý do lý trấu để trì hoãn việc học đạo…) Hết thiên 9",
-            "binh": "; Khổng tử là một nhà phê bình văn học sắc sảo đến lạnh lùng…Những người làm thơ viết nhạc trẻ đã viết ra những thơ tình, nhạc tình sướt mướt, uốn éo giả tạo nghĩ gì khi đọc"
+            "hanviet": "thiên kỳ phản nhi. Khải bất nhĩ tư, thất thị viễn nhi. Tử viết: Vị chi tư dã, phù hà viễn chi hữu? “Cây đường lệ nở hoa Đung đưa nở rồi khép Anh đâu quên nhớ em Chỉ vì nhà xa quá!”",
+            "nghia": "Đọc xong 4 câu thơ trên, Khổng tử bình luận: Vậy là chẳng “nhớ” gì đâu. Nhớ thật thì có gì là xa xôi! Khổng tử! Khổng tử còn mượn bài thơ nói về một chuyện khác: Yêu đạo lý là thật lòng nhưng người học kêu khó quá, kêu thiếu thời gian, nại ra mọi lý do lý trấu để trì hoãn việc học đạo…) Hết thiên 9",
+            "binh": "Khổng tử là một nhà phê bình văn học sắc sảo đến lạnh lùng…Những người làm thơ viết nhạc trẻ đã viết ra những thơ tình, nhạc tình sướt mướt, uốn éo giả tạo nghĩ gì khi đọc"
           }
         ]
       },
@@ -1536,7 +1536,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "10.3",
-            "hanviet": "Quân triêụ sử thấn, sắc bột như dã; Túc khước như dã. Ấp sở dự lập, tả hữu thủ, y tiền hậu, xiêm như dã. Xu tiến, dực như dã. Tân thoái, tất phục mệnh viết: Tân bất cố hĩ. Vua triệu đến tiếp khách, Khổng tử tiếp chỉ xong thái độ nghiêm trang.Trước mặt khách, Khổng tử cẩn thận chu đáo, chân bước nhanh hơn. Đứng chào khách, ngài chắp hai tay cúi",
+            "hanviet": "Quân triêụ sử thấn, sắc bột như dã; Túc khước như dã. Ấp sở dự lập, tả hữu thủ, y tiền hậu, xiêm như dã. Xu tiến, dực như dã. Tân thoái, tất phục mệnh viết: Tân bất cố hĩ. Vua triệu đến tiếp khách, Khổng tử tiếp chỉ xong thái độ nghiêm trang. Trước mặt khách, Khổng tử cẩn thận chu đáo, chân bước nhanh hơn. Đứng chào khách, ngài chắp hai tay cúi",
             "nghia": "đầu, bên trái rồi bên phải, trang phục ngay ngắn chỉnh tề phía trước và phía sau. Dẫn khách vào, đi nhanh lên trước đưa thẳng hai tay như cánh chim. Khách ra về, ngài quay lại vua thưa: Khách không còn ngoảnh mặt lại nữa.",
             "binh": ""
           },
@@ -1566,7 +1566,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "10.8",
-            "hanviet": ",,, ,,, Thực bất yếm tinh, khoái bất yếm tế. Thực bất nhi ế, ngư nỗi nhi nhục bại, bất thực. Sắc ố, bất thực. Xú ố, bất thực. Thất nhẫm, bất thực. Bất thời, bất thực, cát bất chính, bất thực. Bất đắc kỳ tương, bất thực. Nhục tuy đa, bất sử thắng thực khí. Duy tửu vô lượng, bất cập loạn. Cô tửu thị bô, bất thực. Bất triệt khương thực, bất đa thực.",
+            "hanviet": ",,,,, Thực bất yếm tinh, khoái bất yếm tế. Thực bất nhi ế, ngư nỗi nhi nhục bại, bất thực. Sắc ố, bất thực. Xú ố, bất thực. Thất nhẫm, bất thực. Bất thời, bất thực, cát bất chính, bất thực. Bất đắc kỳ tương, bất thực. Nhục tuy đa, bất sử thắng thực khí. Duy tửu vô lượng, bất cập loạn. Cô tửu thị bô, bất thực. Bất triệt khương thực, bất đa thực.",
             "nghia": "Về ăn uống Khổng tử không cần cao lương mỹ vị nhưng chọn thực phẩm vệ sinh và hợp đạo lí quân tử. Gạo giã trắng, thịt thái mỏng. Ngài không ăn tám loại sau đây: lương thực để lâu đổi màu, thức ăn ôi thiu, rau quả héo úa, thịt cá sống đã ngả màu, thức ăn có mùi khó ngửi, nấu sống hay chín quá, thực phẩm trái mùa, thức ăn nêm nếm không đúng cách, miếng thịt thái không vuông vắn. Thức ăn nhiều ngài cũng không ăn quá no, rượu không giới hạn nhưng không quá say. Không mua rượu và thịt khô ngoài chợ. Mỗi bữa ăn đều có gừng, chỉ vừa đủ.",
             "binh": ""
           },
@@ -1614,13 +1614,13 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "10.16",
-            "hanviet": "Khang tử quĩ dược, bái nhi thụ chi. Viết: Khâu vị đạt, bất cảm thường .",
+            "hanviet": "Khang tử quĩ dược, bái nhi thụ chi. Viết: Khâu vị đạt, bất cảm thường.",
             "nghia": "Quí Khang tử biếu thuốc, Khổng tử bái tạ rồi mới nhận, rồi nói: Khâu này chưa rõ tính thuốc nên chưa dám nếm.",
             "binh": ""
           },
           {
             "id": "10.17",
-            "hanviet": "Cứu phần. Tử thoái trào, viết: Thương nhân hồ ? Bất vấn mã.",
+            "hanviet": "Cứu phần. Tử thoái trào, viết: Thương nhân hồ? Bất vấn mã.",
             "nghia": "Chuồng ngựa cháy. Khổng tử rời khỏi triều đình, về đến nhà chỉ hỏi “Có ai bị thương không?”. Không hỏi ngựa.",
             "binh": "những người nuôi ngựa là nô lệ nhưng vẫn được Khổng tử coi trọng như người bình thường, người thân thích"
           },
@@ -1668,7 +1668,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "10.25",
-            "hanviet": ", Kiến tế thôi giả, tuy hiệp, tất biến. Kiến miện giả dự cổ giả, tuy tiết, tất dĩ mạo. Hung phục giả thức chi. Thức phụ bản giả. Hữu thịnh soạn, tất biến sắc nhi tác.Tấn lôi phong liệt ất biến.",
+            "hanviet": "Kiến tế thôi giả, tuy hiệp, tất biến. Kiến miện giả dự cổ giả, tuy tiết, tất dĩ mạo. Hung phục giả thức chi. Thức phụ bản giả. Hữu thịnh soạn, tất biến sắc nhi tác. Tấn lôi phong liệt ất biến.",
             "nghia": "Gặp người có tang tuy là quan hệ thân cận, Khổng tử vẫn thay đổi thái độ tỏ lòng thương xót. Nhìn thấy người mặc triều phục đội mũ miện hoặc người mù tuy là người quen, Khổng tử vẫn giữ thái độ lịch sự. Đi xe trên đường, gặp người mặc tang phục, Khổng tử cúi người phía trước gật đầu như chia sẻ với họ, tay vịn thành xe. Gặp người cầm sổ sách nhà nước cũng cúi chào như vậy để tỏ lòng kính trọng. Khi làm khách, thấy chủ nhà dọn mâm thịnh soạn, Khổng tử cũng thay đổi thái độ, cảm ơn rồi mới cầm đũa. Thấy cơn sấm to gió lớn, Khổng tử cũng tỏ vẻ lo lắng thiên tai gây họa cho dân.",
             "binh": ""
           },
@@ -1680,8 +1680,8 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "10.27",
-            "hanviet": "Sắc tư cử hĩ, tường nhi hậu tập. Viết: Sơn lương thư trĩ, thời tai thời tai !. Tử Lộ cộng chi, tam khữu nhi tác.",
-            "nghia": "Con chim thấy người có khí sắc dữ tợn, nó cất cánh bay đi vòng lại, rồi mới đỗ xuống. Khổng tử nói: Con chim trĩ mái trên sườn núi kia nó biết thời cơ lắm thay ! Tử Lộ định vồ bắt, nó kêu ba tiếng mà bay đi. Hết thiên 10",
+            "hanviet": "Sắc tư cử hĩ, tường nhi hậu tập. Viết: Sơn lương thư trĩ, thời tai thời tai. Tử Lộ cộng chi, tam khữu nhi tác.",
+            "nghia": "Con chim thấy người có khí sắc dữ tợn, nó cất cánh bay đi vòng lại, rồi mới đỗ xuống. Khổng tử nói: Con chim trĩ mái trên sườn núi kia nó biết thời cơ lắm thay! Tử Lộ định vồ bắt, nó kêu ba tiếng mà bay đi. Hết thiên 10",
             "binh": "Con chim trước khi đỗ xuống thì quan sát, thấy người lạ, nó lượn vòng một lát, thấy yên tâm mới hạ cánh. Khổng tử lấy việc đó khuyên bảo học trò đi tới đâu cũng phải quan sát sự an nguy rồi hãy ở)."
           }
         ]
@@ -1695,7 +1695,7 @@ const TU_THU_LIBRARY = {
           {
             "id": "11.1",
             "hanviet": "Tử viết: Tiên tiến ư lễ nhạc, dã nhân dã; hậu tiến ư lễ nhạc, quân tử dã. Như dụng chi, tắc ngô tòng tiên tiến.",
-            "nghia": "Khổng tử nói: Đời trước dùng lễ nhạc coi trọng phối hợp nội dung và hình thức, về sau bị coi là quê mùa. Đời sau coi trọng hình thức hơn nội dung thì được xem là quân tử. Khi dùng lễ nhạc, ta vẫn theo đời trước. Thời thượng cổ, chưa có lễ nhạc nên loài người còn lẫn lộn với các loài vật khác. Dần dần con người trải qua kinh nghiệm, đặt ra lễ và nhạc, đặc biệt đầu nhà Chu có những thành tựu đầu tiên (Nhà Chu bắt đầu từ thế kỷ 11 trước CN đến thế kỷ 3 tr.CN gồm 2 hai thời kỳ Tây Chu và Đông Chu, Đông Chu lại chia ra hai giai đoạn Xuân thu và Chiến quốc). Khổng tử sinh trưởng vào cuối giai đoạn Xuân thu (778 – 455 tr CN) nên ông gọi các bậc tiền bối thời Tây Chu và trước nữa là các vị vua Nghiêu, Thuấn, Vũ, Chu Công Đán (thời kỳ truyền thuyết) là cổ nhân, coi đó là mẫu mực của Lễ và Nhạc… Đến thời Khổng tử, lễ nhạc đã thay đổi nhiều, phong phú hơn với hình thức chải truốt văn vẻ nhưng lại mất đi tính chất phác, chân thực của cổ nhân [Nhà Tây Chu có một vị quan được phân công coi việc lễ-nhạc gọi là Nho quan () tương tự bộ trưởng Bộ văn hóa ngày nay…Đời sau nhận thấy học thuyết Khổng tử rất coi trọng lễ nhạc (Nho) nên tạm gọi tên học thuyết của ngài là Nho học . Khổng tử thất vọng vì thấy lễ nhạc cổ nhân bị thay đổi, ông cho rằng đó chính là nguyên nhân dẫn đến sự suy đồi, bại hoại của chính trị, xã hội, luân lý, đạo đức.",
+            "nghia": "Khổng tử nói: Đời trước dùng lễ nhạc coi trọng phối hợp nội dung và hình thức, về sau bị coi là quê mùa. Đời sau coi trọng hình thức hơn nội dung thì được xem là quân tử. Khi dùng lễ nhạc, ta vẫn theo đời trước. Thời thượng cổ, chưa có lễ nhạc nên loài người còn lẫn lộn với các loài vật khác. Dần dần con người trải qua kinh nghiệm, đặt ra lễ và nhạc, đặc biệt đầu nhà Chu có những thành tựu đầu tiên (Nhà Chu bắt đầu từ thế kỷ 11 trước CN đến thế kỷ 3 tr. CN gồm 2 hai thời kỳ Tây Chu và Đông Chu, Đông Chu lại chia ra hai giai đoạn Xuân thu và Chiến quốc). Khổng tử sinh trưởng vào cuối giai đoạn Xuân thu (778 – 455 tr CN) nên ông gọi các bậc tiền bối thời Tây Chu và trước nữa là các vị vua Nghiêu, Thuấn, Vũ, Chu Công Đán (thời kỳ truyền thuyết) là cổ nhân, coi đó là mẫu mực của Lễ và Nhạc… Đến thời Khổng tử, lễ nhạc đã thay đổi nhiều, phong phú hơn với hình thức chải truốt văn vẻ nhưng lại mất đi tính chất phác, chân thực của cổ nhân [Nhà Tây Chu có một vị quan được phân công coi việc lễ-nhạc gọi là Nho quan () tương tự bộ trưởng Bộ văn hóa ngày nay…Đời sau nhận thấy học thuyết Khổng tử rất coi trọng lễ nhạc (Nho) nên tạm gọi tên học thuyết của ngài là Nho học. Khổng tử thất vọng vì thấy lễ nhạc cổ nhân bị thay đổi, ông cho rằng đó chính là nguyên nhân dẫn đến sự suy đồi, bại hoại của chính trị, xã hội, luân lý, đạo đức.",
             "binh": "Chú thích: “Lễ” là những qui định, trật tự thích hợp với mọi việc trong cuộc sống, “nhạc” là sự hòa hợp của mọi việc, biểu hiện ra bằng bản nhạc, lời ca, điệu múa. Lễ và nhạc là hạt nhân của văn hóa truyền thống Trung Hoa, gắn liền với lịch sử phát triển văn hóa dân tộc."
           },
           {
@@ -1712,7 +1712,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "11.4",
-            "hanviet": "Tử viết: Hiếu tai Mẫn Tử Khiêm ! Nhân bất gian ư kỳ phụ mẫu côn đệ chi ngôn.",
+            "hanviet": "Tử viết: Hiếu tai Mẫn Tử Khiêm! Nhân bất gian ư kỳ phụ mẫu côn đệ chi ngôn.",
             "nghia": "Khổng tử nói: Mẫn Tử Khiêm thật là người hiếu thuận. Lời khen của người ngoài giống như lời khen của cha mẹ. Nhị thập tứ hiếu là một tác phẩm văn học thời Nguyên do Quách Cư Nghiệp (1277- 1367) biên soạn, kể lại sự tích 24 tấm gương hiếu thảo nổi tiếng. Trong đó có ba tấm gương vốn là học trò của Khổng tử: Tăng tử (Mẹ cắn ngón tay, tim con đau xót). Mẫn Tử Khiêm (Mẫn Tồn) chịu rét giữ hiếu. Tử Lộ (Trọng Do): vác gạo đường xa nuôi cha mẹ.",
             "binh": "Chú thích: Mẫn Tử Khiêm, tên chữ là Mẫn Tồn, học trò Khổng Tử, mẹ mất sớm, người cha có vợ khác và sinh hạ được hai con. Người dì ghẻ đối với Mẫn vô cùng khắc nghiệt, nhưng anh vẫn một lòng hiếu thuận. Mùa Đông giá rét, hai con riêng của bà thì được mặc áo lót bông, riêng Mẫn Tử Khiên thì mặc áo độn hoa lau ở bên trong. Tuy không đủ ấm, nhưng Mẫn chẳng bao giờ hở môi kêu ca. Một hôm, cha Mẫn đi dạo chơi, anh theo đẩy xe, vì quá rét, tay cóng nên rời tay xe ra. Người cha thấy thế biết là người kế mẫu ác nghiệt để cho con ông chịu rét lạnh, liền định đuổi người đàn bà cay nghiệt kia đi. Mẫn khóc lóc và kêu van với cha, xin đừng đuổi kế mẫu đi. Mẫn nói kế mẫu còn ở thì chỉ mình anh chịu rét, nếu bà đi rồi, cả hai em chịu rét và khổ lây. Cha anh nghe theo, và người kế mẫu biết chuyện hiếu thảo của người con chồng, từ đó bà thay đổi tính nết trở nên một bậc hiền mẫu."
           },
@@ -1724,7 +1724,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "11.6",
-            "hanviet": "Quý Khang tử vấn: Đệ tử thục chi vi hiếu học ? Khổng tử đối viết: Hữu Nhan Hồi giả hiếu học, bất hạnh đoản mệnh tử hĩ, kim dã tắc vong.",
+            "hanviet": "Quý Khang tử vấn: Đệ tử thục chi vi hiếu học? Khổng tử đối viết: Hữu Nhan Hồi giả hiếu học, bất hạnh đoản mệnh tử hĩ, kim dã tắc vong.",
             "nghia": "Quý Khang tử hỏi: Trong số học trò của ngài, ai là người hiếu học nhất? Khổng tử nói: Có Nhan Hồi ham học nhất, không may đoản mệnh, chết mất rồi. Bây giờ chẳng còn ai nữa.",
             "binh": ""
           },
@@ -1736,14 +1736,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "11.8",
-            "hanviet": "Nhan Uyên tử, Tử viết: Ức ! Thiên tang dư ! Thiên tang dư !",
-            "nghia": "Nhan Uyên chết, Khổng tử kêu: Hỡi ôi, Trời hại ta, Trời hại ta rồi !",
+            "hanviet": "Nhan Uyên tử, Tử viết: Ức! Thiên tang dư! Thiên tang dư!",
+            "nghia": "Nhan Uyên chết, Khổng tử kêu: Hỡi ôi, Trời hại ta, Trời hại ta rồi!",
             "binh": ""
           },
           {
             "id": "11.9",
-            "hanviet": "Nhan Uyên tử, tử khấp chi đỗng. Tòng giả viết: Tử đỗng hồ ? Phi phu nhân chi vi đỗng nhi thùy vi ?",
-            "nghia": "Nhan Uyên chết, Khổng tử khóc lóc thảm thiết. Người đi theo Khổng tử nói: Thầy quá buồn bã. Khổng tử đáp: Ta buồn lắm sao? Ta không buồn vì người này thì còn buồn vì ai nữa !",
+            "hanviet": "Nhan Uyên tử, tử khấp chi đỗng. Tòng giả viết: Tử đỗng hồ? Phi phu nhân chi vi đỗng nhi thùy vi?",
+            "nghia": "Nhan Uyên chết, Khổng tử khóc lóc thảm thiết. Người đi theo Khổng tử nói: Thầy quá buồn bã. Khổng tử đáp: Ta buồn lắm sao? Ta không buồn vì người này thì còn buồn vì ai nữa!",
             "binh": "Khổng tử nghĩ rằng Nhan Uyên là người kế tục sự nghiệp truyền đạo Nhân của mình mà nay anh ta chết nên thầy thất vọng rất lớn"
           },
           {
@@ -1754,7 +1754,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "11.11",
-            "hanviet": "Quý Lộ vấn sự quỉ thần. Tử viết: Vị năng sự nhân, yên năng sự quỉ ? Viết: Cảm vấn tử. Viết: Vị tri sinh, yên tri tử? Quý Lộ hỏi về quỷ thần.",
+            "hanviet": "Quý Lộ vấn sự quỉ thần. Tử viết: Vị năng sự nhân, yên năng sự quỉ? Viết: Cảm vấn tử. Viết: Vị tri sinh, yên tri tử? Quý Lộ hỏi về quỷ thần.",
             "nghia": "Khổng tử nói: Chưa biết việc người, làm sao biết được việc quỷ thần? Tử Lộ lại hỏi: Con xin hỏi về đạo lý của sự chết? Khổng tử nói: Chưa biết đạo lý sự sống, sao biết được đạo lý của sự chết.",
             "binh": "Khổng tử có quan niệm rất thực tế, phải lo âu về cái cuộc sống trước mắt, khi nó chưa ổn định thì chưa bàn đến những việc trừu tượng xa xôi khác… Có quan điểm chê rằng Khổng tử quá thực dụng, nhưng ai là người không thực dụng với mức độ nào đó"
           },
@@ -1766,20 +1766,20 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "11.13",
-            "hanviet": "Lỗ nhân vi Trường Phủ. Mẫn Tử Khiên viết: Nhưng cựu quán, như chi hà ? Hà tất cải tác? Tử viết: Phu nhân bất ngôn, ngôn tất hữu trung.",
-            "nghia": "Người Lỗ muốn xây Trường Phủ. Mẫn Tử Khiên nói: “Dùng cái cũ có được không, cần gì xây mới ?”. Khổng tử nghe được, nói: Người này không nói thì thôi, đã nói là rất đúng.",
+            "hanviet": "Lỗ nhân vi Trường Phủ. Mẫn Tử Khiên viết: Nhưng cựu quán, như chi hà? Hà tất cải tác? Tử viết: Phu nhân bất ngôn, ngôn tất hữu trung.",
+            "nghia": "Người Lỗ muốn xây Trường Phủ. Mẫn Tử Khiên nói: “Dùng cái cũ có được không, cần gì xây mới?”. Khổng tử nghe được, nói: Người này không nói thì thôi, đã nói là rất đúng.",
             "binh": ""
           },
           {
             "id": "11.14",
-            "hanviet": ": : , Tử viết: Do chi sắt hề vi ư Khâu chi môn? Môn nhân bất kính Tử Lộ. Tử viết: Do dã thăng đường hĩ, vị nhập ư thất dã.",
+            "hanviet": ":, Tử viết: Do chi sắt hề vi ư Khâu chi môn? Môn nhân bất kính Tử Lộ. Tử viết: Do dã thăng đường hĩ, vị nhập ư thất dã.",
             "nghia": "Khổng tử nói: Sao Trọng Do gảy đàn sắt ở nhà thầy? Các bạn học của Tử Lộ (Do) nghe vậy, không còn kính trọng Tử Lộ nữa. Khổng tử thấy vậy lại nói: “Học vấn của Do đã lên tới nhà (đường) rồi, chứ chưa vào tới phòng (thất) đấy thôi.",
             "binh": "Ngôi nhà người Trung Quốc xưa có ba cấp từ ngoài vào trong: Cửa (môn), nhà chính (đường) rồi mới đến phòng (thất). Tử Lộ gảy thứ đàn sắt 25 dây, âm thanh như đoàn giặc phương Bắc hành quân, nghe không hợp thái độ trung hoà của thầy nên thầy mới trách chưa đạt đến đạo học trung hòa. Lời nói của thầy với Tử Lộ nhằm nhắc khéo rằng kỹ thuật của Lộ mới chỉ đến mức gảy đàn ở nhà chính (đường), chưa uyên thâm đến mức gảy trong phòng (thất). Nhưng lời thày giải thích với các học trò là để họ khỏi hiểu lầm Tử Lộ)."
           },
           {
             "id": "11.15",
-            "hanviet": "Tử Cống vấn: Sư dữ Thương dã thục hiền ? Viết: “Sư dã quá, Thương dã bất cập”. Viết: Nhiên tắc Sư dũ dự ? Tử viết: Quá do bất cập. Tử",
-            "nghia": "Cống hỏi: Sư và Thương ai hiền tài hơn ? Khổng tử nói: Trò Sư có chỗ hơi quá, còn trò Thương lại chưa đạt tới. Tử Cống lại hỏi: Vậy là Sư giỏi hơn phải không? Khổng tử đáp: Quá đi và chưa đạt thì đều như nhau.",
+            "hanviet": "Tử Cống vấn: Sư dữ Thương dã thục hiền? Viết: “Sư dã quá, Thương dã bất cập”. Viết: Nhiên tắc Sư dũ dự? Tử viết: Quá do bất cập. Tử",
+            "nghia": "Cống hỏi: Sư và Thương ai hiền tài hơn? Khổng tử nói: Trò Sư có chỗ hơi quá, còn trò Thương lại chưa đạt tới. Tử Cống lại hỏi: Vậy là Sư giỏi hơn phải không? Khổng tử đáp: Quá đi và chưa đạt thì đều như nhau.",
             "binh": "Đây là cách diễn đạt cụ thể đạo trungdung: vừa phải thì tốt hơn thái quá"
           },
           {
@@ -1796,7 +1796,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "11.18",
-            "hanviet": ": ,,, Tử viết: Hồi dã kỳ thứ hồ, lũ không. Tứ bất thụ mệnh, nhi hóa thực yên, ức tắc lũ trung.",
+            "hanviet": ",,, Tử viết: Hồi dã kỳ thứ hồ, lũ không. Tứ bất thụ mệnh, nhi hóa thực yên, ức tắc lũ trung.",
             "nghia": "Khổng tử nói: Nhan Hồi đạo học đã khá rồi, mà vẫn còn nghèo. Đoan Mộc Tứ (tức Tử Cống) không nghe thầy, bỏ đi buôn bán, tính toán hàng hóa, thường là tính đúng.",
             "binh": "Đoan Mộc Tứ tức Tử Cống"
           },
@@ -1809,37 +1809,37 @@ const TU_THU_LIBRARY = {
           {
             "id": "11.20",
             "hanviet": "Tử viết: Luận đốc thị dự, quân tử giả hồ? Sắc trang giả hồ?",
-            "nghia": "Khổng tử nói: Người bàn bạc nhiều về đạo, có phải quân tử không ? Hay chỉ là người có vẻ ngoài trang trọng?",
+            "nghia": "Khổng tử nói: Người bàn bạc nhiều về đạo, có phải quân tử không? Hay chỉ là người có vẻ ngoài trang trọng?",
             "binh": ""
           },
           {
             "id": "11.21",
             "hanviet": "Nhiễm Hữu vấn: Văn tư hành giả? Tử viết: Văn tư hành chi. Công Tây Hoa viết: Do dã vấn văn tư hành giả, tử viết hữu phụ huynh tại; Cầu dã vấn văn tư hành giả, Tử viết: Văn tư hành chi. Diệc dã hoặc, cảm vấn. Tử viết: Cầu dã thoái, cố tiến chi; Do dã kiêm nhân, cố thoái chi. Tử",
-            "nghia": "Lộ hỏi: Nghe rồi thì nên thực hành ngay phải không ? Khổng tử nói: Có mặt cha ngươi, làm sao nghe rồi thực hành ngay ? Nhiễm Hữu hỏi: Nghe rồi thì nên thực hành ngay phải không ? Khổng tử lại bảo: Nghe được thì thực hành ngay. Công Tây Hoa lại nói: Sao hai câu hỏi giống nhau mà thầy trả lời mỗi người một khác vậy? Khổng tử giải thích: Nhiễm Hữu làm việc gì cũng nhút nhát rụt rè nên ta cổ vũ nó. Còn Tử Lộ dũng khí hơn người, hăng hái dám làm nên ta kìm bớt nó một chút.",
+            "nghia": "Lộ hỏi: Nghe rồi thì nên thực hành ngay phải không? Khổng tử nói: Có mặt cha ngươi, làm sao nghe rồi thực hành ngay? Nhiễm Hữu hỏi: Nghe rồi thì nên thực hành ngay phải không? Khổng tử lại bảo: Nghe được thì thực hành ngay. Công Tây Hoa lại nói: Sao hai câu hỏi giống nhau mà thầy trả lời mỗi người một khác vậy? Khổng tử giải thích: Nhiễm Hữu làm việc gì cũng nhút nhát rụt rè nên ta cổ vũ nó. Còn Tử Lộ dũng khí hơn người, hăng hái dám làm nên ta kìm bớt nó một chút.",
             "binh": ""
           },
           {
             "id": "11.22",
-            "hanviet": "Tử úy ư Khuông, Nhan Uyên hậu. Tử viết: Ngô dĩ nhữ vi tử hĩ. Viết: Tử tại, Hồi hà cảm tử ?!",
-            "nghia": "Khổng tử một phen hoảng sợ ở đất Khuông, Nhan Uyên đi sau, bị lạc, cuối cùng mới gặp nhau. Khổng tử nói: Ta tưởng ngươi chết rồi. Nhan Uyên đáp: Thầy còn sống, làm sao con dám chết ?!",
+            "hanviet": "Tử úy ư Khuông, Nhan Uyên hậu. Tử viết: Ngô dĩ nhữ vi tử hĩ. Viết: Tử tại, Hồi hà cảm tử!",
+            "nghia": "Khổng tử một phen hoảng sợ ở đất Khuông, Nhan Uyên đi sau, bị lạc, cuối cùng mới gặp nhau. Khổng tử nói: Ta tưởng ngươi chết rồi. Nhan Uyên đáp: Thầy còn sống, làm sao con dám chết!",
             "binh": ""
           },
           {
             "id": "11.23",
-            "hanviet": "Quý Tử Nhiên vấn: Trọng Do, Nhiễm Cầu khả vị đại thần dự? Tử viết: Ngô dĩ tử vi di chi vấn, tằng Do dự Cầu chi gian. Sở vị đại thần giả, dĩ đạo sự quân, bất khả tắc chỉ. Kim Do dự Cầu dã, khả vị cụ thần hĩ. Viết: Nhiên tắc tòng chi giả dự ? Tử viết: Thí phụ dự quân, diệc bất tòng dã. Quý Tử",
+            "hanviet": "Quý Tử Nhiên vấn: Trọng Do, Nhiễm Cầu khả vị đại thần dự? Tử viết: Ngô dĩ tử vi di chi vấn, tằng Do dự Cầu chi gian. Sở vị đại thần giả, dĩ đạo sự quân, bất khả tắc chỉ. Kim Do dự Cầu dã, khả vị cụ thần hĩ. Viết: Nhiên tắc tòng chi giả dự? Tử viết: Thí phụ dự quân, diệc bất tòng dã. Quý Tử",
             "nghia": "Nhiên hỏi: Trọng Do và Nhiễm Cầu có thể gọi là đại thần không? Khổng tử nói: Ta tưởng hỏi ai, hoá ra Do và Cầu. Được gọi là đại thần phải là người biết lấy đạo tiên vương để thờ vua, nếu không được vậy thì từ chức quan đi. Hiện nay Do và Cầu mới chỉ đủ đức hạnh làm quan (thường) thôi. Quý Tử Nhiên lại hỏi: Thế bọn họ đều làm việc cho họ Quý chứ? Khổng tử nói: Những việc như giết cha và vua thì chúng chẳng bao giờ thuận theo cả (họ Quý đã từng giết cha, giết vua)",
             "binh": ""
           },
           {
             "id": "11.24",
-            "hanviet": "Tử Lộ sử Tử Cao vi Phí tể. Tử viết: Tắc phu nhân chi tử. Tử Lộ viết: Hữu thị nhân yên, hữu xã tắc yên, hà tất độc thư, nhiên hậu vi học ? Tử viết: Thị cố ố phu nịnh giả. Tử Lộ cử Tử Cao đi làm huyện trưởng huyện Phí.",
+            "hanviet": "Tử Lộ sử Tử Cao vi Phí tể. Tử viết: Tắc phu nhân chi tử. Tử Lộ viết: Hữu thị nhân yên, hữu xã tắc yên, hà tất độc thư, nhiên hậu vi học? Tử viết: Thị cố ố phu nịnh giả. Tử Lộ cử Tử Cao đi làm huyện trưởng huyện Phí.",
             "nghia": "Khổng tử nói: Thế là làm hại con người ta rồi. Tử Lộ cãi lại: làm quan thì cai trị dân, tế lễ thần xã tắc, không cần phải chọn kẻ có học, làm quan sau rồi học cũng được. Khổng tử nói: Cho nên ta ghét kẻ ba hoa khéo mồm mép.",
             "binh": ""
           },
           {
             "id": "11.25",
-            "hanviet": "Tử Lộ, Tăng Tích, Nhiễm Hữu, Công Tây Hoa thị tọa. Tử viết: Dĩ ngô nhất nhật trường hồ nhĩ, vô ngô dĩ dã. Cư tắc viết: bất ngô tri dã ! Như hoặc tri nhĩ, tắc hà dĩ tai? Tử Lộ, Tăng Tích, Nhiễm Hữu, Công Tây Hoa ngồi hầu chuyện Khổng tử. Tử Lộ suất nhĩ nhi đối viết: Thiên thừa chi quốc,nhiếp hồ đại quốc chi gian, gia chi dĩ sư lữ, nhân chi dĩ cơ cận, do dã vi chi, bỉ cập tam niên, khả sử hữu dũng, thả tri phương dã. Phu tử sẩn chi. “Cầu, nhĩ hà như ?” Đối viết: Phương lục thất thập, như ngũ lục thập, Cầu dã vi chi, bỉ cập tam niên, khả sử túc dân như kỳ lễ nhạc, dĩ sĩ quân tử. “Xích, nhĩ hà như?” Đối viết: Phi viết năng chi, nguyện học yên. Tông miếu chi sự, như hội đồng, đoan chương phủ, nguyện vi tiểu tướng yên. “Điểm, nhĩ hà như?”. Cổ sắt hy, khanh nhĩ, xá sắt nhi tác, đối viết: “Di hồ tam tử giả chi soạn”. Tử viết: Hà thương hồ? Diệc các ngôn kỳ chí dã”. Viết: Mạc xuân giả, xuân phục ký thành, quan giả ngũ lục nhân, đồng tử lục thất nhân, dục hồ Nghi, phong hồ Vũ Vu, vịnh nhi quy”. Phu tử vị nhiên thán viết: Ngô dự Điểm dã!”. Tam tử giả xuất, Tăng Tích hậu. Tăng Tích viết: Phu tam tử giả chi ngôn hà như? Tử viết: Diệc các ngôn kỳ chí dã dĩ hĩ. Viết: Phu tử hà sẩn do dã ? Viết: “Vi quốc dĩ lễ. Kỳ ngôn bất nhượng, thị cố sẩn chi”. Duy Cầu tắc phi bang dã dự ? “An kiến phương lục thất thập như ngũ lục thập nhi phi bang dã giả ? ” Duy diệc tắc phi bang dã dự ? “Tông miếu hội đồng, phi chư hầu nhi hà? Diệc dã vi chi tiểu, thục năng vi chi đại?",
-            "nghia": "Khổng tử nói: Ta nhiều tuổi hơn các trò, nhưng đừng vì thế mà các ngươi không dám phát biểu ý kiến. Lúc ngồi rỗi các ngươi thường nói không ai biết đến mình. Giả dụ có người muốn bổ nhiệm thì các ngươi định làm gì ? Tử Lộ vội nói: Nếu có một nước với nghìn binh xa, bị kẹp giữa các nước lớn, bên ngoài bị nước khác đến xâm phạm, trong nước thiên tai mất mùa, đói kém. Nếu con được quản lý nước đó, chỉ cần ba năm con làm cho dân dũng cảm vùng lên, lại hiểu biết đạo lý nữa. Khổng tử hỏi chí hướng của Nhiễm Cầu. Anh khiêm tốn thưa: Nếu một quốc gia rộng cỡ sáu bảy chục dặm hoặc nhỏ hơn một ít, chừng năm sáu chục dặm để cho con quản lý thì trong ba năm con làm cho dân no đủ. Còn về lễ nhạc thì xin đợi bậc quân tử. Khổng tử lại hỏi “Xích, ngươi thì sao?”. Công Tây Hoa (tên Xich) thưa: Con không dám nói có thể làm được, nhưng cũng sẽ học theo. Việc tế lễ ở tông miếu, việc hội các nước đồng minh con chỉ muốn mặc lễ phục, giữ một chức quan nhỏ giúp vua tế lễ. Khổng tử lại hỏi về chí hướng của Tăng Tích (tên Điểm). Anh đang gảy đàn đến phần cuối, tiếng đàn hùng hồn, nghe hỏi vội buông đàn đứng dậy đáp: Con suy nghĩ khác ba người kia. Khổng tử nói: Có gì khó đâu, mỗi người tự nói chí của mình. Tăng Tích thưa: Tháng ba cuối xuân mặc trang phục đẹp, rủ năm sáu bạn nhỏ đến sông Nghi tung tăng bơi lội tắm mát, lên đài cầu mưa Vũ Vu húng gió nhảy múa, vừa đi vừa ngâm vịnh thơ từ mà trở về nhà…Khổng tử bùi ngùi than rằng: Ta đồng ý với Điểm vậy! Ba người đi ra ngoài, Tăng Tích ở lại sau hỏi Khổng tử: Lời nói của ba người ấy như thế nào ? Khổng tử nói: Chẳng qua mỗi người nói chí hướng của họ thôi. Tăng Tích hỏi: vì sao thầy lại cười Tử Lộ ? Khổng tử nói: Quản lý nhà nước cần đến lễ với khiêm nhường nhưng Tử Lộ nói năng chả có chút khiêm nhường nên ta cười. Tăng Tích lại hỏi: Những điều Nhiễm Cầu nói chẳng phải là việc quốc gia ư? Khổng tử nói: Sáu bảy chục dặm đất không phải là một quốc gia ư ? Tăng Tích lại hỏi: Điều mà Công Tây Hoa nói đó không phải là việc quốc gia ư? Khổng tử đáp: Có tông miếu, có liên minh nước khác, chả phải việc quốc gia thì là gì ? Hết thiên 11",
+            "hanviet": "Tử Lộ, Tăng Tích, Nhiễm Hữu, Công Tây Hoa thị tọa. Tử viết: Dĩ ngô nhất nhật trường hồ nhĩ, vô ngô dĩ dã. Cư tắc viết: bất ngô tri dã! Như hoặc tri nhĩ, tắc hà dĩ tai? Tử Lộ, Tăng Tích, Nhiễm Hữu, Công Tây Hoa ngồi hầu chuyện Khổng tử. Tử Lộ suất nhĩ nhi đối viết: Thiên thừa chi quốc,nhiếp hồ đại quốc chi gian, gia chi dĩ sư lữ, nhân chi dĩ cơ cận, do dã vi chi, bỉ cập tam niên, khả sử hữu dũng, thả tri phương dã. Phu tử sẩn chi. “Cầu, nhĩ hà như?” Đối viết: Phương lục thất thập, như ngũ lục thập, Cầu dã vi chi, bỉ cập tam niên, khả sử túc dân như kỳ lễ nhạc, dĩ sĩ quân tử. “Xích, nhĩ hà như?” Đối viết: Phi viết năng chi, nguyện học yên. Tông miếu chi sự, như hội đồng, đoan chương phủ, nguyện vi tiểu tướng yên. “Điểm, nhĩ hà như?”. Cổ sắt hy, khanh nhĩ, xá sắt nhi tác, đối viết: “Di hồ tam tử giả chi soạn”. Tử viết: Hà thương hồ? Diệc các ngôn kỳ chí dã”. Viết: Mạc xuân giả, xuân phục ký thành, quan giả ngũ lục nhân, đồng tử lục thất nhân, dục hồ Nghi, phong hồ Vũ Vu, vịnh nhi quy”. Phu tử vị nhiên thán viết: Ngô dự Điểm dã!”. Tam tử giả xuất, Tăng Tích hậu. Tăng Tích viết: Phu tam tử giả chi ngôn hà như? Tử viết: Diệc các ngôn kỳ chí dã dĩ hĩ. Viết: Phu tử hà sẩn do dã? Viết: “Vi quốc dĩ lễ. Kỳ ngôn bất nhượng, thị cố sẩn chi”. Duy Cầu tắc phi bang dã dự? “An kiến phương lục thất thập như ngũ lục thập nhi phi bang dã giả?” Duy diệc tắc phi bang dã dự? “Tông miếu hội đồng, phi chư hầu nhi hà? Diệc dã vi chi tiểu, thục năng vi chi đại?",
+            "nghia": "Khổng tử nói: Ta nhiều tuổi hơn các trò, nhưng đừng vì thế mà các ngươi không dám phát biểu ý kiến. Lúc ngồi rỗi các ngươi thường nói không ai biết đến mình. Giả dụ có người muốn bổ nhiệm thì các ngươi định làm gì? Tử Lộ vội nói: Nếu có một nước với nghìn binh xa, bị kẹp giữa các nước lớn, bên ngoài bị nước khác đến xâm phạm, trong nước thiên tai mất mùa, đói kém. Nếu con được quản lý nước đó, chỉ cần ba năm con làm cho dân dũng cảm vùng lên, lại hiểu biết đạo lý nữa. Khổng tử hỏi chí hướng của Nhiễm Cầu. Anh khiêm tốn thưa: Nếu một quốc gia rộng cỡ sáu bảy chục dặm hoặc nhỏ hơn một ít, chừng năm sáu chục dặm để cho con quản lý thì trong ba năm con làm cho dân no đủ. Còn về lễ nhạc thì xin đợi bậc quân tử. Khổng tử lại hỏi “Xích, ngươi thì sao?”. Công Tây Hoa (tên Xich) thưa: Con không dám nói có thể làm được, nhưng cũng sẽ học theo. Việc tế lễ ở tông miếu, việc hội các nước đồng minh con chỉ muốn mặc lễ phục, giữ một chức quan nhỏ giúp vua tế lễ. Khổng tử lại hỏi về chí hướng của Tăng Tích (tên Điểm). Anh đang gảy đàn đến phần cuối, tiếng đàn hùng hồn, nghe hỏi vội buông đàn đứng dậy đáp: Con suy nghĩ khác ba người kia. Khổng tử nói: Có gì khó đâu, mỗi người tự nói chí của mình. Tăng Tích thưa: Tháng ba cuối xuân mặc trang phục đẹp, rủ năm sáu bạn nhỏ đến sông Nghi tung tăng bơi lội tắm mát, lên đài cầu mưa Vũ Vu húng gió nhảy múa, vừa đi vừa ngâm vịnh thơ từ mà trở về nhà…Khổng tử bùi ngùi than rằng: Ta đồng ý với Điểm vậy! Ba người đi ra ngoài, Tăng Tích ở lại sau hỏi Khổng tử: Lời nói của ba người ấy như thế nào? Khổng tử nói: Chẳng qua mỗi người nói chí hướng của họ thôi. Tăng Tích hỏi: vì sao thầy lại cười Tử Lộ? Khổng tử nói: Quản lý nhà nước cần đến lễ với khiêm nhường nhưng Tử Lộ nói năng chả có chút khiêm nhường nên ta cười. Tăng Tích lại hỏi: Những điều Nhiễm Cầu nói chẳng phải là việc quốc gia ư? Khổng tử nói: Sáu bảy chục dặm đất không phải là một quốc gia ư? Tăng Tích lại hỏi: Điều mà Công Tây Hoa nói đó không phải là việc quốc gia ư? Khổng tử đáp: Có tông miếu, có liên minh nước khác, chả phải việc quốc gia thì là gì? Hết thiên 11",
             "binh": "Công Tây Hoa biết mình có khả năng ngoại giao nên chỉ nhận việc thích hợp, tức là phụ trách việc “lễ nhạc”) (Lời bàn: Quan điểm của Tăng Tích phù hợp Khổng tử lúc ấy nên ông tán thành)."
           }
         ]
@@ -1852,7 +1852,7 @@ const TU_THU_LIBRARY = {
         "passages": [
           {
             "id": "12.1",
-            "hanviet": "Nhan Uyên vấn nhân. Tử viết: Khắc kỷ phục lễ vi nhân. Nhất nhật khắc kỷ phục lễ, thiên hạ qui nhân yên. Vi nhân do kỷ, nhi do nhân hồ tai ? Nhan Uyên viết: Thỉnh vấn kỳ mục. Tử viết: Phi lễ vật thị, phi lễ vật thính, phi lễ vật ngôn, phi lễ vật động. Nhan Uyên viết: Hồi tuy bất mẫn, thỉnh sự tư ngữ hĩ. Nhan Uyên hỏi về đạo nhân.",
+            "hanviet": "Nhan Uyên vấn nhân. Tử viết: Khắc kỷ phục lễ vi nhân. Nhất nhật khắc kỷ phục lễ, thiên hạ qui nhân yên. Vi nhân do kỷ, nhi do nhân hồ tai? Nhan Uyên viết: Thỉnh vấn kỳ mục. Tử viết: Phi lễ vật thị, phi lễ vật thính, phi lễ vật ngôn, phi lễ vật động. Nhan Uyên viết: Hồi tuy bất mẫn, thỉnh sự tư ngữ hĩ. Nhan Uyên hỏi về đạo nhân.",
             "nghia": "Khổng tử nói: Khắc phục ham muốn của mình theo lễ. Nếu một ngày làm được vậy, thiên hạ sẽ theo về đức nhân. Thực hiện đức nhân do mình thôi, lẽ nào phải nhờ người khác sao? Nhan Uyên nói: Xin thầy cho biết từng mục nhỏ để thực hiện đức nhân. Khổng tử nói: Việc trái lễ chớ xem, không hợp lễ chớ nghe, không hợp lễ chớ nói, không hợp lễ chớ làm. Nhan Uyên nói: Con không minh mẫn cũng xin làm đúng lời thầy.",
             "binh": ""
           },
@@ -1864,20 +1864,20 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "12.3",
-            "hanviet": "Tư Mã Ngưu vấn nhân. Tử viết: Nhân giả, kỳ ngôn dã nhẫn. Viết: Kỳ ngôn dã nhẫn, tư vị chi nhân dĩ hồ ? Tử viết: Vi chi nan, ngôn chi đắc vô nhẫn hồ ? Tư Mã Ngưu hỏi về đức nhân.",
+            "hanviet": "Tư Mã Ngưu vấn nhân. Tử viết: Nhân giả, kỳ ngôn dã nhẫn. Viết: Kỳ ngôn dã nhẫn, tư vị chi nhân dĩ hồ? Tử viết: Vi chi nan, ngôn chi đắc vô nhẫn hồ? Tư Mã Ngưu hỏi về đức nhân.",
             "nghia": "Khổng tử nói: Người đức nhân không nói năng tùy tiện, phải nhẫn nại. Ngưu hỏi lại: Không nói tùy tiện và nhẫn nại là người nhân ư? Khổng tử nói: Làm đã khó, nói chả lẽ có thể tùy tiện ư?",
             "binh": ""
           },
           {
             "id": "12.4",
-            "hanviet": "Tư Mã Ngưu vấn quân tử. Tử viết: Quân tử bất ưu bất cụ. Viết: Bất ưu bất cụ, tư vị chi quân tử dĩ hồ ? Tử viết: Nội tỉnh bất cứu, phu hà ưu hà cụ? Tư Mã Ngưu hỏi về quân tử.",
-            "nghia": "Khổng tử nói: Quân tử không lo, không sợ. Ngưu lại hỏi: Chẳng lo chẳng sợ mà đủ gọi là quân tử ư? Khổng tử nói: Tự xét mình không có tội thì còn gì phải lo lắng sợ hãi ?",
+            "hanviet": "Tư Mã Ngưu vấn quân tử. Tử viết: Quân tử bất ưu bất cụ. Viết: Bất ưu bất cụ, tư vị chi quân tử dĩ hồ? Tử viết: Nội tỉnh bất cứu, phu hà ưu hà cụ? Tư Mã Ngưu hỏi về quân tử.",
+            "nghia": "Khổng tử nói: Quân tử không lo, không sợ. Ngưu lại hỏi: Chẳng lo chẳng sợ mà đủ gọi là quân tử ư? Khổng tử nói: Tự xét mình không có tội thì còn gì phải lo lắng sợ hãi?",
             "binh": ""
           },
           {
             "id": "12.5",
-            "hanviet": "Tư Mã Ngưu ưu viết: Nhân giai hữu huynh đệ, ngã độc vong. Tử Hạ viết: Thương văn chi hĩ, tử sinh hữu mệnh, phú quý tại thiên. Quân tử kính nhi vô thất, dự nhân cung nhi hữu lễ, tứ hải chi nội, giai huynh đệ dã. Quân tử hà hoạn hồ vô huynh đệ dã ?",
-            "nghia": "Tư Mã Ngưu buồn rầu nói: Mọi người đều có anh em, riêng tôi không có. Tử Hạ nói: Ta từng nghe sống chết có số mệnh, phú quý do trời. Quân tử chỉ cần làm việc chu đáo, đối xử cung kính lễ độ với người thì bốn bể một nhà, là anh em cả. Quân tử lo gì không có anh em ?",
+            "hanviet": "Tư Mã Ngưu ưu viết: Nhân giai hữu huynh đệ, ngã độc vong. Tử Hạ viết: Thương văn chi hĩ, tử sinh hữu mệnh, phú quý tại thiên. Quân tử kính nhi vô thất, dự nhân cung nhi hữu lễ, tứ hải chi nội, giai huynh đệ dã. Quân tử hà hoạn hồ vô huynh đệ dã?",
+            "nghia": "Tư Mã Ngưu buồn rầu nói: Mọi người đều có anh em, riêng tôi không có. Tử Hạ nói: Ta từng nghe sống chết có số mệnh, phú quý do trời. Quân tử chỉ cần làm việc chu đáo, đối xử cung kính lễ độ với người thì bốn bể một nhà, là anh em cả. Quân tử lo gì không có anh em?",
             "binh": "Dân gian thường nói tóm tắt: “Tứ hải giai huynh đệ”"
           },
           {
@@ -1888,20 +1888,20 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "12.7",
-            "hanviet": ":,, :, : :, ?:,. Tử Cống vấn chính. Tử viết: Túc thực, túc binh, dân tín chi hĩ. Tử Cống viết: Tất bất đắc dĩ nhi khứ, ư tư tam giả hà tiên? Viết: Khứ binh. Tử Cống viết: Tất bất đắc dĩ nhi khứ, ư tư nhị giả hà tiên? Viết: Khứ thực. Tự cổ giai hữu tử, dân vô tín bất lập. Tử Cống hỏi về chính trị quốc gia.",
+            "hanviet": ",,:,::,?:,. Tử Cống vấn chính. Tử viết: Túc thực, túc binh, dân tín chi hĩ. Tử Cống viết: Tất bất đắc dĩ nhi khứ, ư tư tam giả hà tiên? Viết: Khứ binh. Tử Cống viết: Tất bất đắc dĩ nhi khứ, ư tư nhị giả hà tiên? Viết: Khứ thực. Tự cổ giai hữu tử, dân vô tín bất lập. Tử Cống hỏi về chính trị quốc gia.",
             "nghia": "Khổng tử nói: “Phải đủ lương thực, đủ binh lính, nhân dân tin phục”. Tử Cống hỏi: Nếu buộc phải bỏ một cái thì bỏ cái nào? Khổng tử đáp: Bỏ quân lính. Tử Cống lại hỏi: Nếu buộc phải bỏ một trong hai điều còn lại thì bỏ cái gì? Khổng tử nói: Bỏ lương thực. Xưa nay không ai tránh được cái chết. Nếu nhân dân không còn tin tưởng nữa thì nước không đứng vững.",
             "binh": ""
           },
           {
             "id": "12.8",
-            "hanviet": "Cức Tử Thành viết: Quân tử chất nhi dĩ hĩ, hà dĩ văn vi ? Tử Cống viết: Tích hồ phu tử chi thuyết quân tử dã ! Tứ bất cập thiệt. Văn do chất dã, chất do văn dã, hổ báo chi khuếch do khuyển dương chi khuếch. Cức Tử",
+            "hanviet": "Cức Tử Thành viết: Quân tử chất nhi dĩ hĩ, hà dĩ văn vi? Tử Cống viết: Tích hồ phu tử chi thuyết quân tử dã! Tứ bất cập thiệt. Văn do chất dã, chất do văn dã, hổ báo chi khuếch do khuyển dương chi khuếch. Cức Tử",
             "nghia": "Thành nói: Quân tử chỉ cần phẩm chất tốt là được, cần chi văn nữa. Tử Cống nói: Tiếc thay ngài bàn về quân tử như vậy không đúng rồi. Bốn ngựa không đuổi kịp cái lưỡi. Văn cũng quan trọng như chất, chất quan trọng như văn. Da hổ, da báo lột đi thì làm sao phân biệt với da chó, da dê?",
             "binh": "Chất và văn cũng như nội dung và hình thức. Văn là lễ tiết, nghi thức, là hình thức. Ăn mặc nói năng tuy chỉ là vẻ ngoài nhưng cũng thể hiện cái phẩm chất bên trong. Vậy ta không nên coi thường hình thức."
           },
           {
             "id": "12.9",
-            "hanviet": "Ai Công vấn ư Hữu Nhược viết: Niên cơ, dụng bất túc, như chi hà? Hữu Nhược đối viết: Hạp triệt hồ ? Viết: Nhị, ngô do bất túc, như chi hà kỳ triệt dã ? Đối viết: Bách tính túc, quân tử dự bất túc ? Bách tính bất túc, quân thục dự túc ? Lỗ Ai Công hỏi Hữu Nhược: Năm mât mùa, không đủ tiêu xài, làm thế nào? Hữu",
-            "nghia": "Nhược nói: Sao ta không đánh thuế triệt (thu một phần 10 hoa lợi) của dân? Lỗ Ai Công nói: Thu hai phần mười, ta chưa đủ dùng, làm sao áp dụng biện pháp gia tăng đây? Hữu Nhược thưa rằng: Nếu dân đủ ăn, sao vua lại không đủ. Nếu dân thiếu ăn thì làm sao mà vua đủ được ?",
+            "hanviet": "Ai Công vấn ư Hữu Nhược viết: Niên cơ, dụng bất túc, như chi hà? Hữu Nhược đối viết: Hạp triệt hồ? Viết: Nhị, ngô do bất túc, như chi hà kỳ triệt dã? Đối viết: Bách tính túc, quân tử dự bất túc? Bách tính bất túc, quân thục dự túc? Lỗ Ai Công hỏi Hữu Nhược: Năm mât mùa, không đủ tiêu xài, làm thế nào? Hữu",
+            "nghia": "Nhược nói: Sao ta không đánh thuế triệt (thu một phần 10 hoa lợi) của dân? Lỗ Ai Công nói: Thu hai phần mười, ta chưa đủ dùng, làm sao áp dụng biện pháp gia tăng đây? Hữu Nhược thưa rằng: Nếu dân đủ ăn, sao vua lại không đủ. Nếu dân thiếu ăn thì làm sao mà vua đủ được?",
             "binh": ""
           },
           {
@@ -1912,19 +1912,19 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "12.11",
-            "hanviet": ":,,, , ,,, Tề Cảnh Công vấn chính ư Khổng tử. Khổng tử đối viết: Quân quân, thần thần, phụ phụ, tử tử. Công viết: Thiện tai ! Tín như quân bất quân, thần bất thần, phụ bất phụ, tử bất tử, tuy hữu túc, ngô đắc nhi thực chư ? Tề Cảnh Công hỏi Khổng tử về việc cai trị quốc gia.",
-            "nghia": "Khổng tử đáp: Làm vua ra vua, quan ra quan, cha ra cha, con ra con (làm đúng danh vị của mình). Vua nói: Hay quá ! Nếu vua chẳng trọn đạo vua, tôi chẳng trọn đạo làm tôi, cha không trọn đạo làm cha, con chẳng trọn đạo con, tuy có lương thực đấy, ta có thể ăn được ư?",
+            "hanviet": ",,,,,,, Tề Cảnh Công vấn chính ư Khổng tử. Khổng tử đối viết: Quân quân, thần thần, phụ phụ, tử tử. Công viết: Thiện tai! Tín như quân bất quân, thần bất thần, phụ bất phụ, tử bất tử, tuy hữu túc, ngô đắc nhi thực chư? Tề Cảnh Công hỏi Khổng tử về việc cai trị quốc gia.",
+            "nghia": "Khổng tử đáp: Làm vua ra vua, quan ra quan, cha ra cha, con ra con (làm đúng danh vị của mình). Vua nói: Hay quá! Nếu vua chẳng trọn đạo vua, tôi chẳng trọn đạo làm tôi, cha không trọn đạo làm cha, con chẳng trọn đạo con, tuy có lương thực đấy, ta có thể ăn được ư?",
             "binh": "Câu nói trên của Khổng tử là cốt lõi của học thuyết chính danh. Mỗi người đều phải làm đúng với danh hiệu, có vậy thì yên nhà, yên nước, xã hội ổn định và phát triển"
           },
           {
             "id": "12.12",
             "hanviet": "Tử viết: Phiến ngôn khả dĩ chiết ngục giả, kỳ Do dã dự? Tử Lộ vô túc nặc",
-            "nghia": "Khổng tử nói: Dùng một câu nói giản dị mà phán đoán vụ án, có lẽ chỉ có Trọng Do ! Tử Lộ đã hứa là nhất định đúng hạn.",
+            "nghia": "Khổng tử nói: Dùng một câu nói giản dị mà phán đoán vụ án, có lẽ chỉ có Trọng Do! Tử Lộ đã hứa là nhất định đúng hạn.",
             "binh": "Tử Lộ tức Trọng Do có khả năng quyết đoán đúng sai, bản tính trung thực, vậy có thể xử án được"
           },
           {
             "id": "12.13",
-            "hanviet": "Tử viết: Thính tụng, ngô ưu nhân dã. Tất dã sử vô tụng hồ !",
+            "hanviet": "Tử viết: Thính tụng, ngô ưu nhân dã. Tất dã sử vô tụng hồ!",
             "nghia": "Khổng tử nói: Xem xử án, ta lo buồn như mọi người. Ta chỉ muốn không bao giờ xảy ra kiện tụng.",
             "binh": "Khổng tử coi trong giáo dục, giáo hóa, nhờ đó sẽ không còn xảy ra xung đột và kiện tụng"
           },
@@ -1936,7 +1936,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "12.15",
-            "hanviet": ": Tử viết: Bác học ư văn, yêu chi dĩ lễ, diệc khả dĩ phất bạn hĩ phu !",
+            "hanviet": "Tử viết: Bác học ư văn, yêu chi dĩ lễ, diệc khả dĩ phất bạn hĩ phu!",
             "nghia": "Khổng tử nói: Người quân tử trước học sâu rộng về văn, sau học lễ ràng buộc mình, nhờ vậy khỏi trái đạo.",
             "binh": ""
           },
@@ -1948,7 +1948,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "12.17",
-            "hanviet": "Quý Khang tử vấn chính ư Khổng tử. Khổng tử đối viết: Chính giả chính dã. Tử sư dĩ chính, thục cảm bất chính ? Quý Khang tử hỏi Khổng tử về chính sự.",
+            "hanviet": "Quý Khang tử vấn chính ư Khổng tử. Khổng tử đối viết: Chính giả chính dã. Tử sư dĩ chính, thục cảm bất chính? Quý Khang tử hỏi Khổng tử về chính sự.",
             "nghia": "Khổng tử nói: Chữ “chính” nghĩa là “chính trực”. Ngài gương mẫu giữ đạo chính thì ai dám bất chính?",
             "binh": "lưu ý hai chữ chính. việc chính trị, quan chức. chính đáng, đúng đắn"
           },
@@ -1960,26 +1960,26 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "12.19",
-            "hanviet": "Quý Khang tử vấn chính ư Khổng tử viết: Như sát vô đạo, dĩ tựu hữu đạo, hà như? Khổng tử đối viết: “Tử vi chính, yên dụng sát ? Tử dục thiện nhi dân thiện hĩ. Quân tử chi đức phong, nhân tiểu chi đức thảo, thảo thượng chi phong, tất yển.",
-            "nghia": "Quý Khang tử hỏi Khổng tử về chính sự: Giết kẻ vô đạo, khiến dân biết mà theo đạo, được không ? Khổng tử đáp: Ngài cầm quyền quốc gia, cần gì phải giết người ? Ngài thực sự làm điều thiện thì dân sẽ làm điều thiện. Đức hạnh quân tử như gió, đức hạnh kẻ tiểu nhân như cỏ. Gió thổi trên cỏ thì cỏ nhất định rạp theo chiều gió.",
+            "hanviet": "Quý Khang tử vấn chính ư Khổng tử viết: Như sát vô đạo, dĩ tựu hữu đạo, hà như? Khổng tử đối viết: “Tử vi chính, yên dụng sát? Tử dục thiện nhi dân thiện hĩ. Quân tử chi đức phong, nhân tiểu chi đức thảo, thảo thượng chi phong, tất yển.",
+            "nghia": "Quý Khang tử hỏi Khổng tử về chính sự: Giết kẻ vô đạo, khiến dân biết mà theo đạo, được không? Khổng tử đáp: Ngài cầm quyền quốc gia, cần gì phải giết người? Ngài thực sự làm điều thiện thì dân sẽ làm điều thiện. Đức hạnh quân tử như gió, đức hạnh kẻ tiểu nhân như cỏ. Gió thổi trên cỏ thì cỏ nhất định rạp theo chiều gió.",
             "binh": ""
           },
           {
             "id": "12.20",
-            "hanviet": ": Tử Trương vấn: Sĩ hà như tư khả vị chi đạt hĩ? Tử viết: Hà tai, nhĩ sở vị đạt giả? Tử Trương đối viết: Tại bang tất văn, tại gia tất văn. Tử viết: Thị văn dã, phi đạt dã. Phu đạt dã giả, chất trực nhi hiếu nghĩa, sát ngôn nhi quan sắc, lự dĩ hạ nhân. Tại bang tất đạt, tại gia tất đạt. Phu văn dã giả, sắc thủ nhân nhi hành vi, cư chi bất nghi. Tại bang tất văn, tại gia tất văn. Tử",
-            "nghia": "Trương hỏi: Kẻ sĩ như thế nào gọi là thành đạt ? Khổng tử nói: “Theo ngươi nghĩ đạt là gì?”. Tử Trương thưa: Khi làm quan ở triều đình có danh tiếng, ở quê nhà cũng có danh tiếng. Khổng tử nói: Đó gọi là văn chứ không phải đạt. Đạt nghĩa là phải có phẩm chất chính trực, thích làm việc nghĩa, giỏi phân tích lời nói và giỏi quan sát sắc mặt người khác, khiêm tốn nhường nhịn người khác. Người như vậy làm quan triều đình nhất định đạt, ở nhà cũng đạt.",
+            "hanviet": "Tử Trương vấn: Sĩ hà như tư khả vị chi đạt hĩ? Tử viết: Hà tai, nhĩ sở vị đạt giả? Tử Trương đối viết: Tại bang tất văn, tại gia tất văn. Tử viết: Thị văn dã, phi đạt dã. Phu đạt dã giả, chất trực nhi hiếu nghĩa, sát ngôn nhi quan sắc, lự dĩ hạ nhân. Tại bang tất đạt, tại gia tất đạt. Phu văn dã giả, sắc thủ nhân nhi hành vi, cư chi bất nghi. Tại bang tất văn, tại gia tất văn. Tử",
+            "nghia": "Trương hỏi: Kẻ sĩ như thế nào gọi là thành đạt? Khổng tử nói: “Theo ngươi nghĩ đạt là gì?”. Tử Trương thưa: Khi làm quan ở triều đình có danh tiếng, ở quê nhà cũng có danh tiếng. Khổng tử nói: Đó gọi là văn chứ không phải đạt. Đạt nghĩa là phải có phẩm chất chính trực, thích làm việc nghĩa, giỏi phân tích lời nói và giỏi quan sát sắc mặt người khác, khiêm tốn nhường nhịn người khác. Người như vậy làm quan triều đình nhất định đạt, ở nhà cũng đạt.",
             "binh": ""
           },
           {
             "id": "12.21",
-            "hanviet": "Phàn Trì tòng du ư Vũ Vu chi hạ, viết: Cảm vấn sùng đức, tu thắc biện hoặc. Tử viết: Thiện tai vấn ! Tiên sự hậu đắc, phi sùng đức dự? Công kỳ ố, vô công nhân chi ố, phi tu thắc dự ? Nhất triều chi phẫn, vong kỳ thân, dĩ cập kỳ thân, phi cảm dự ?",
-            "nghia": "Phàn Trì theo chân Khổng tử đi thăm đài Vũ Vu, hỏi: Dám hỏi thầy làm thế nào để tu dưỡng đạo đức, diệt ác trừ mê hoặc ? Khổng tử nói: Câu hỏi hay quá! Trước hãy làm việc thiện, chẳng phải là sùng đạo à? Phê phán cái xấu của mình, không chỉ trich cái sai của người khác, đó chẳng phải trừ bỏ lòng ác ư? Nhất thời nóng giận mà quên bản thân, lại làm liên lụy cả cha mẹ, đó không phải mê hoặc ư?",
+            "hanviet": "Phàn Trì tòng du ư Vũ Vu chi hạ, viết: Cảm vấn sùng đức, tu thắc biện hoặc. Tử viết: Thiện tai vấn! Tiên sự hậu đắc, phi sùng đức dự? Công kỳ ố, vô công nhân chi ố, phi tu thắc dự? Nhất triều chi phẫn, vong kỳ thân, dĩ cập kỳ thân, phi cảm dự?",
+            "nghia": "Phàn Trì theo chân Khổng tử đi thăm đài Vũ Vu, hỏi: Dám hỏi thầy làm thế nào để tu dưỡng đạo đức, diệt ác trừ mê hoặc? Khổng tử nói: Câu hỏi hay quá! Trước hãy làm việc thiện, chẳng phải là sùng đạo à? Phê phán cái xấu của mình, không chỉ trich cái sai của người khác, đó chẳng phải trừ bỏ lòng ác ư? Nhất thời nóng giận mà quên bản thân, lại làm liên lụy cả cha mẹ, đó không phải mê hoặc ư?",
             "binh": ""
           },
           {
             "id": "12.22",
-            "hanviet": "Phàn Trì vấn nhân. Tử viết: Ái nhân. Vấn tri. Tử viết: Tri nhân.Phàn Trì vị đạt. Tử viết: Cử trực thố chư uổng. Năng sử uổng giả trực. Phàn Trì thoái, kiến Tử Hạ viết: Hương dã ngô liến ư phu tử nhi vấn trí, Tử viết: Cử trực thố chư uổng. Năng sử uổng giả trực, hà vị dã?. Tử Hạ viết: Phú tai ngôn hồ! Thuấn hữu thiên hạ, tuyển ư chúng, cử Cao Đào, bất nhân giả viễn hĩ. Thang hữu thiên hạ, tuyển ư chúng, cử Y Doãn, bất nhân giả viễn hĩ. Phàn Trì hỏi về chữ nhân.",
-            "nghia": "Khổng tử nói: “Yêu người”. Hỏi về sự hiểu biết, Khổng tử nói: “Biết người”. Phàn Trì không hiểu được. Khổng tử nói tiếp: “Cử người ngay thẳng ở trên kẻ ác thì có thể biến kẻ ác thành ngay thẳng”. Phàn Trì ra về, gặp Tử Hạ, nói: “Vừa rồi tôi gặp thầy hỏi về đức trí, thầy bảo „đem người ngay thẳng ở trên kẻ ác thì có thể biến kẻ ác thành ngay thẳng‟. Như vậy là thế nào? Tử Hạ nói: Câu nói này rất phong phú ! Vua Thuấn xưa được thiên hạ, chọn nhân tài trong quần chúng là ông Cao Đào, kẻ bất nhân dần dần không còn nữa. Vua Thang được thiên hạ cũng chọn nhân tài trong dân chúng cất nhắc được ông Y Doãn. Dần dần kẻ bất nhân cũng không còn.",
+            "hanviet": "Phàn Trì vấn nhân. Tử viết: Ái nhân. Vấn tri. Tử viết: Tri nhân. Phàn Trì vị đạt. Tử viết: Cử trực thố chư uổng. Năng sử uổng giả trực. Phàn Trì thoái, kiến Tử Hạ viết: Hương dã ngô liến ư phu tử nhi vấn trí, Tử viết: Cử trực thố chư uổng. Năng sử uổng giả trực, hà vị dã. Tử Hạ viết: Phú tai ngôn hồ! Thuấn hữu thiên hạ, tuyển ư chúng, cử Cao Đào, bất nhân giả viễn hĩ. Thang hữu thiên hạ, tuyển ư chúng, cử Y Doãn, bất nhân giả viễn hĩ. Phàn Trì hỏi về chữ nhân.",
+            "nghia": "Khổng tử nói: “Yêu người”. Hỏi về sự hiểu biết, Khổng tử nói: “Biết người”. Phàn Trì không hiểu được. Khổng tử nói tiếp: “Cử người ngay thẳng ở trên kẻ ác thì có thể biến kẻ ác thành ngay thẳng”. Phàn Trì ra về, gặp Tử Hạ, nói: “Vừa rồi tôi gặp thầy hỏi về đức trí, thầy bảo „đem người ngay thẳng ở trên kẻ ác thì có thể biến kẻ ác thành ngay thẳng‟. Như vậy là thế nào? Tử Hạ nói: Câu nói này rất phong phú! Vua Thuấn xưa được thiên hạ, chọn nhân tài trong quần chúng là ông Cao Đào, kẻ bất nhân dần dần không còn nữa. Vua Thang được thiên hạ cũng chọn nhân tài trong dân chúng cất nhắc được ông Y Doãn. Dần dần kẻ bất nhân cũng không còn.",
             "binh": ""
           },
           {
@@ -2010,26 +2010,26 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "13.2",
-            "hanviet": "Trọng Cung vi Quý thị tể, vấn chính. Tử viết: Tiên hữu ti, xá tiểu quá, cử hiền tài. Viết: Yên tri hiền tài nhi cử chi?. Viết: Cử nhĩ sở tri. Nhĩ sở bất tri, nhân kỳ xá giả ?",
+            "hanviet": "Trọng Cung vi Quý thị tể, vấn chính. Tử viết: Tiên hữu ti, xá tiểu quá, cử hiền tài. Viết: Yên tri hiền tài nhi cử chi. Viết: Cử nhĩ sở tri. Nhĩ sở bất tri, nhân kỳ xá giả?",
             "nghia": "Trọng Cung làm tổng quản cho họ Quý, hỏi về chính sự. Khổng tử nói: Trước hãy giao việc và kiểm soát người dưới quyền, bỏ qua lỗi nhỏ, chọn cử hiền tài. Cung nói: Làm sao biết hiền tài để cử ra? Khổng tử nói: Cử người mà mình biết, còn người mà mình không biết, người ta có bỏ họ đâu.",
             "binh": ""
           },
           {
             "id": "13.3",
-            "hanviet": ":,?:!: ? ,,, ,, ,, Tử Lộ viết: Vệ quân đãi tử vi chính, tử thương hề tiên ? Tử viết: Tất dã chính danh hồ! Tử Lộ viết: Hữu thị tai, tử chi vu dã ! Hề kỳ chính ? Tử viết: Dã tai, Do dã ! Quân tử ư kỳ sở bất tri, thiện khuyết như dã. Danh bất chính tắc ngôn bất thuận, ngôn bất thuận tắc sự bất thành, sự bất thành tắc lễ nhạc bất hưng, lễ nhạc bất hưng tắc hình phạt bất trung, hình phạt bất trung tắc dân vô sở thố thủ túc. Cố quân tử danh chi tất khả ngôn dã, ngôn chi tất khả hành dã. Quân tử ư kỳ ngôn, vô sở cẩu nhi dĩ hĩ. Tử",
-            "nghia": "Lộ nói: Nếu vua nước Vệ mời thầy đi làm quan, thầy làm gì trước tiên? Khổng tử nói: Tất phải chính danh đã. Tử Lộ nói: Phải vậy ư ? Thầy nói viển vông quá, sao phải chính danh ? Khổng tử nói: Trò Do sao nói năng thô thiển thế? Quân tử gặp việc mình chưa rõ thì không nên nói tùy tiện…Danh không hợp thì lời nói sẽ không thuận, nói không thuận thì việc không thành. Việc không thành thì lễ nhạc mất trật tự. Lễ nhạc mất trật tự thì hình phạt không đúng đắn, hình phạt không đúng thì dân không biết làm thế nào cho đúng. Vậy người quân tử khi có danh phù hợp với thực thì có thể nói ra được, nói được thì thực hành thông suốt. Quân tử không bao giờ sơ suất với lời nói của mình.",
+            "hanviet": ",?:!:?,,,,,,, Tử Lộ viết: Vệ quân đãi tử vi chính, tử thương hề tiên? Tử viết: Tất dã chính danh hồ! Tử Lộ viết: Hữu thị tai, tử chi vu dã! Hề kỳ chính? Tử viết: Dã tai, Do dã! Quân tử ư kỳ sở bất tri, thiện khuyết như dã. Danh bất chính tắc ngôn bất thuận, ngôn bất thuận tắc sự bất thành, sự bất thành tắc lễ nhạc bất hưng, lễ nhạc bất hưng tắc hình phạt bất trung, hình phạt bất trung tắc dân vô sở thố thủ túc. Cố quân tử danh chi tất khả ngôn dã, ngôn chi tất khả hành dã. Quân tử ư kỳ ngôn, vô sở cẩu nhi dĩ hĩ. Tử",
+            "nghia": "Lộ nói: Nếu vua nước Vệ mời thầy đi làm quan, thầy làm gì trước tiên? Khổng tử nói: Tất phải chính danh đã. Tử Lộ nói: Phải vậy ư? Thầy nói viển vông quá, sao phải chính danh? Khổng tử nói: Trò Do sao nói năng thô thiển thế? Quân tử gặp việc mình chưa rõ thì không nên nói tùy tiện…Danh không hợp thì lời nói sẽ không thuận, nói không thuận thì việc không thành. Việc không thành thì lễ nhạc mất trật tự. Lễ nhạc mất trật tự thì hình phạt không đúng đắn, hình phạt không đúng thì dân không biết làm thế nào cho đúng. Vậy người quân tử khi có danh phù hợp với thực thì có thể nói ra được, nói được thì thực hành thông suốt. Quân tử không bao giờ sơ suất với lời nói của mình.",
             "binh": "Bài này thể hiện rõ Thuyết chính danh của Khổng tử"
           },
           {
             "id": "13.4",
-            "hanviet": ":: ,, , Phàn Trì thỉnh học giá. Tử viết: Ngô bất như lão nông. Thỉnh học chi phố. Viết: Ngô bất như lão phố. Phàn Trì xuất. Tử viết: Tiểu nhân tai, Phàn tu dã! Thượng hiếu lễ, tắc dân mạc cảm bất kính, thượng hiếu nghĩa tắc dân mạc cảm bất phục; Thượng hiếu tín, tắc dân mạc cảm bất dụng tình. Phu như thị, tắc tứ phương chi dân cưỡng phụ kỳ tử nhi chí hĩ, yên dụng giá ?. Phàn Trì xin học làm ruộng.",
+            "hanviet": ":,,, Phàn Trì thỉnh học giá. Tử viết: Ngô bất như lão nông. Thỉnh học chi phố. Viết: Ngô bất như lão phố. Phàn Trì xuất. Tử viết: Tiểu nhân tai, Phàn tu dã! Thượng hiếu lễ, tắc dân mạc cảm bất kính, thượng hiếu nghĩa tắc dân mạc cảm bất phục; Thượng hiếu tín, tắc dân mạc cảm bất dụng tình. Phu như thị, tắc tứ phương chi dân cưỡng phụ kỳ tử nhi chí hĩ, yên dụng giá. Phàn Trì xin học làm ruộng.",
             "nghia": "Khổng tử nói: Ta đâu phải lão nông. Phàn lại xin học làm vườn. Khổng tử đáp: Ta đâu biết làm vườn. Phàn Trì ra ngoài. Khổng tử nói: Phàn Trì đúng là kẻ tiểu nhân. Người trên trọng lễ thì dân đâu dám coi thường. Người trên trọng nghĩa thì dân ai dám không phục tùng. Người trên coi trọng tín thì dân nào dám giả dối. Làm được như vậy thì dân chúng bốn phương cõng con tới theo mình hết. Cần gì phải học trồng trọt.",
             "binh": ""
           },
           {
             "id": "13.5",
             "hanviet": "Tử viết: Thông thi tam bách, thụ chi dĩ chính, bất đạt; Sử ư tứ phương, bất năng chuyên đối. Tuy đa, diệc hề dĩ vi?",
-            "nghia": "Khổng tử nói: Học thông ba trăm bài Kinh Thi, khi được giao chính sự thì làm không nổi, đi sứ nước ngoài không ứng đối được. Học nhiều thế có ích gì ?",
+            "nghia": "Khổng tử nói: Học thông ba trăm bài Kinh Thi, khi được giao chính sự thì làm không nổi, đi sứ nước ngoài không ứng đối được. Học nhiều thế có ích gì?",
             "binh": "Khổng tử chê cái anh thuộc lòng mà không hiểu nghĩa lý"
           },
           {
@@ -2040,7 +2040,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "13.7",
-            "hanviet": ": Tử viết: Lỗ Vệ chi chính, huynh đệ dã.",
+            "hanviet": "Tử viết: Lỗ Vệ chi chính, huynh đệ dã.",
             "nghia": "Khổng tử nói: Chính sự nước Lỗ và nước Vệ giống như hai anh em vậy.",
             "binh": ""
           },
@@ -2052,8 +2052,8 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "13.9",
-            "hanviet": "Tử đích Vệ, Nhiễm Hữu bộc. Tử viết: Thứ hĩ tai! Nhiễm Hữu viết: Kí thứ hĩ, hựu hà gia yên ? Viết : Phú chi. Viết : Kí phú hĩ, hựu hà gia yên ? Viết: Giáo chi.",
-            "nghia": "Khổng tử đến nước Vệ có Nhiễm Hữu theo hầu. Khổng tử nói: Dân chúng đông quá!. Nhiễm Hữu hỏi: Dân đã đông thì làm thế nào? Khổng tử đáp: Phải làm cho họ giàu lên. Nhiễm Hữu lại hỏi: Dân giàu rồi thì làm gì nữa? Khổng tử nói: Phải giáo hóa họ.",
+            "hanviet": "Tử đích Vệ, Nhiễm Hữu bộc. Tử viết: Thứ hĩ tai! Nhiễm Hữu viết: Kí thứ hĩ, hựu hà gia yên? Viết: Phú chi. Viết: Kí phú hĩ, hựu hà gia yên? Viết: Giáo chi.",
+            "nghia": "Khổng tử đến nước Vệ có Nhiễm Hữu theo hầu. Khổng tử nói: Dân chúng đông quá. Nhiễm Hữu hỏi: Dân đã đông thì làm thế nào? Khổng tử đáp: Phải làm cho họ giàu lên. Nhiễm Hữu lại hỏi: Dân giàu rồi thì làm gì nữa? Khổng tử nói: Phải giáo hóa họ.",
             "binh": ""
           },
           {
@@ -2064,7 +2064,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "13.11",
-            "hanviet": "Tử viết: Thiện nhân vi bang bách niên, diệc khả dĩ thắng tàn khứ sát hĩ. Thành tai thị ngôn dã !",
+            "hanviet": "Tử viết: Thiện nhân vi bang bách niên, diệc khả dĩ thắng tàn khứ sát hĩ. Thành tai thị ngôn dã!",
             "nghia": "Khổng tử nói: Người xưa bảo nếu bậc thiện nhân nối nhau trị nước thì sau một trăm năm có thể cảm hoá kẻ tàn bạo thành lương thiện, không cần hình phạt chém giết nữa. Lời này thật hay.",
             "binh": ""
           },
@@ -2082,13 +2082,13 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "13.14",
-            "hanviet": "Nhiễm tử thoái trào. Tử viết: Hà yến dã? Đối viết “Hữu chính”. Tử viết: Kỳ sự dã ? Như hữu chính, tuy bất bất ngô dĩ , ngô kỳ dự văn chi. Nhiễm Hữu từ nhà họ Quý về.",
+            "hanviet": "Nhiễm tử thoái trào. Tử viết: Hà yến dã? Đối viết “Hữu chính”. Tử viết: Kỳ sự dã? Như hữu chính, tuy bất bất ngô dĩ, ngô kỳ dự văn chi. Nhiễm Hữu từ nhà họ Quý về.",
             "nghia": "Khổng tử nói: Sao về muộn thế? Nhiễm đáp: Có việc chính sự. Khổng tử nói: Đó chỉ là việc nhà họ Quý thôi. Nếu là chính sự, ta bây giờ tuy thôi làm quan vẫn biết được.",
             "binh": "Nhiễm Hữu làm tổng quản cho nhà họ Quý quan đại phu nước Lỗ. Họ Quý lộng quyền thường mang việc nước về nhà bàn bạc. Nếu là việc nước thì Khổng tử phải được tham dự… Lời nói của Khổng tử chỉ nhằm răn dạy Nhiễm Hữu về cách làm việc quan đúng đắn vậy)."
           },
           {
             "id": "13.15",
-            "hanviet": "Định công vấn: Nhất ngôn nhi dĩ hưng bang, hữu giả? Khổng tử đối viết: Ngôn bất khả dĩ nhược thị kỳ kỷ dã. Nhân chi ngôn viết: „Vi quân nan, vi thần bất dịch‟. Như tri vi quân chi nan dã, bất kỷ hồ ngôn nhi hưng bang hồ”. Viết: Nhất ngôn nhi tang bang, hữu giả? Khổng tử đối viết: Ngôn bất khả dĩ nhược thị kỳ kỷ dã. Nhân chi ngôn viết: Dư vô lạc hồ vi quân, duy kỳ ngôn nhi mạc dư vi dã. Như kỳ thiện nhi mạc chi vi dã, bất diệc thiện hồ ? Như bất thiện nhi mạc chi vi dã, bất kỷ hồ nhất ngôn nhi tang bang hồ? Vua Định",
+            "hanviet": "Định công vấn: Nhất ngôn nhi dĩ hưng bang, hữu giả? Khổng tử đối viết: Ngôn bất khả dĩ nhược thị kỳ kỷ dã. Nhân chi ngôn viết: „Vi quân nan, vi thần bất dịch‟. Như tri vi quân chi nan dã, bất kỷ hồ ngôn nhi hưng bang hồ”. Viết: Nhất ngôn nhi tang bang, hữu giả? Khổng tử đối viết: Ngôn bất khả dĩ nhược thị kỳ kỷ dã. Nhân chi ngôn viết: Dư vô lạc hồ vi quân, duy kỳ ngôn nhi mạc dư vi dã. Như kỳ thiện nhi mạc chi vi dã, bất diệc thiện hồ? Như bất thiện nhi mạc chi vi dã, bất kỷ hồ nhất ngôn nhi tang bang hồ? Vua Định",
             "nghia": "Công hỏi: Một lời nói có thể làm đất nước phát triển phải không? Khổng tử đáp: Lời nói khó có thể đạt nhanh như vậy. Người ta từng nói „Làm vua khó, làm bề tôi cũng chẳng dễ‟. Nếu biết làm vua khó thì đấy là lời nói chẳng phải có thể làm cho nước hưng thịnh được sao? Định Công hỏi tiếp: Một lời nói có thể làm cho đất nước tan hoang, phải không? Khổng tử đáp: Một lời nói chưa thể tác hại nhanh như vậy được. Như có người từng nói „Ta làm vua chưa thấy sung sướng gì, chỉ sướng khi nào ta nói ra mà không có ai dám trái lời‟. Nếu vua nói phải thì chẳng ai cãi, như thế thì tốt quá. Nếu vua nói sai mà chẳng ai phản đối, đó chẳng phải một lời nói có thể làm tan nát đất nước sao?",
             "binh": ""
           },
@@ -2100,7 +2100,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "13.17",
-            "hanviet": ",:,, Tử Hạ vi Cử Phụ tể, vấn chính. Tử viết: Vô dục tốc, vô kiến tiểu lợi. Dục tốc tắc bất đạt, kiến tiểu lợi tắc đại sự bất thành. Tử Hạ làm huyện trưởng huyện Cử Phụ, hỏi về chính sự.",
+            "hanviet": ":,, Tử Hạ vi Cử Phụ tể, vấn chính. Tử viết: Vô dục tốc, vô kiến tiểu lợi. Dục tốc tắc bất đạt, kiến tiểu lợi tắc đại sự bất thành. Tử Hạ làm huyện trưởng huyện Cử Phụ, hỏi về chính sự.",
             "nghia": "Khổng tử nói: Chớ vội vàng, đừng tham lợi nhỏ. Muốn nhanh thì không đến đích, tham lợi nhỏ thì bỏ mất việc lớn.",
             "binh": ""
           },
@@ -2118,19 +2118,19 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "13.20",
-            "hanviet": ":? Tử Cống vấn viết: Hà như tư khả vị chi sĩ hĩ ? Tử viết: Hành dĩ hữu sỉ, sử ư tứ phương, bất hổ quân mệnh, khả vị sĩ hĩ. Viết: Cảm vấn kỳ thứ. Viết: Tông tộc xứng hiếu yên, hương đảng xứng đệ yên. Viết: Cảm vấn kỳ thứ. Viết: Ngôn tất tín, hành tất quả, khanh khanh nhiên tiểu nhân tai ! Ức diệc khả dĩ vi thứ hĩ. Viết: Kim lệnh chi tòng chính giả hà như? Tử viết: Ái ! đấu sao chi nhân, hà túc toán dã ? Tử",
+            "hanviet": "? Tử Cống vấn viết: Hà như tư khả vị chi sĩ hĩ? Tử viết: Hành dĩ hữu sỉ, sử ư tứ phương, bất hổ quân mệnh, khả vị sĩ hĩ. Viết: Cảm vấn kỳ thứ. Viết: Tông tộc xứng hiếu yên, hương đảng xứng đệ yên. Viết: Cảm vấn kỳ thứ. Viết: Ngôn tất tín, hành tất quả, khanh khanh nhiên tiểu nhân tai! Ức diệc khả dĩ vi thứ hĩ. Viết: Kim lệnh chi tòng chính giả hà như? Tử viết: Ái! đấu sao chi nhân, hà túc toán dã? Tử",
             "nghia": "Cống hỏi: Người thế nào đáng được gọi là kẻ sĩ? Khổng tử nói: Làm trái phải biết xấu hổ. Đi sứ nước ngoài không làm mất thể diện vua mình, như thế có thể gọi là kẻ sĩ. Tử Cống hỏi; Xin hỏi kém kẻ sĩ một bậc gọi là người gì? Khổng tử nói: Đó là người mà họ hàng bảo là kẻ có hiếu, làng xóm cho là biết đạo anh em. Tử Cống lại hỏi: Kém một bậc nữa thì gọi là gì ạ? Khổng tử: Đó là người có lời nói tin cậy, hành động quả quyết, cũng là những kẻ nhỏ nhen, kiến thức hẹp hòi. Tuy vậy cũng gọi họ là kẻ sĩ kém hai bậc. Tử Cống hỏi tiếp: Những người đang làm quan nước Lỗ là loại người nào? Khổng tử đáp: Ai chà! Những kẻ bụng dạ hẹp hòi, có gì đáng nói!",
             "binh": ""
           },
           {
             "id": "13.21",
-            "hanviet": ", Tử viết: Bất đắc trung hành nhi dự chi, tất dã cuồng quyến hồ! Cuồng giả tiến thủ, quyến giả hữu sở bất vi dã.",
+            "hanviet": "Tử viết: Bất đắc trung hành nhi dự chi, tất dã cuồng quyến hồ! Cuồng giả tiến thủ, quyến giả hữu sở bất vi dã.",
             "nghia": "Khổng tử nói: Chẳng gặp được người đạt được tính trung dung để truyền đạo, đành phải tìm đến hạng cuồng giả, quyến giả. Cuồng giả có chí tiến thủ mãnh liệt, quyến giả biết giữ lòng ngay thẳng không làm chuyện bất nghĩa.",
             "binh": "“Cuồng giả” có chí lớn, tính cách mạnh mẽ thái quá, “quyến giả” thì lại rụt rè, biết giữ bổn phận không làm điều bất nghĩa. Cả hai loại người này đều chưa đạt trung dung (vừa phải). Khổng tử nói vậy để khuyến khích cả hai đều tiến về phiá đạo lý trung dung thì tốt hơn"
           },
           {
             "id": "13.22",
-            "hanviet": "Tử viết:Namnhân hữu ngôn viết „ Nhân nhi vô hằng, bất khả dĩ tác vu y‟. Thiện phu !” „Bất hằng kỳ đức, hoặc thừa chi tu‟. Tử viết: Bất chiêm nhi dĩ hĩ.",
+            "hanviet": "Tử viết: Namnhân hữu ngôn viết „ Nhân nhi vô hằng, bất khả dĩ tác vu y‟. Thiện phu!” „Bất hằng kỳ đức, hoặc thừa chi tu‟. Tử viết: Bất chiêm nhi dĩ hĩ.",
             "nghia": "Khổng tử nói: Người phương nam có câu „Người không có hằng tâm thì không thể làm thầy cúng hay thầy thuốc được‟. Câu này rất hay! Kinh Dịch lại có câu „Người không có đức hạnh bền vững thì thế nào cũng có lúc chuốc lấy sự hổ thẹn‟. Khổng tử nói tiếp: Người như thế thì làm thầy bói cũng chả được.",
             "binh": "Hằng tâm là bền lòng, bền chí, kiên định đạo lý, dù thế nào cũng không thay đổi"
           },
@@ -2143,7 +2143,7 @@ const TU_THU_LIBRARY = {
           {
             "id": "13.24",
             "hanviet": "Tử Cống vấn viết: Hương nhân giai hiếu chi, hà như? Tử viết: Vị khả dã. Tử viết: Vị khả dã. Bất như hương nhân chi thiện giả hiếu chi, kỳ bất thiện giả ố chi.",
-            "nghia": "Lại hỏi: Hương nhân giai ố chi, hà như? Tử Cống hỏi: Người được cả làng đều khen thì thế nào? Khổng tử nói: Chưa hẳn là người tốt. Tử Cống lại hỏi: Người mà cả làng đều ghét thì sao ? Khổng tử đáp: Chưa hẳn là kẻ xấu. Người thiện trong làng đều khen, kẻ ác đều ghét, ấy mới là người tốt.",
+            "nghia": "Lại hỏi: Hương nhân giai ố chi, hà như? Tử Cống hỏi: Người được cả làng đều khen thì thế nào? Khổng tử nói: Chưa hẳn là người tốt. Tử Cống lại hỏi: Người mà cả làng đều ghét thì sao? Khổng tử đáp: Chưa hẳn là kẻ xấu. Người thiện trong làng đều khen, kẻ ác đều ghét, ấy mới là người tốt.",
             "binh": "Người được cả làng (gồm cả tốt, xấu) khen – ấy là người “ba phải”. Người bị cả làng ghét, có thể người ấy ngay thẳng, không chịu a dua"
           },
           {
@@ -2167,7 +2167,7 @@ const TU_THU_LIBRARY = {
           {
             "id": "13.28",
             "hanviet": "Tử viết: Thiết thiết ti ti, di di như dã, khả vi sĩ hĩ. Bằng hữu thiết thiết ti ti, huynh đệ di di. Tử",
-            "nghia": "Lộ hỏi : Như thế nào được gọi là kẻ sĩ ? Khổng tử nói: Thân mật khuyên bảo, nhẹ nhàng vui vẻ có thể là kẻ sĩ. Bạn hữu thân thiết, anh em vui vẻ.",
+            "nghia": "Lộ hỏi: Như thế nào được gọi là kẻ sĩ? Khổng tử nói: Thân mật khuyên bảo, nhẹ nhàng vui vẻ có thể là kẻ sĩ. Bạn hữu thân thiết, anh em vui vẻ.",
             "binh": ""
           },
           {
@@ -2192,20 +2192,20 @@ const TU_THU_LIBRARY = {
         "passages": [
           {
             "id": "14.1",
-            "hanviet": "Hiến vấn sỉ. Tử viết: Bang hữu đạo, lộc; Bang vô đạo, lộc, sỉ dã. “ Khắc, phạt, oán, dục bất hành yên, khả dĩ vi nhân hĩ ?”. Tử viết: Khả dĩ vi nan hĩ, nhân tắc ngô bất tri dã. Nguyên Hiến hỏi về chữ sỉ (hổ thẹn).",
+            "hanviet": "Hiến vấn sỉ. Tử viết: Bang hữu đạo, lộc; Bang vô đạo, lộc, sỉ dã. “Khắc, phạt, oán, dục bất hành yên, khả dĩ vi nhân hĩ?”. Tử viết: Khả dĩ vi nan hĩ, nhân tắc ngô bất tri dã. Nguyên Hiến hỏi về chữ sỉ (hổ thẹn).",
             "nghia": "Khổng tử nói: Nước có đạo thì làm quan hưởng lộc; Nước vô đạo cũng làm quan hưởng lộc- ấy là sự hổ thẹn. Lại hỏi: “Nếu không hiếu thắng, phô trương, oán hận, tham lam thì có thể xem là người nhân không?”. Khổng tử nói: Có thể coi là người làm được việc khó. Ta chưa biết người ấy có thể là người nhân không.",
             "binh": ""
           },
           {
             "id": "14.2",
             "hanviet": "Tử viết: Sĩ nhi hoài cư, bất túc dĩ diệc sĩ hĩ.",
-            "nghia": "Khổng tử :Kẻ chỉ biết tìm cách được an nhàn thì không thể gọi là kẻ sĩ.",
+            "nghia": "Khổng tử: Kẻ chỉ biết tìm cách được an nhàn thì không thể gọi là kẻ sĩ.",
             "binh": ""
           },
           {
             "id": "14.3",
             "hanviet": "Tử viết: Bang hữu đạo, nguy ngôn nguy hành; Bang vô đạo, nguy hành ngôn tôn.",
-            "nghia": "Khổng tử nói : Nước có đạo thì lời nói ngay thẳng (dám nói lời nguy hiểm), việc làm táo bạo mà đúng đắn. Nước vô đạo thì lời nói phải nhún nhường e dè, nhưng việc làm vẫn phải giữ đúng đắn.",
+            "nghia": "Khổng tử nói: Nước có đạo thì lời nói ngay thẳng (dám nói lời nguy hiểm), việc làm táo bạo mà đúng đắn. Nước vô đạo thì lời nói phải nhún nhường e dè, nhưng việc làm vẫn phải giữ đúng đắn.",
             "binh": "Nước có đạo tức là do những người anh minh sáng suốt nắm giữ, họ nghe hiểu được những lời nói thẳng (nguy), việc làm táo bạo (nguy)… Nước vô đạo do những kẻ độc tài tàn ác cai trị, họ rất ghét những lời nói ngay thẳng trái ý họ, những việc làm không có lợi cho họ"
           },
           {
@@ -2216,8 +2216,8 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "14.5",
-            "hanviet": ":, Nam Cung Đích vấn ư Khổng tử viết: Nghệ thiện xạ, Ngạo đãng chu, câu bất đắc kỳ tử nhiên Vũ Tắc cung giá nhi hữu thiên hạ. Phu tử bất đáp. Nam Cung Đích xuất. Tử cung viết: Quân tử tai giả nhân ! Thướng đức tai giả nhân!",
-            "nghia": "Nam Cung Quát hỏi Khổng tử: Nghệ bắn giỏi, Ngạo đánh trận thủy chiến thành thạo thế mà cuối cùng phải chết bất đắc kỳ tử. Ông Vũ ông Tắc chỉ cần cù làm ruộng mà được cả thiên hạ (?) Khổng tử không đáp. Nam Cung Quát ra ngoài. Khổng tử nói: “Quát thật là người quân tử ! Thật là người ham chuộng đạo đức!”.",
+            "hanviet": ", Nam Cung Đích vấn ư Khổng tử viết: Nghệ thiện xạ, Ngạo đãng chu, câu bất đắc kỳ tử nhiên Vũ Tắc cung giá nhi hữu thiên hạ. Phu tử bất đáp. Nam Cung Đích xuất. Tử cung viết: Quân tử tai giả nhân! Thướng đức tai giả nhân!",
+            "nghia": "Nam Cung Quát hỏi Khổng tử: Nghệ bắn giỏi, Ngạo đánh trận thủy chiến thành thạo thế mà cuối cùng phải chết bất đắc kỳ tử. Ông Vũ ông Tắc chỉ cần cù làm ruộng mà được cả thiên hạ (?) Khổng tử không đáp. Nam Cung Quát ra ngoài. Khổng tử nói: “Quát thật là người quân tử! Thật là người ham chuộng đạo đức!”.",
             "binh": "NamCung Quát tức Nam Dung con người hoàn hảo đã được Khổng tử gả cháu gái cho. Nam Dung hỏi về Nghê, Ngạo là quyền thần đời trước cậy tài sức, không được hưởng phúc, Vũ, Tắc có đức nên thành đạt. Câu hỏi của Dung rất khó, lúc đó Khổng tử chưa hiểu được nên ngài khen Dung"
           },
           {
@@ -2229,18 +2229,18 @@ const TU_THU_LIBRARY = {
           {
             "id": "14.7",
             "hanviet": "Tử viết: Ái chi, năng vật lao hồ? Trung yên, năng vật hối hồ?",
-            "nghia": "Khổng tử nói: Yêu con mà không cho con làm việc nặng nhọc ư? Trung với vua mà không khuyên can vua làm cho đúng ư ?",
+            "nghia": "Khổng tử nói: Yêu con mà không cho con làm việc nặng nhọc ư? Trung với vua mà không khuyên can vua làm cho đúng ư?",
             "binh": ""
           },
           {
             "id": "14.8",
-            "hanviet": ":,,,, Tử viết: Vi mệnh, Tỳ Thầm thảo sáng chi, Thế Thúc thảo luận chi, hành nhân Tử Vũ tu sức chi, đông lý Tử Sản nhuận sắc chi.",
-            "nghia": "Khổng tử nói: Theo mệnh vua,Tỳ Thầm viết văn bản, đến Thế Thúc thảo luận, qua Tử Vũ tu sửa, đến phần Tử Sản trau chuốt lần cuối.",
+            "hanviet": ",,,, Tử viết: Vi mệnh, Tỳ Thầm thảo sáng chi, Thế Thúc thảo luận chi, hành nhân Tử Vũ tu sức chi, đông lý Tử Sản nhuận sắc chi.",
+            "nghia": "Khổng tử nói: Theo mệnh vua, Tỳ Thầm viết văn bản, đến Thế Thúc thảo luận, qua Tử Vũ tu sửa, đến phần Tử Sản trau chuốt lần cuối.",
             "binh": "Nước Trịnh có tập quán coi trọng việc làm ra văn bản. Có bốn viên quan phụ trách viết văn bản ngoại giao. Kể chuyện này, Khổng tử nhắc nhở học trò sau này làm quan khi viết văn bản phải cẩn thận vì tầm quan trọng của văn bản với quốc gia)."
           },
           {
             "id": "14.9",
-            "hanviet": "Hoặc vấn Tử Sản. Tử viết: Huệ nhân dã. Vấn Tử Tây. Viết: Bỉ tai ! Bỉ tai! Vấn Quản Trọng. Viết: Nhân dã. Đoạt Bá Thị Biền ấp tam bách, phạn sơ thực, một xỉ vô oán ngôn.",
+            "hanviet": "Hoặc vấn Tử Sản. Tử viết: Huệ nhân dã. Vấn Tử Tây. Viết: Bỉ tai! Bỉ tai! Vấn Quản Trọng. Viết: Nhân dã. Đoạt Bá Thị Biền ấp tam bách, phạn sơ thực, một xỉ vô oán ngôn.",
             "nghia": "Có người hỏi Khổng tử về Tử Sản. Khổng tử nói: Người ấy rất khoan dung và yêu dân. Lại hỏi về Tử Tây, Khổng tử nói: “Người ấy… người ấy…”. Lại hỏi về Quản Trọng, Khổng tử nói: Người này ư, vua Tề lấy ấp Biền ba trăm nhà của Bá Thị thưởng công cho Quản Trọng khiến Bá Thị nghèo khổ suốt đời mà không hề oán hận.",
             "binh": "Tử Tây là tể tướng nước Sở chẳng có công tích gì, khi Khổng tử đến nước Sở thì Tử Tây đem lòng đố kỵ vì sợ vua Sở tín nhiệm Khổng tử hơn. Nay nhắc đến hắn, Khổng tử không nỡ đả kích mà rất bao dung độ lượng. Quản Trọng là quan tài giỏi, có công lao lớn của nước Tề. Bá Thị bị vua lấy bớt đất cấp cho Quản Trọng mà Bá Thị tâm phục Quản Trọng nên không chút oán giận"
           },
@@ -2259,12 +2259,12 @@ const TU_THU_LIBRARY = {
           {
             "id": "14.12",
             "hanviet": "Tử Lộ vấn thành nhân. Tử viết: Nhược Tang Vũ Trọng chi tri, công xước chi bất dục, biện trang tử chi dũng, Nhiễm Cầu chi nghệ, văn chi dĩ lễ nhạc, diệc khả dĩ vi thành nhân hĩ. Viết: Kim chi thành nhân giả hà tất nhiên? Kiến lợi tư nghĩa, kiến nguy thụ mệnh, cữu yếu bất vong bình sinh chi ngôn, diệc khả dĩ vi thành nhân hĩ.",
-            "nghia": "Tử Lộ hỏi về một người thành đạt. Khổng tử nói: Có trí tuệ như Tang Vũ Trọng, liêm khiết như Mạnh Công Xước, dũng cảm như Biện Trang Tử, tài nghệ như Nhiễm Cầu, lại nắm được lễ nhạc nữa thì xem như những người toàn tài. Rồi Khổng tử nói thêm: Bây giờ người thành nhân có cần như thế nữa không ? Chỉ cần thấy lợi thì trước hết nghĩ đến nghĩa, gặp việc nguy nan thì sẵn sàng đối phó, lời hứa dù lâu cũng không quên, được như vậy thì xem như thành nhân rồi.",
+            "nghia": "Tử Lộ hỏi về một người thành đạt. Khổng tử nói: Có trí tuệ như Tang Vũ Trọng, liêm khiết như Mạnh Công Xước, dũng cảm như Biện Trang Tử, tài nghệ như Nhiễm Cầu, lại nắm được lễ nhạc nữa thì xem như những người toàn tài. Rồi Khổng tử nói thêm: Bây giờ người thành nhân có cần như thế nữa không? Chỉ cần thấy lợi thì trước hết nghĩ đến nghĩa, gặp việc nguy nan thì sẵn sàng đối phó, lời hứa dù lâu cũng không quên, được như vậy thì xem như thành nhân rồi.",
             "binh": ""
           },
           {
             "id": "14.13",
-            "hanviet": ". Tử vấn Công Thúc Văn Tử ư Công Minh Giả viết: Tín hồ, phu tử bất ngôn, bất tiếu, bất thủ hồ? Công minh thúc đối viết: Dĩ cáo giả quá dã. Phu tử thời nhiên hậu ngôn, nhân bất yếm kỳ ngôn; nhạc nhiên hậu tiếu, nhân bất yếm kỳ tiếu; Nghĩa nhiên hậu thủ, nhân bất yếm kỳ thủ. Tử viết: Kỳ nhiên ? Khải kỳ nhiên hồ?",
+            "hanviet": "Tử vấn Công Thúc Văn Tử ư Công Minh Giả viết: Tín hồ, phu tử bất ngôn, bất tiếu, bất thủ hồ? Công minh thúc đối viết: Dĩ cáo giả quá dã. Phu tử thời nhiên hậu ngôn, nhân bất yếm kỳ ngôn; nhạc nhiên hậu tiếu, nhân bất yếm kỳ tiếu; Nghĩa nhiên hậu thủ, nhân bất yếm kỳ thủ. Tử viết: Kỳ nhiên? Khải kỳ nhiên hồ?",
             "nghia": "Khổng tử hỏi Công Minh Giả về Công Thúc Văn Tử: “Ta nghe nói Công Thúc Văn Tử không nói, không cười, không nhận cái gì của ai, điều đó đúng không? Công Minh Giả đáp: “Là người ta nói quá đấy. Văn Tử chỉ nói lúc đáng nói, nên người ta nghe không chán; Khi vui mới cười nên người ta thấy cười mà không chê; Của hợp nghĩa mới nhận nên người ta thấy nhận là thích hợp, không khinh bỉ”. Khổng tử nói: Thật vậy ư? Chẳng lẽ thật vậy ư?",
             "binh": ""
           },
@@ -2294,13 +2294,13 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "14.18",
-            "hanviet": ": Công Thúc Văn Tử chi thần đại phu soạn dự văn tử đồng thăng giả công. Tử văn chi, viết: Khả dĩ vi văn hĩ.",
+            "hanviet": "Công Thúc Văn Tử chi thần đại phu soạn dự văn tử đồng thăng giả công. Tử văn chi, viết: Khả dĩ vi văn hĩ.",
             "nghia": "Gia thần của Công Thúc Văn Tử là đại phu Soạn nhờ Công tiến cử mà được thăng chức đại thần. Khổng tử nghe tin, nói: Công Thúc Văn Tử đáng được đặt tên thụy là “văn”.",
             "binh": "“văn” là có kiến thức"
           },
           {
             "id": "14.19",
-            "hanviet": "Tử ngôn Vệ Linh Công chi vô đạo dã, Khang tử viết: Phu như thị, hề nhi bất tang. Khổng tử viết: Trọng Thúc Ngữ trì tân khách, Chúc Đà thỉ tông miếu, Vương Tôn Giả thỉ quân lữ, phu như thị, hề kỳ tang ?",
+            "hanviet": "Tử ngôn Vệ Linh Công chi vô đạo dã, Khang tử viết: Phu như thị, hề nhi bất tang. Khổng tử viết: Trọng Thúc Ngữ trì tân khách, Chúc Đà thỉ tông miếu, Vương Tôn Giả thỉ quân lữ, phu như thị, hề kỳ tang?",
             "nghia": "Khổng tử chê vua Vệ Linh Công là kẻ vô đạo. Quý Khang tử hỏi: Dù cho Vệ Linh Công như vậy, sao nước Vệ không diệt vong? Khổng tử đáp: Bởi vì nước Vệ có Trọng Thúc Ngữ giỏi việc ngoại giao, tiếp đãi tân khách, Chúc Đà quản lý tốt việc tế lễ tông miếu, Vương Tôn Giả giỏi cầm quân. Biết dùng người như vậy thì làm sao mất nước được?",
             "binh": "Vua nước Vệ vô đạo nhưng còn biết dùng nhân tài, do vây còn giữ được đất nước. Nếu vua Vệ có đạo thì đất nước còn phát triển tốt đẹp hơn)."
           },
@@ -2312,7 +2312,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "14.21",
-            "hanviet": ",„‟ , , Trần Thành Tử thí Giản Công. Khổng tử mộc dục nhi triêu, cáo ư Ai Công viết: Trần Hằng thí kỳ quân, thỉnh thảo chi. Công viết: Cáo phu tam tử. Khổng tử viết: Dĩ ngô tòng đại phu chi hậu, bất cảm bất cáo dã. Quân viết „cáo phu tam tử‟giả. Chi tam tử cáo, bất khả. Khổng tử viết: Dĩ ngô tòng đại phu chi hậu, bất cảm bất cáo dã.",
+            "hanviet": "„‟,, Trần Thành Tử thí Giản Công. Khổng tử mộc dục nhi triêu, cáo ư Ai Công viết: Trần Hằng thí kỳ quân, thỉnh thảo chi. Công viết: Cáo phu tam tử. Khổng tử viết: Dĩ ngô tòng đại phu chi hậu, bất cảm bất cáo dã. Quân viết „cáo phu tam tử‟giả. Chi tam tử cáo, bất khả. Khổng tử viết: Dĩ ngô tòng đại phu chi hậu, bất cảm bất cáo dã.",
             "nghia": "Trần Thành Tử giết vua Tề Giản Công. Khổng tử tắm gội sạch sẽ, vào triều thưa với vua Lỗ Ai Công: “Trần Hằng đã giết vua của hắn, xin bệ hạ cho cử binh đi phạt tội hắn”. Vua Lỗ nói: Việc này báo cho ba đại phu biết đã. Khổng tử lui ra nói: “Ta tuy thôi làm quan nhưng còn đứng sau hàng đại phu, cho nên biết việc này mà không thể không đi báo vua, thế mà vua lại bảo cứ đi hỏi ba đại phu kia”. Khổng tử đến báo cho ba đại phu kia, nhưng chẳng ai ưng thuận. Khổng tử nói: Ta đứng sau hàng đại phu, cho nên biết việc này thì không thể không đi báo",
             "binh": "Theo phép thời Xuân thu, kẻ giết vua là vô đạo, trái lẽ trời, phải bị trừng phạt. Trách nhiệm Khổng tử đã từng làm quan đại phu nên phải tâu lên nhà vua. Ba quan đại phu nước Lỗ cũng là loại quyền thần lấn át vua nên việc làm của Khổng tủ tuy không đạt yêu cầu những cũng có ý răn đe ba vị đai phu ấy)."
           },
@@ -2336,8 +2336,8 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "14.25",
-            "hanviet": "Cừ Bá Ngọc sử nhân ư Khổng tử, Khổng tử dự chi tọa nhi vấn yên. Viết: Phu tử hà vi? Đối viết: Phú tử dục quả kỳ quá nhi vị năng dã. Sứ giả xuất, Tử viết: Sứ hồ! Sứ hồ !",
-            "nghia": "Cừ Bá Ngọc sai người tới thăm Khổng tử, Khổng tử mời khách ngồi rồi hỏi thăm: Phu tử Cừ nay làm gì? Sứ giả đáp: Ông chủ con muốn giảm lỗi lầm mà chưa làm được. Sau khi sứ giả từ biệt ra về, Khổng tử khen: Thật là một sứ giả giỏi, sứ giả giỏi !",
+            "hanviet": "Cừ Bá Ngọc sử nhân ư Khổng tử, Khổng tử dự chi tọa nhi vấn yên. Viết: Phu tử hà vi? Đối viết: Phú tử dục quả kỳ quá nhi vị năng dã. Sứ giả xuất, Tử viết: Sứ hồ! Sứ hồ!",
+            "nghia": "Cừ Bá Ngọc sai người tới thăm Khổng tử, Khổng tử mời khách ngồi rồi hỏi thăm: Phu tử Cừ nay làm gì? Sứ giả đáp: Ông chủ con muốn giảm lỗi lầm mà chưa làm được. Sau khi sứ giả từ biệt ra về, Khổng tử khen: Thật là một sứ giả giỏi, sứ giả giỏi!",
             "binh": "Sứ giả ngoại giao thật khôn ngoan đúng mực, không phô trương công tích của chủ mà nói chủ đang lo sửa lỗi"
           },
           {
@@ -2360,8 +2360,8 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "14.29",
-            "hanviet": "Tử Cống phương nhân. Tử viết: Tứ dã hiền hồ tai ? Phu ngã tắc bất hạ.",
-            "nghia": "Tử Cống hay so sánh người hơn kẻ kém. Khổng tử nói: Người giỏi vậy ư ? Ta thì không nhàn rỗi nói chuyện đó.",
+            "hanviet": "Tử Cống phương nhân. Tử viết: Tứ dã hiền hồ tai? Phu ngã tắc bất hạ.",
+            "nghia": "Tử Cống hay so sánh người hơn kẻ kém. Khổng tử nói: Người giỏi vậy ư? Ta thì không nhàn rỗi nói chuyện đó.",
             "binh": "Tử Cống có óc phân tích, so sánh lại thẳng thắn, nhưng gây cho người khác mất lòng. Khổng tử khuyên anh ta chẳng nên thế"
           },
           {
@@ -2372,73 +2372,73 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "14.31",
-            "hanviet": "Tử viết : Bất nghịch tác, bất ức bất tín, ức diệc tiên giác giả, thị hiền hồ !",
+            "hanviet": "Tử viết: Bất nghịch tác, bất ức bất tín, ức diệc tiên giác giả, thị hiền hồ!",
             "nghia": "Khổng tử nói: Không cần đoán trước sự lừa dối, sự bất tín của người khác, nhưng nếu có thì biết ngay. Như vậy coi là người hiền rồi.",
             "binh": ""
           },
           {
             "id": "14.32",
-            "hanviet": "Vi Sinh Mẫu vị Khổng tử viết: Khâu, hà vi thị tê tê giả dự ? Vô nãi vi nịnh hồ? Khổng tử viết : Phi cảm vi nịnh dã, tật cố dã.",
-            "nghia": "Vi Sinh Mẫu nói với Khổng tử: Ông Khâu, sao cứ phải miệt mài dạy dỗ người đời như thế ? Phải chăng ông khoe tài ăn nói, đặng lấy lòng người ư? Khổng tử đáp: Tôi không dám khoe tài, chỉ vì ghét những kẻ cố chấp không chịu hiểu đạo lý.",
+            "hanviet": "Vi Sinh Mẫu vị Khổng tử viết: Khâu, hà vi thị tê tê giả dự? Vô nãi vi nịnh hồ? Khổng tử viết: Phi cảm vi nịnh dã, tật cố dã.",
+            "nghia": "Vi Sinh Mẫu nói với Khổng tử: Ông Khâu, sao cứ phải miệt mài dạy dỗ người đời như thế? Phải chăng ông khoe tài ăn nói, đặng lấy lòng người ư? Khổng tử đáp: Tôi không dám khoe tài, chỉ vì ghét những kẻ cố chấp không chịu hiểu đạo lý.",
             "binh": ""
           },
           {
             "id": "14.33",
-            "hanviet": "Tử viết : Ký bất xứng kỳ lực, xứng kỳ đức dã.",
+            "hanviet": "Tử viết: Ký bất xứng kỳ lực, xứng kỳ đức dã.",
             "nghia": "Khổng tử nói: Không nên khen sức mạnh ngựa thiên lý, mà khen cái đức tính của nó.",
             "binh": "Đức tính của ngựa đáng khen là dễ sai khiến, trung thành, có tình. Người xưa từng nói “khuyển mã chi tình” (tình chó, ngựa). Ý Khổng tử so sánh với con người: nên trọng người trung thành có tình hơn kẻ tài giỏi mà vô đức"
           },
           {
             "id": "14.34",
-            "hanviet": ", Hoặc viết „Dĩ đức báo oán, hà như?‟ .Tử viết: Hà dĩ báo đức ? Dĩ trực báo oán, dĩ đức báo đức.",
-            "nghia": "Có người hỏi: Lấy đức báo oán thù, vậy được không? Khổng tử đáp: “Thế lấy gì báo ân đức ? Hãy lấy ngay thẳng báo oán, dùng ân đức để báo đáp ân đức”",
+            "hanviet": "Hoặc viết „Dĩ đức báo oán, hà như?‟. Tử viết: Hà dĩ báo đức? Dĩ trực báo oán, dĩ đức báo đức.",
+            "nghia": "Có người hỏi: Lấy đức báo oán thù, vậy được không? Khổng tử đáp: “Thế lấy gì báo ân đức? Hãy lấy ngay thẳng báo oán, dùng ân đức để báo đáp ân đức”",
             "binh": ""
           },
           {
             "id": "14.35",
-            "hanviet": "Tử viết : Mạc ngã tri dã phu ! Tử Cống viết: Hà vi kỳ mạc tri tử dã? Tử viết: Bất oán thiên, bất vưu nhân. Hạ học nhi thượng đạt, tri ngã giả kỳ thiên hồ !",
+            "hanviet": "Tử viết: Mạc ngã tri dã phu! Tử Cống viết: Hà vi kỳ mạc tri tử dã? Tử viết: Bất oán thiên, bất vưu nhân. Hạ học nhi thượng đạt, tri ngã giả kỳ thiên hồ!",
             "nghia": "Khổng tử nói: Chẳng có ai hiểu ta cả! Tử Cống hỏi: Sao không có ai hiểu thầy? Khổng tử nói: Ta không oán trời, không trách người, ta học việc con người từ nơi thấp cạn mà hiểu được việc trời cao siêu. Hiểu ta may ra chỉ có trời.",
             "binh": ""
           },
           {
             "id": "14.36",
-            "hanviet": "Công Bá Liêu tố Tử Lộ ư Quí Tôn. Tử Phục Cảnh Bá dĩ cáo, viết: “Phu tử cố hữu hoặc chí ư Công Bá Liêu, ngô lực do năng tứ chư thị triêu”. Tử viết: “Đạo chi thương hành dã dự, mệnh dã; Đạo chi thương phế dã dự, mệnh dã. Công Bá Liêu kỳ như mênh hà !”.",
+            "hanviet": "Công Bá Liêu tố Tử Lộ ư Quí Tôn. Tử Phục Cảnh Bá dĩ cáo, viết: “Phu tử cố hữu hoặc chí ư Công Bá Liêu, ngô lực do năng tứ chư thị triêu”. Tử viết: “Đạo chi thương hành dã dự, mệnh dã; Đạo chi thương phế dã dự, mệnh dã. Công Bá Liêu kỳ như mênh hà!”.",
             "nghia": "Công Bá Liêu nói xấu Tử Lộ ở nhà Quí Tôn. Tử Phục Cảnh Bá nghe được, nói: Quý Tôn đã bị Công Bá Liêu mê hoặc rồi. Con có thể làm cho Quý Tôn giết Công Bá Liêu đem bêu xác ngoài chợ để thị uy. Khổng tử nói: Đạo của ta có thực hiện được hay không là do mệnh trời. Công Bá Liêu làm sao bằng mệnh trời được.",
             "binh": "Công Bá Liêu là kẻ xấu, muốn phá hoại sự nghiệp của thầy trò Khổng tử nên thường nói xấu với nhà Quý Tôn đại thần nước Lỗ. Tử Phục Cảnh Bá là một học trò của Khổng tử muốn giết Công Bá Liêu nhưng Khổng tử không đồng ý, ngài tin ở mệnh trời"
           },
           {
             "id": "14.37",
-            "hanviet": "Tử viết : Hiền giả tịch thế, kỳ thứ tịch địa, kỳ thứ tịch sắc, kỳ thứ tịch ngôn. Tử viết: Tác giả thất nhân hĩ.",
+            "hanviet": "Tử viết: Hiền giả tịch thế, kỳ thứ tịch địa, kỳ thứ tịch sắc, kỳ thứ tịch ngôn. Tử viết: Tác giả thất nhân hĩ.",
             "nghia": "Khổng tử nói: Hiền giả tránh đời vô đạo đi ở ẩn, một số tránh nước loạn mà chạy qua nước khác, một số tránh mặt vua trở mặt, không biết lễ, một số khác tránh kẻ tiểu nhân hay gièm pha. Lại nói thêm: Những người ấy đã có đến bảy người rồi.",
             "binh": "Bá Di, Thúc Tề, Ngu Trọng, Di Dật, Chu Trương, Liễu Hạ Huệ, Thiếu Liên là bảy người hiền đi ở ẩn"
           },
           {
             "id": "14.38",
-            "hanviet": ": ?.:.: Tử Lộ túc ư Thạch Môn. Thần môn viết:Hề tự?. Tử Lộ viết: Tự Khổng thị. Viết: Thị tri kỳ bất khả nhi vi chi giả dự ?",
-            "nghia": "Tử Lộ nghỉ đêm ở Thạch Môn. Người giữ của thành hỏi: Thầy ở đâu đến? Tử Lộ trả lời: Từ chỗ thầy Khổng tử đến. Người giữ thành hỏi: Có phải (Khổng tử) là người biết chủ trương của mình không thực hiện nổi mà cứ cố làm không ?",
+            "hanviet": ".:.: Tử Lộ túc ư Thạch Môn. Thần môn viết: Hề tự. Tử Lộ viết: Tự Khổng thị. Viết: Thị tri kỳ bất khả nhi vi chi giả dự?",
+            "nghia": "Tử Lộ nghỉ đêm ở Thạch Môn. Người giữ của thành hỏi: Thầy ở đâu đến? Tử Lộ trả lời: Từ chỗ thầy Khổng tử đến. Người giữ thành hỏi: Có phải (Khổng tử) là người biết chủ trương của mình không thực hiện nổi mà cứ cố làm không?",
             "binh": ""
           },
           {
             "id": "14.39",
-            "hanviet": ":. : Tử kích khánh ư Vệ, hữu hà khoái nhi quá Khổng thị chi môn giả, viết: Hữu tâm tai, Kích khánh hồ ! Kí nhi viết: Bỉ tai ! Khanh khanh hồ ! Mạc kỷ tri dã, tư kỷ nhi dĩ hĩ. Thâm tắc lệ, thiển tắc yết. Tử viết: Quả tai! Mạt chi nan hĩ.",
-            "nghia": "Khổng tử ở nước Vệ đang gõ khánh, có người bán sọt đựng cỏ đi ngang, nói “Nghe tiếng khánh, biết người gõ khánh là kẻ có tâm”. Lát sau lại nói: “Tiếng khánh rất khiêm tốn Không có ai biết mình thì chỉ giữ mình thôi. Nước sâu để nguyên quần áo lội qua, nước cạn thì xắn quần lên đi”. Khổng tử nói: “Quả quyết tự tin chưa kìa! Vậy trên đời chẳng còn có gì khó ư?!”",
+            "hanviet": ".: Tử kích khánh ư Vệ, hữu hà khoái nhi quá Khổng thị chi môn giả, viết: Hữu tâm tai, Kích khánh hồ! Kí nhi viết: Bỉ tai! Khanh khanh hồ! Mạc kỷ tri dã, tư kỷ nhi dĩ hĩ. Thâm tắc lệ, thiển tắc yết. Tử viết: Quả tai! Mạt chi nan hĩ.",
+            "nghia": "Khổng tử ở nước Vệ đang gõ khánh, có người bán sọt đựng cỏ đi ngang, nói “Nghe tiếng khánh, biết người gõ khánh là kẻ có tâm”. Lát sau lại nói: “Tiếng khánh rất khiêm tốn Không có ai biết mình thì chỉ giữ mình thôi. Nước sâu để nguyên quần áo lội qua, nước cạn thì xắn quần lên đi”. Khổng tử nói: “Quả quyết tự tin chưa kìa! Vậy trên đời chẳng còn có gì khó ư!”",
             "binh": "Người bàn sọt muốn khuyên Khổng tử chẳng nên cố chấp. Không thể cứu được đại sự thì mặc nó trôi qua, còn Khổng tử thì luôn luôn bền chí lo đến sự an nguy của thời cuộc mà tim cách phổ biến đạo lý thánh hiền. “Nước sâu để nguyên áo quần lội qua”: câu này đa nghĩa, tạm hiểu: lỡ có chết đuối thì còn nguyên trang phục, mất thân mà giữ được danh dự- chữ lễ )."
           },
           {
             "id": "14.40",
             "hanviet": "Tử Trương viết: Thư vân: Cao tông Lương Âm, tam niên bất ngôn. Hà vị dã? Tử viết: Hà tất Cao tông? Cổ chi nhân giai nhiên. Quân hoăng, bách quan tổng kỷ dĩ thính ư trủng tể tam niên. Tử",
-            "nghia": "Trương nói: Kinh Thư viết „Vua Cao Tông nhà Lương Âm ba năm không nói chuyện chính sự‟ là ý gì? Khổng tử nói: Đâu phải chỉ có vua Cao Tông ? mà người xưa đều vậy. Vua mất, trăm quan đều lo chức vụ mình, nghe theo lệnh quan tể tướng và vua kế vị để thụ tang ba năm.",
+            "nghia": "Trương nói: Kinh Thư viết „Vua Cao Tông nhà Lương Âm ba năm không nói chuyện chính sự‟ là ý gì? Khổng tử nói: Đâu phải chỉ có vua Cao Tông? mà người xưa đều vậy. Vua mất, trăm quan đều lo chức vụ mình, nghe theo lệnh quan tể tướng và vua kế vị để thụ tang ba năm.",
             "binh": "Vua Cao tông để tang, ba năm không bàn việc chính sự"
           },
           {
             "id": "14.41",
-            "hanviet": "Tử viết : Thượng hiếu lễ, tắc dân dị sử dã.",
+            "hanviet": "Tử viết: Thượng hiếu lễ, tắc dân dị sử dã.",
             "nghia": "Khổng tử nói: Người trên coi trọng lễ thì dễ sai bảo dân chúng.",
             "binh": ""
           },
           {
             "id": "14.42",
-            "hanviet": "Tử Lộ vấn quân tử. Tử viết: Tu kỷ dĩ kính. Viết: Như tư nhi dĩ hồ?. Viết: Tu kỷ dĩ an nhân. Viết: Như tư nhi dĩ hồ ? Viết: Tu kỷ dĩ an bách tính. Tu kỷ dĩ an bách tính, Nghiêu Thuấn kỳ do bệnh chư ?",
+            "hanviet": "Tử Lộ vấn quân tử. Tử viết: Tu kỷ dĩ kính. Viết: Như tư nhi dĩ hồ. Viết: Tu kỷ dĩ an nhân. Viết: Như tư nhi dĩ hồ? Viết: Tu kỷ dĩ an bách tính. Tu kỷ dĩ an bách tính, Nghiêu Thuấn kỳ do bệnh chư?",
             "nghia": "Tử Lộ hỏi về người quân tử. Khổng tử nói: Tu dưỡng mình kính cẩn. Tử Lộ hỏi: Như thế là đủ ư? Khổng tử nói: Tu dưỡng mình để làm yên người khác. Lại hỏi: Như thế là đủ ư? Khổng tử đáp: Tu dưỡng bản thân để làm yên trăm họ. Việc này khó đến nỗi vua Nghiêu, vua Thuấn còn khó làm được.",
             "binh": ""
           },
@@ -2465,20 +2465,20 @@ const TU_THU_LIBRARY = {
           {
             "id": "15.1",
             "hanviet": "",
-            "nghia": ", Vệ Linh Công vấn trận ư Khổng tử. Khổng tử đối viết: Trở đậu chi sự, tắc thường văn chi hĩ; Quân lữ chi sự, vị chi học dã. Minh nhật toại hành. Vệ Linh Công hỏi Khổng tử về nước trận mạc. Khổng tử trả lời: Tôi thường nghe về văn (lễ nghĩa), chưa học về chiến trận. Ngày hôm sau Khổng tử dời nước Vệ.",
+            "nghia": "Vệ Linh Công vấn trận ư Khổng tử. Khổng tử đối viết: Trở đậu chi sự, tắc thường văn chi hĩ; Quân lữ chi sự, vị chi học dã. Minh nhật toại hành. Vệ Linh Công hỏi Khổng tử về nước trận mạc. Khổng tử trả lời: Tôi thường nghe về văn (lễ nghĩa), chưa học về chiến trận. Ngày hôm sau Khổng tử dời nước Vệ.",
             "binh": "Vệ Linh Công là vua vô đạo, hỏi dò Khổng tử để gây việc binh đao. Khổng tử từ chối khéo và bỏ đi"
           },
           {
             "id": "15.2",
-            "hanviet": "Tại Trần tuyệt lương, tòng giả bệnh, mạc năng hưng. Tử Lộ uấn kiến viết: Quân tử diệc hữu cùng hồ ? Tử viết : Quân tử cố cùng tiểu nhân cùng tư lạm hĩ.",
+            "hanviet": "Tại Trần tuyệt lương, tòng giả bệnh, mạc năng hưng. Tử Lộ uấn kiến viết: Quân tử diệc hữu cùng hồ? Tử viết: Quân tử cố cùng tiểu nhân cùng tư lạm hĩ.",
             "nghia": "Khi ở nước Trần bị tuyệt lương thực, học trò đi theo mắc bệnh, đi không nổi. Tử Lộ buồn rầu gặp Khổng tử nói: “Quân tử cũng có lúc khốn cùng phải không?”. Khổng tử nói: Quân tử gặp cùng khốn thì cố chịu đựng, kẻ tiểu nhân thì lạm dụng, làm liều.",
             "binh": ""
           },
           {
             "id": "15.3",
-            "hanviet": "Tử viết: Tứ dã ! Nhữ dĩ dư vi đa học nhi chí giả dữ? Đối viết: Nhiên, phi dự ? Viết: Phi dã. Dư nhất dĩ quán chi.",
-            "nghia": "Khổng tử nói: Trò Tứ, ngươi tưởng ta có nhiều học thức ư? Tử Cống thưa: Vâng ạ, chẳng lẽ không phải vậy sao ? Khổng tử đáp: Không phải, ta chỉ biết dùng một đạo lý cơ bản mà thông suốt mọi vấn đề.",
-            "binh": "; Khổng tử cho rằng chỉ cần học những điều cơ bản mà tự nhìn thấy nhiều kiến thức khác, không cần đọc nhiều nhớ nhiều. Kiến thức cơ bản ấy chính là đạo nhân"
+            "hanviet": "Tử viết: Tứ dã! Nhữ dĩ dư vi đa học nhi chí giả dữ? Đối viết: Nhiên, phi dự? Viết: Phi dã. Dư nhất dĩ quán chi.",
+            "nghia": "Khổng tử nói: Trò Tứ, ngươi tưởng ta có nhiều học thức ư? Tử Cống thưa: Vâng ạ, chẳng lẽ không phải vậy sao? Khổng tử đáp: Không phải, ta chỉ biết dùng một đạo lý cơ bản mà thông suốt mọi vấn đề.",
+            "binh": "Khổng tử cho rằng chỉ cần học những điều cơ bản mà tự nhìn thấy nhiều kiến thức khác, không cần đọc nhiều nhớ nhiều. Kiến thức cơ bản ấy chính là đạo nhân"
           },
           {
             "id": "15.4",
@@ -2488,20 +2488,20 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "15.5",
-            "hanviet": "Tử viết: Vô vi nhi trị giả, kỳ Thuấn dã dự ? Phu hà vi tai ? Cung kỷ chính Nam diện nhi dĩ hĩ.",
-            "nghia": "Khổng tử nói: Không cần làm gì mà trị yên được thiên hạ, chỉ có vua Thuấn phải không ? Vua Thuấn có làm gì đâu? Người chỉ giữ trang nghiêm đoan chính, ngồi ngoảnh mặt về phương Nam.",
+            "hanviet": "Tử viết: Vô vi nhi trị giả, kỳ Thuấn dã dự? Phu hà vi tai? Cung kỷ chính Nam diện nhi dĩ hĩ.",
+            "nghia": "Khổng tử nói: Không cần làm gì mà trị yên được thiên hạ, chỉ có vua Thuấn phải không? Vua Thuấn có làm gì đâu? Người chỉ giữ trang nghiêm đoan chính, ngồi ngoảnh mặt về phương Nam.",
             "binh": "Học thuyết „Vô vi nhi trị‟. Người lãnh đạo tài cao đức trọng đủ cảm hoá mọi người, phát huy năng lực người cấp dưới mà làm việc"
           },
           {
             "id": "15.6",
-            "hanviet": ":, ,, Tử Trương vấn hành. Tử viết Ngôn trung tín, hành đốc kính, tuy Man Mạch chi bang, hành hĩ. Ngôn bất trung tín, hành bất đốc kính, tuy châu lý, hành hồ tai ? Lập tắc kiến kỳ tham ư tiền dã, tại dư tắc kiến kỳ ỷ ư hành dã, phu nhiên hậu hành. Tử Trương thư chư thân. Tử Trương hỏi về việc đi lại.",
+            "hanviet": ",,, Tử Trương vấn hành. Tử viết Ngôn trung tín, hành đốc kính, tuy Man Mạch chi bang, hành hĩ. Ngôn bất trung tín, hành bất đốc kính, tuy châu lý, hành hồ tai? Lập tắc kiến kỳ tham ư tiền dã, tại dư tắc kiến kỳ ỷ ư hành dã, phu nhiên hậu hành. Tử Trương thư chư thân. Tử Trương hỏi về việc đi lại.",
             "nghia": "Khổng tử nói: Lời nói phải trung tín, làm việc cẩn trọng thì dù đi tới nước thiểu số Man Mạch vẫn thông suốt. Lời nói thiếu trung tín, làm việc cẩu thả thì dù ở ngay quê hương mình cũng vấp váp. Khi đứng, như thấy chữ “trung tín, cẩn trọng” đang ở trước mặt. Khi ngồi xe, như thấy chữ “trung tín, cẩn trọng” khắc trên thành xe. Như vậy thì thực hành thông suốt. Tử Trương chép lời dặn ấy vào dải áo thắt ngang lưng",
             "binh": ""
           },
           {
             "id": "15.7",
-            "hanviet": "Tử viết: Trực tai Sử Ngư ! Bang hữu đạo, như thỉ; bang vô đạo, như thỉ. Quân tử tai Cừ Bá Ngọc ! Bang hữu đạo, tắc sĩ; Bang vô đạo tắc khả quyển như hoài chi.",
-            "nghia": "Khổng tử nói: Ngay thẳng như Sử Ngư ! Nước có đạo, ông ngay thẳng như cái tên; Khi nước vô đạo, ông vẫn ngay thẳng như cái tên. Quân tử như Cừ Bá Ngọc, nước có đạo thì ra làm quan, khi nước vô đạo biết lui về ở ẩn.",
+            "hanviet": "Tử viết: Trực tai Sử Ngư! Bang hữu đạo, như thỉ; bang vô đạo, như thỉ. Quân tử tai Cừ Bá Ngọc! Bang hữu đạo, tắc sĩ; Bang vô đạo tắc khả quyển như hoài chi.",
+            "nghia": "Khổng tử nói: Ngay thẳng như Sử Ngư! Nước có đạo, ông ngay thẳng như cái tên; Khi nước vô đạo, ông vẫn ngay thẳng như cái tên. Quân tử như Cừ Bá Ngọc, nước có đạo thì ra làm quan, khi nước vô đạo biết lui về ở ẩn.",
             "binh": ""
           },
           {
@@ -2536,14 +2536,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "15.13",
-            "hanviet": "Tử viết: Dĩ hĩ hồ ! Ngô vị kiến hiếu đức như hiếu sắc giả dã.",
-            "nghia": "Khổng tử nói: Thôi hết rồi ! Ta chưa nhìn thấy ai ham đức như ham sắc vậy.",
+            "hanviet": "Tử viết: Dĩ hĩ hồ! Ngô vị kiến hiếu đức như hiếu sắc giả dã.",
+            "nghia": "Khổng tử nói: Thôi hết rồi! Ta chưa nhìn thấy ai ham đức như ham sắc vậy.",
             "binh": ""
           },
           {
             "id": "15.14",
-            "hanviet": "Tử viết: Tang Văn Trọng kỳ thiết vị giả dự ! Tri Liễu Hạ Huệ chi hiền nhi bất dự lập dã.",
-            "nghia": "Khổng tử nói: Tang Văn Trọng hình như là kẻ ăn cắp chức vụ ? Người ấy biết rất rõ Liễu Hạ Huệ thật sự là hiền tài mà không cử Liễu ra làm quan.",
+            "hanviet": "Tử viết: Tang Văn Trọng kỳ thiết vị giả dự! Tri Liễu Hạ Huệ chi hiền nhi bất dự lập dã.",
+            "nghia": "Khổng tử nói: Tang Văn Trọng hình như là kẻ ăn cắp chức vụ? Người ấy biết rất rõ Liễu Hạ Huệ thật sự là hiền tài mà không cử Liễu ra làm quan.",
             "binh": "Liễu Hạ Huệ là hiền tài, Tang Văn Trọng ngồi ghế quan cao, biết rõ Liễu xứng đáng mà không đề bạt là do bụng hẹp hòi. Đó là tội che giấu hiền tài, kể như ăn cắp vậy."
           },
           {
@@ -2602,19 +2602,19 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "15.24",
-            "hanviet": "Tử Cống vấn viết: Hữu nhất ngôn dĩ chung thân hành chi giả hồ ? Tử viết: Kỳ thứ hồ! Kỷ sở bất dục, vật thi ư nhân. Tử",
-            "nghia": "Cống hỏi: Có câu nói nào mà dùng được suốt đời không ? Khổng tử nói: Đó là chữ “thứ”. Việc gì mình không muốn thì đừng làm cho người khác.",
+            "hanviet": "Tử Cống vấn viết: Hữu nhất ngôn dĩ chung thân hành chi giả hồ? Tử viết: Kỳ thứ hồ! Kỷ sở bất dục, vật thi ư nhân. Tử",
+            "nghia": "Cống hỏi: Có câu nói nào mà dùng được suốt đời không? Khổng tử nói: Đó là chữ “thứ”. Việc gì mình không muốn thì đừng làm cho người khác.",
             "binh": ""
           },
           {
             "id": "15.25",
-            "hanviet": "Tử viết: Ngô chi ư nhân dã, thùy hủy thùy dự ? Như hữu sở dự giả, kỳ hữu sở thí hĩ. Tư dân dã, tam đại chi sở dĩ trực đạo nhi hành dã.",
+            "hanviet": "Tử viết: Ngô chi ư nhân dã, thùy hủy thùy dự? Như hữu sở dự giả, kỳ hữu sở thí hĩ. Tư dân dã, tam đại chi sở dĩ trực đạo nhi hành dã.",
             "nghia": "Khổng tử nói: Ta sống với người, có chê ai khen ai quá lố đâu? Nếu khen ai ta phải xem xét thực tế để biết rõ người ấy. Phê phán người đời nay, ta dựa theo đạo đức ngay thẳng ba đời Hạ, Thương, Chu.",
             "binh": "Khổng tử nhắc việc khen, chê người khác cần thận trọng, có căn cứ. Nếu không thì lại xa rời đạo lý. Khổng tử coi việc khen chê thời Hạ, Thương, Chu là mẫu mực"
           },
           {
             "id": "15.26",
-            "hanviet": ", Tử viết: Ngô do cập sử chi khuyết văn dã, hữu mã giả tá nhân thừa chi, kim vong hĩ phu.",
+            "hanviet": "Tử viết: Ngô do cập sử chi khuyết văn dã, hữu mã giả tá nhân thừa chi, kim vong hĩ phu.",
             "nghia": "Khổng tử nói: Ta thấy quan chép sử bỏ trống những điều nghi vấn, lại biết có người chủ ngựa dám cho người khác mượn ngựa. Bây giờ không còn loại người ấy nữa.",
             "binh": "Cuối thời Xuân thu Khổng tử chứng kiến xã hội suy vi trước mắt nên rất lo lắng u sầu… Quan chép sử cẩn thận chỉ viết điều chắc chắn, người cho bạn mượn ngựa- là hai việc bình thường ngày xưa mà ngày nay hiếm hoi tới mức không thấy nữa)."
           },
@@ -2650,7 +2650,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "15.32",
-            "hanviet": ": ,, Tử viết: Quân tử mưu đạo bất mưu thực. Canh dã, nỗi tại kỳ trung hĩ; Học dã, lộc tại kỳ trung hĩ. Quân tử ưu đạo bất ưu bần.",
+            "hanviet": ",, Tử viết: Quân tử mưu đạo bất mưu thực. Canh dã, nỗi tại kỳ trung hĩ; Học dã, lộc tại kỳ trung hĩ. Quân tử ưu đạo bất ưu bần.",
             "nghia": "Khổng tử nói: Quân tử chăm lo cầu đạo chứ không cầu ăn. Người cày ruộng khi gặp mất mùa khó tránh khỏi đói kém. Người chăm học có thể làm quan. Quân tử chỉ lo đạo chứ không lo về nghèo.",
             "binh": ""
           },
@@ -2658,7 +2658,7 @@ const TU_THU_LIBRARY = {
             "id": "15.33",
             "hanviet": "Tử viết: Tri cập chi, nhân bất năng thủ chi; Tuy đắc chi, tất thất chi; Tri cập chi, nhân năng thủ chi, bất trang dĩ lị chi, tắc dân bất kính. Tri cập chi, nhân năng thủ chi, trang dĩ lị chi, động chi bất dĩ lễ, vị thiện dã.",
             "nghia": "Khổng tử nói: Người có đủ trí tuệ nhưng không biết giữ đức nhân thì có nhiều kiến thức rồi cũng bỏ mất. Người có đủ trí tuệ lại biết giữ đức nhân nhưng nếu thiếu thái độ nghiêm túc khi đến với dân thì dân cũng không kính trọng. Người có đủ trí tuệ, biết giữ đức nhân lại đến với dân nghiêm túc cẩn thận nhưng không biết dùng lễ tiết kết hợp để cổ vũ dân làm việc thiện thì cũng không hoàn toàn tốt đẹp.",
-            "binh": "; Khổng tử nêu ra 04 phẩm chất, tăng dần để đảm bảo thành công"
+            "binh": "Khổng tử nêu ra 04 phẩm chất, tăng dần để đảm bảo thành công"
           },
           {
             "id": "15.34",
@@ -2680,7 +2680,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "15.37",
-            "hanviet": ". Tử viết: Quân tử trinh nhi bất lượng.",
+            "hanviet": "Tử viết: Quân tử trinh nhi bất lượng.",
             "nghia": "Khổng tử nói: Quân tử giữ vững khí tiết nhưng biết bao dung người khác (kém hơn mình).",
             "binh": ""
           },
@@ -2710,7 +2710,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "15.42",
-            "hanviet": "Sư Miện kiến, cập giai, Tử viết: Giai dã cập tịch, tử viết: Tịch dã. Giai tọa, Tử cáo chi viết “Mỗ tại tư, mỗ tại tư”. Sư Miện xuất, Tự Trương vấn viết: Dự sư ngôn chi đạo dự ? Tử viết: Nhiên, cố tương sư chi đạo dã. Sư Miện (quan nhạc bị mù) đi tới bậc thềm,",
+            "hanviet": "Sư Miện kiến, cập giai, Tử viết: Giai dã cập tịch, tử viết: Tịch dã. Giai tọa, Tử cáo chi viết “Mỗ tại tư, mỗ tại tư”. Sư Miện xuất, Tự Trương vấn viết: Dự sư ngôn chi đạo dự? Tử viết: Nhiên, cố tương sư chi đạo dã. Sư Miện (quan nhạc bị mù) đi tới bậc thềm,",
             "nghia": "Khổng tử nói: „Đây là bậc thềm‟, rồi nói: „Tới chỗ chiếu ngồi‟. Khi mọi người an tọa, Khổng tử giới thiệu từng người „Người này là… Người này là…‟. Khi Sư Miện về rồi, Tử Trương hỏi Khổng tử: Đó là đạo nói chuyện với quan nhạc sư phải không? Khổng tử đáp: Phải rồi, đạo giúp đỡ quan nhạc sư mù lòa. Hết thiên 15",
             "binh": "Mọi người phải tôn trọng và giúp đỡ người mù lòa, huống chi Sư Miện mù lòa lại là người có tài năng, giữ nhạc lễ. Đó là đạo lý xưa nay, chẳng những với người mù lòa mà cả những người bị khiếm khuyết, người già neo đơn, trẻ mồ côi, nam góa vợ, nữ góa chồng…cũng cần được giúp đỡ)."
           }
@@ -2754,14 +2754,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "16.6",
-            "hanviet": "Khổng tử viết: Sinh nhi tri chi giả, thượng dã. Học nhi tri chi giả, thứ dã. Khốn nhi học chi, hựu kì thứ dã. Dân tư vi hạ hĩ .",
+            "hanviet": "Khổng tử viết: Sinh nhi tri chi giả, thượng dã. Học nhi tri chi giả, thứ dã. Khốn nhi học chi, hựu kì thứ dã. Dân tư vi hạ hĩ.",
             "nghia": "Khổng tử nói:(Có ba loại người). Sinh ra đã biết đạo lí là người bậc trên cùng. Học rồi mới biết đạo lí là bậc thứ nhì. Gặp khó khăn mới chịu đi học là bậc thấp hơn, người kém nhất.",
             "binh": ""
           },
           {
             "id": "16.7",
             "hanviet": "Khổng tử viết: Quân tử hữu cửu tư: Thị tư minh, thính tư thông, sắc tư ôn, mạo tư cung, ngôn tư trung, sự tư kính, nghi tư vấn, phẫn tư nan, kiến đắc tư nghĩa.",
-            "nghia": "Khổng tử nói: Quân tử có 9 điều lo nghĩ 1. Khi nhìn, phải xem cho kĩ . 2. Khi nghe, phải biết chắc đã nghe thông tỏ. 3. Khi chưa rõ việc gì, cần tìm người hỏi. 4. Sắc mặt khi đối đãi giao tiếp có ôn hòa không. 5. Thái độ giao tiếp với người đã cung kính chưa 6. Nói chuyện với người có trung thực không. 7. Làm việc với người đã nghiêm túc chưa. 8. Khi giận dữ phải nghĩ đến hậu hoạ, khó khăn về sau. 9. Khi thấy mối lợi, nghĩ xem có phạm vào điều bất nghĩa không",
+            "nghia": "Khổng tử nói: Quân tử có 9 điều lo nghĩ 1. Khi nhìn, phải xem cho kĩ. 2. Khi nghe, phải biết chắc đã nghe thông tỏ. 3. Khi chưa rõ việc gì, cần tìm người hỏi. 4. Sắc mặt khi đối đãi giao tiếp có ôn hòa không. 5. Thái độ giao tiếp với người đã cung kính chưa 6. Nói chuyện với người có trung thực không. 7. Làm việc với người đã nghiêm túc chưa. 8. Khi giận dữ phải nghĩ đến hậu hoạ, khó khăn về sau. 9. Khi thấy mối lợi, nghĩ xem có phạm vào điều bất nghĩa không",
             "binh": ""
           },
           {
@@ -2772,14 +2772,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "16.9",
-            "hanviet": "Tề Cảnh công hữu mã thiên tứ, tử chi nhật, dân vô đức nhi xứng yên. Bá Di, Thúc Tề ngạ tử ư Thủ Dương chi hạ, dân đáo ư kim xứng chi.Kỳ tư chi vị dự ?",
-            "nghia": "Vua Tề Cảnh công có nghìn cỗ xe bốn ngựa. Ngày vua chết, dân chúng chẳng thấy ngài có đức hạnh gì để ca tụng. Bá Di, Thúc Tề chịu chết đói dưới chân núi Thủ Dương để lại đạo đức ngày nay dân chúng vẫn ca tụng. Những người ấy chẳng phải như vậy sao ?",
+            "hanviet": "Tề Cảnh công hữu mã thiên tứ, tử chi nhật, dân vô đức nhi xứng yên. Bá Di, Thúc Tề ngạ tử ư Thủ Dương chi hạ, dân đáo ư kim xứng chi. Kỳ tư chi vị dự?",
+            "nghia": "Vua Tề Cảnh công có nghìn cỗ xe bốn ngựa. Ngày vua chết, dân chúng chẳng thấy ngài có đức hạnh gì để ca tụng. Bá Di, Thúc Tề chịu chết đói dưới chân núi Thủ Dương để lại đạo đức ngày nay dân chúng vẫn ca tụng. Những người ấy chẳng phải như vậy sao?",
             "binh": ""
           },
           {
             "id": "16.10",
-            "hanviet": "Trần Cao vấn ư Bá Ngư viết: “Tử diệc hữu dị văn hồ? Đối viết: Vị dã. Thưởng độc lập, lý xu nhi quá đình. Viết: “Học thi hồ?”. Đối viết: Vị dã. Bất học thi, vô dĩ ngôn. Lý thoái nhi học thi. Tha viết hựu độc lập, lý xu nhi quá đình. Viết: “Học lễ hồ?”. Đối viết: “Vị dã. Bất học lễ, vô dĩ lập. Lý thoái nhi học lễ. Văn tư nhị giả. Trần Cao thoái nhi hỉ viết: “Vấn nhất đắc tam.Văn thi, văn lễ, hựu văn quân tử chi viễn kỳ tử dã”. Trần Cao hỏi Bá Ngư (con Khổng tử): Nghe thầy dạy có điều gì lạ không ? Bá Ngư trả lời: Chưa thấy. Một hôm cha tôi đứng một mình, tôi nhẹ nhàng đi qua sân. Cha tôi hỏi: Đã học Kinh Thi chưa ?",
-            "nghia": "Tôi đáp: con chưa học. Cha nói: Không học Kinh Thi biết gì mà nói chuyện. Sau tôi lui về học Kinh Thi. Lại hôm khác, cha tôi cũng đứng một mình tôi lễ phép đi qua, cha tôi lại hỏi “đã học kinh Lễ chưa ?”. Tôi thưa rằng chưa học. Cha tôi bảo: Không học kinh Lễ thì không có cách gì lập thân. Sau đó tôi học kinh Lễ… Đó, tôi chỉ nghe thấy hai việc này. Trần Cao trở về vui mừng nói: Mình hỏi một việc mà biết được ba việc, đó là phải học Kinh Thi, kinh Lễ, lại biết rằng bậc quân tử đối với con cái cũng không thân cận hơn hay dạy dỗ đặc biệt hơn.",
+            "hanviet": "Trần Cao vấn ư Bá Ngư viết: “Tử diệc hữu dị văn hồ? Đối viết: Vị dã. Thưởng độc lập, lý xu nhi quá đình. Viết: “Học thi hồ?”. Đối viết: Vị dã. Bất học thi, vô dĩ ngôn. Lý thoái nhi học thi. Tha viết hựu độc lập, lý xu nhi quá đình. Viết: “Học lễ hồ?”. Đối viết: “Vị dã. Bất học lễ, vô dĩ lập. Lý thoái nhi học lễ. Văn tư nhị giả. Trần Cao thoái nhi hỉ viết: “Vấn nhất đắc tam. Văn thi, văn lễ, hựu văn quân tử chi viễn kỳ tử dã”. Trần Cao hỏi Bá Ngư (con Khổng tử): Nghe thầy dạy có điều gì lạ không? Bá Ngư trả lời: Chưa thấy. Một hôm cha tôi đứng một mình, tôi nhẹ nhàng đi qua sân. Cha tôi hỏi: Đã học Kinh Thi chưa?",
+            "nghia": "Tôi đáp: con chưa học. Cha nói: Không học Kinh Thi biết gì mà nói chuyện. Sau tôi lui về học Kinh Thi. Lại hôm khác, cha tôi cũng đứng một mình tôi lễ phép đi qua, cha tôi lại hỏi “đã học kinh Lễ chưa?”. Tôi thưa rằng chưa học. Cha tôi bảo: Không học kinh Lễ thì không có cách gì lập thân. Sau đó tôi học kinh Lễ… Đó, tôi chỉ nghe thấy hai việc này. Trần Cao trở về vui mừng nói: Mình hỏi một việc mà biết được ba việc, đó là phải học Kinh Thi, kinh Lễ, lại biết rằng bậc quân tử đối với con cái cũng không thân cận hơn hay dạy dỗ đặc biệt hơn.",
             "binh": ""
           },
           {
@@ -2798,67 +2798,67 @@ const TU_THU_LIBRARY = {
         "passages": [
           {
             "id": "17.1",
-            "hanviet": "Dương Hóa dục kiến Khổng tử, Khổng tử bất kiến, qui Khổng tử đồn. Khổng tử thời kỳ vong dã, nhi vãng bái chi, ngộ chư đồ. Vị Khổng tử viết: “Lai ! Dư dự nhĩ ngôn”. Viết: Hoài kỳ bảo nhi mê kỳ bái, khả vị nhân hồ? Viết: Bất khả. Hảo tòng sự nhi cức thất thì, khả vị tri hồ? Viết: Bất khả. Nhật nguyệt thệ hĩ, tuế bất ngã dự. Khổng tử viết: Nặc ngô thương sĩ hĩ. đạo…)",
-            "nghia": "Dương Hóa muốn gặp Khổng tử nhưng ông tránh mặt. Dương Hoá để lại một con lợn luộc làm quà biếu. Khổng tử nhân dịp Dương Hóa đi vắng, đến nhà bái tạ. Không ngờ hai người gặp nhau giữa đường. Dương Hóa nói, lại đây ta có chuyện muốn nói với ông. Dương Hóa hỏi: “Có đạo đức nhưng mặc cho quốc gia mê muội, có thể gọi là người có nhân được không?”. Khổng tử đáp: Không thể. Dương Hóa lại hỏi: Thích làm quan nhưng lại luôn bỏ lỡ thời cơ, có thể gọi là người trí được không? Khổng tử đáp: Không thể.. Dương Hóa lại nói: Ngày tháng trôi qua không bao giờ trở lại, tuổi chẳng đợi chờ ta. Khổng tử nói: Được, ta ra làm quan vậy.",
+            "hanviet": "Dương Hóa dục kiến Khổng tử, Khổng tử bất kiến, qui Khổng tử đồn. Khổng tử thời kỳ vong dã, nhi vãng bái chi, ngộ chư đồ. Vị Khổng tử viết: “Lai! Dư dự nhĩ ngôn”. Viết: Hoài kỳ bảo nhi mê kỳ bái, khả vị nhân hồ? Viết: Bất khả. Hảo tòng sự nhi cức thất thì, khả vị tri hồ? Viết: Bất khả. Nhật nguyệt thệ hĩ, tuế bất ngã dự. Khổng tử viết: Nặc ngô thương sĩ hĩ. đạo…)",
+            "nghia": "Dương Hóa muốn gặp Khổng tử nhưng ông tránh mặt. Dương Hoá để lại một con lợn luộc làm quà biếu. Khổng tử nhân dịp Dương Hóa đi vắng, đến nhà bái tạ. Không ngờ hai người gặp nhau giữa đường. Dương Hóa nói, lại đây ta có chuyện muốn nói với ông. Dương Hóa hỏi: “Có đạo đức nhưng mặc cho quốc gia mê muội, có thể gọi là người có nhân được không?”. Khổng tử đáp: Không thể. Dương Hóa lại hỏi: Thích làm quan nhưng lại luôn bỏ lỡ thời cơ, có thể gọi là người trí được không? Khổng tử đáp: Không thể. Dương Hóa lại nói: Ngày tháng trôi qua không bao giờ trở lại, tuổi chẳng đợi chờ ta. Khổng tử nói: Được, ta ra làm quan vậy.",
             "binh": "Dương Hóa là gia thần của họ Quý giữ chức đại phu, muốn đưa Khổng tử ra làm quan. Khổng tử không muốn giúp Dương Hóa làm loạn trong tình thế nước Lỗ đang suy vi vô"
           },
           {
             "id": "17.2",
             "hanviet": "Tử viết: Tính tương cận dã, tập tương viễn dã.",
             "nghia": "Khổng tử nói: Khi mới sinh ra, tính nết người ta gần giống nhau, về sau tập quán khác nhau nên tính tình sẽ khác xa nhau.",
-            "binh": "(Chú thich:Vấn đề bản tính con người có nhiều quan điểm khác nhau: Lão tử cho rằng bản tính người có thiện có ác, cùng tồn tại tương tác lẫn nhau. Tuân tử cho rằng bản chất con người là ác, phải có sự giáo dục thì mới cải được cái ác thành thiện. Hàn Phi tử cực đoan nhất, cho là bản tính con người là rất ác, chỉ có hình phạt mới ngăn ngừa được phần nào… Khổng tử cho rằng bản tính con người vốn không khác nhau mấy, chỉ vì tập phải những thói quen khác nhau (hoàn cảnh khác nhau) và được giáo dục khác nhau nên khác xa nhau. Sách Tam tự kinh do Vương Ứng Lân (1223-1296) thời nhà Tống biên soạn có câu “Nhân chi sơ/ tính bản thiện/ Tính tương cận ; tập tương viễn” đã đi theo quan điểm Khổng tử"
+            "binh": "(Chú thich: Vấn đề bản tính con người có nhiều quan điểm khác nhau: Lão tử cho rằng bản tính người có thiện có ác, cùng tồn tại tương tác lẫn nhau. Tuân tử cho rằng bản chất con người là ác, phải có sự giáo dục thì mới cải được cái ác thành thiện. Hàn Phi tử cực đoan nhất, cho là bản tính con người là rất ác, chỉ có hình phạt mới ngăn ngừa được phần nào… Khổng tử cho rằng bản tính con người vốn không khác nhau mấy, chỉ vì tập phải những thói quen khác nhau (hoàn cảnh khác nhau) và được giáo dục khác nhau nên khác xa nhau. Sách Tam tự kinh do Vương Ứng Lân (1223-1296) thời nhà Tống biên soạn có câu “Nhân chi sơ/ tính bản thiện/ Tính tương cận; tập tương viễn” đã đi theo quan điểm Khổng tử"
           },
           {
             "id": "17.3",
             "hanviet": "Tử viết: Duy thượng trí dữ hạ ngu bất di.",
             "nghia": "Khổng tử nói: Chỉ có bậc thượng trí (trí tuệ cao nhất) và bậc hạ ngu (ngu hết cỡ) là không thể thay đổi được.",
-            "binh": "vậy là hầu hết mọi người đều có thể thay đổi, bởi có mấy ai thuộc hai bậc nói trên !. Khổng tử thật lạc quan, có niềm tin vào sự tiến bộ của con người)."
+            "binh": "vậy là hầu hết mọi người đều có thể thay đổi, bởi có mấy ai thuộc hai bậc nói trên. Khổng tử thật lạc quan, có niềm tin vào sự tiến bộ của con người)."
           },
           {
             "id": "17.4",
-            "hanviet": "Tử chi Vũ Thành, văn huyền ca chi thanh. Phu tử hoàn nhĩ nhi tiếu, viết: “Cát kê yên dụng ngưu đao ?”. Tử Du đối viết: Tích giả yển dã văn chư phu tử viết: “Quân tử học đạo tắc ái nhân, tiểu nhân học đạo tắc dịch sử dã”. Tử viết: Nhị tam tử !Yển chi ngôn thị dã. Tiền ngôn hí chi nhĩ.",
+            "hanviet": "Tử chi Vũ Thành, văn huyền ca chi thanh. Phu tử hoàn nhĩ nhi tiếu, viết: “Cát kê yên dụng ngưu đao?”. Tử Du đối viết: Tích giả yển dã văn chư phu tử viết: “Quân tử học đạo tắc ái nhân, tiểu nhân học đạo tắc dịch sử dã”. Tử viết: Nhị tam tử! Yển chi ngôn thị dã. Tiền ngôn hí chi nhĩ.",
             "nghia": "Khổng tử đến ấp Vũ Thành, nghe tiếng đàn tiếng hát. Khổng tử mỉm cười nói: Giết gà sao phải dùng dao mổ trâu? Tử Du thưa rằng: “Trước con nghe thầy giảng rằng quân tử học đạo sẽ yêu người, tiểu nhân học đạo dễ sai khiến”. Khổng tử liền nói: Này các ngươi, trò Yển (Tử Lộ) nói phải đấy. Ta chỉ nói đùa đó thôi.",
             "binh": "Tử Lộ cai trị ở ấp Vũ Thành, cho dân học nhạc tức là học đạo. Ý Khổng tử nói dân đen cần chi dùng nhạc lễ để giáo hóa"
           },
           {
             "id": "17.5",
-            "hanviet": ": Công Sơn Phất Nhiễu dĩ Phí bạn, triệu, tử dục vãng. Tử Lộ bất duyệt, viết: Mạt chi dã dĩ, hà tất Công Sơn thị chi chi dã. Tử viết: Phu triệu ngã giả, nhi khải đồ tai ? Như hữu dụng ngã giả, ngô kỳ vi Đông Chu hồ ?",
-            "nghia": "Công Sơn Phất Nhiễu giữ đất Phí gây chính biến, mời Khổng tử đến giúp. Khổng tử muốn đi. Tử Lộ không vui nói “Không có chỗ đi thì thôi, sao phải đến chỗ Công Sơn Phất Nhiễu ?”. Khổng tử trả lời: “Người gọi ta đâu phải để ta ngồi không. Nếu dùng ta thì ta sẽ làm cho đạo nhà Chu ở phương Đông phục hưng được”.",
+            "hanviet": "Công Sơn Phất Nhiễu dĩ Phí bạn, triệu, tử dục vãng. Tử Lộ bất duyệt, viết: Mạt chi dã dĩ, hà tất Công Sơn thị chi chi dã. Tử viết: Phu triệu ngã giả, nhi khải đồ tai? Như hữu dụng ngã giả, ngô kỳ vi Đông Chu hồ?",
+            "nghia": "Công Sơn Phất Nhiễu giữ đất Phí gây chính biến, mời Khổng tử đến giúp. Khổng tử muốn đi. Tử Lộ không vui nói “Không có chỗ đi thì thôi, sao phải đến chỗ Công Sơn Phất Nhiễu?”. Khổng tử trả lời: “Người gọi ta đâu phải để ta ngồi không. Nếu dùng ta thì ta sẽ làm cho đạo nhà Chu ở phương Đông phục hưng được”.",
             "binh": "Công Sơn Phất Nhiễu định nổi loạn ở đất Phí, lúc đầu Khổng tử sốt sắng định đi để thuyết phục họ theo lễ nhà Chu…Sau xét kỹ thấy Công Sơn nhiều lỗi lầm khó cải hoá nên không đi nữa… Khổng tử cũng biết nghe lời can ngăn của học trò vậy"
           },
           {
             "id": "17.6",
-            "hanviet": "Tử Trương vấn nhân ư Khổng tử. Khổng tử viết: Năng hành ngũ giả ư thiên hạ vi nhân hĩ. Vị vấn chi.Viết: “Cung, khoan, tín, mẫn, huệ. Cung tắc bất vũ, khoan tắc đắc chúng, tín tắc nhân nhậm yên, mẫn tắc hữu công, huệ tắc túc dĩ sử nhân. Tử Trương hỏi về đạo nhân.",
+            "hanviet": "Tử Trương vấn nhân ư Khổng tử. Khổng tử viết: Năng hành ngũ giả ư thiên hạ vi nhân hĩ. Vị vấn chi. Viết: “Cung, khoan, tín, mẫn, huệ. Cung tắc bất vũ, khoan tắc đắc chúng, tín tắc nhân nhậm yên, mẫn tắc hữu công, huệ tắc túc dĩ sử nhân. Tử Trương hỏi về đạo nhân.",
             "nghia": "Khổng tử nói: Làm được 5 điều mới gọi là người nhân. Tử Trương xin giải thích. Khổng tử nói: Cung, khoan, tín, mẫn, huệ. Cung kính thì không bị khinh nhờn, khoan dung thì được lòng người, tín thực thì được tin cậy, mẫn cán thì có công, ban ân huệ thì dễ sử dụng người.",
             "binh": ""
           },
           {
             "id": "17.7",
-            "hanviet": "Phật Hật triệu, Tử dục vãng. Tử Lộ viết: Tích giả do dã văn chư phu tử viết: “Thân ư kỳ thân vi bất thiện giả, quân tử bất nhập dã. Phật Hật dĩ Trung Mâu bạn, Tử chi vãng dã, như chi hà ?. Tử viết: “Nhiên, hữu thị ngôn dã. Bất viết kiên hồ, ma nhi bất lân; Bất viết bạch hồ, niết nhi bất truy. Ngô khải bào qua dã tai ? yên năng hệ nhi bất thực ? Phật Hật mời thầy, Khổng tử muốn đi. Tử Tử viết: Do dã, nhữ văn lục ngôn lục tế hĩ hồ ?. Đối viết: Vị dã. “Cư, ngô ngữ nhữ. Hiếu nhân bất hiếu học, kỳ tế dã ngu; Hiếu tri bất hiếu học, kỳ tế dã đãng; Hiếu tín bất hiếu học, kỳ tế dã tặc; Hiếu trực bất hiếu học, kỳ tế dã giảo; Hiếu dũng bất hiếu học. Kỳ tế dã loạn; Hiếu cương bất hiếu học, kỳ tế dã cuồng.",
-            "nghia": "Lộ nói: Ngày trước con nghe thầy giảng người quân tử không đến chỗ kẻ tự làm điều xấu. Nay Phật Hật làm loạn chiếm cứ Trung Mâu, thầy lại muốn đi, sao như vậy? Khổng tử nói: “Đúng ta đã nói vậy. Nhưng một vật cứng không thể mài mòn được, một vật trắng không thể nhuộm đen được. Lẽ nào ta chỉ như cái quả bầu khô treo lên, mà không để người ta ăn được sao ? 17· 8 Khổng tử nói: Này trò Do, ngươi đã được nghe về 6 đức tốt bị che lấp chưa? Tử Lộ đáp: Dạ chưa. Khổng tử bảo: Ngồi xuống, ta nói cho nghe. Ham đức nhân mà không học, gặp cái xấu che lấp là ngu muội. Thích trí tuệ mà không học, gặp cái xấu là phóng đãng. Trọng chữ tín mà không học, gặp tệ xấu là tổn hại. Ưa tính ngay thẳng mà không học, gặp cái xấu che khuất là nóng nảy. Ham đức dũng mà không học hỏi, gặp thói xấu là phản loạn. Tính cương quyết mà thiếu học hỏi, gặp cái xấu là thành cuồng bạo.",
+            "hanviet": "Phật Hật triệu, Tử dục vãng. Tử Lộ viết: Tích giả do dã văn chư phu tử viết: “Thân ư kỳ thân vi bất thiện giả, quân tử bất nhập dã. Phật Hật dĩ Trung Mâu bạn, Tử chi vãng dã, như chi hà. Tử viết: “Nhiên, hữu thị ngôn dã. Bất viết kiên hồ, ma nhi bất lân; Bất viết bạch hồ, niết nhi bất truy. Ngô khải bào qua dã tai? yên năng hệ nhi bất thực? Phật Hật mời thầy, Khổng tử muốn đi. Tử Tử viết: Do dã, nhữ văn lục ngôn lục tế hĩ hồ. Đối viết: Vị dã. “Cư, ngô ngữ nhữ. Hiếu nhân bất hiếu học, kỳ tế dã ngu; Hiếu tri bất hiếu học, kỳ tế dã đãng; Hiếu tín bất hiếu học, kỳ tế dã tặc; Hiếu trực bất hiếu học, kỳ tế dã giảo; Hiếu dũng bất hiếu học. Kỳ tế dã loạn; Hiếu cương bất hiếu học, kỳ tế dã cuồng.",
+            "nghia": "Lộ nói: Ngày trước con nghe thầy giảng người quân tử không đến chỗ kẻ tự làm điều xấu. Nay Phật Hật làm loạn chiếm cứ Trung Mâu, thầy lại muốn đi, sao như vậy? Khổng tử nói: “Đúng ta đã nói vậy. Nhưng một vật cứng không thể mài mòn được, một vật trắng không thể nhuộm đen được. Lẽ nào ta chỉ như cái quả bầu khô treo lên, mà không để người ta ăn được sao? 17· 8 Khổng tử nói: Này trò Do, ngươi đã được nghe về 6 đức tốt bị che lấp chưa? Tử Lộ đáp: Dạ chưa. Khổng tử bảo: Ngồi xuống, ta nói cho nghe. Ham đức nhân mà không học, gặp cái xấu che lấp là ngu muội. Thích trí tuệ mà không học, gặp cái xấu là phóng đãng. Trọng chữ tín mà không học, gặp tệ xấu là tổn hại. Ưa tính ngay thẳng mà không học, gặp cái xấu che khuất là nóng nảy. Ham đức dũng mà không học hỏi, gặp thói xấu là phản loạn. Tính cương quyết mà thiếu học hỏi, gặp cái xấu là thành cuồng bạo.",
             "binh": "Khổng tử nghĩ là có thể cải hóa Phật Hật nên muốn đi giúp… Nhưng sau biết rằng Phật Hật không thể thay đổi nên lại không đi"
           },
           {
             "id": "17.8",
             "hanviet": "Tử viết: Tiểu tử hà mạc học phu thi. Thi, khả dĩ hưng, khả dĩ quan, khả dĩ quần, khả dĩ oán. Nhĩ chi sự phụ, viễn chi sự quân; Đa chí ư điểu thú thảo mộc chi danh.",
-            "nghia": "Khổng tử nói: Sao các trò không học Kinh Thi ? Học Thi có thể hưng khởi tâm trí (trí tưởng tượng), có khả năng quan sát, hòa hợp quần tụ với người khác, hiểu đúng về oán hận. Gần thì biết đạo thờ cha mẹ, xa hơn thì biết thờ vua; Lại còn biết tên nhiều loài chim thú cỏ cây nữa.",
+            "nghia": "Khổng tử nói: Sao các trò không học Kinh Thi? Học Thi có thể hưng khởi tâm trí (trí tưởng tượng), có khả năng quan sát, hòa hợp quần tụ với người khác, hiểu đúng về oán hận. Gần thì biết đạo thờ cha mẹ, xa hơn thì biết thờ vua; Lại còn biết tên nhiều loài chim thú cỏ cây nữa.",
             "binh": "gọi tắt quan điểm về thơ của Khổng tử là “Hưng, quan, quần, oán”"
           },
           {
             "id": "17.9",
-            "hanviet": "Tử vị Bá Ngư viết: Nhữ vi “Chu Nam”, “Triệu Nam” hĩ hồ? Nhân nhi bất vi “Chu Nam” “Triệu Nam” kỳ do chính tường diện nhi ; lập dã dự ?",
+            "hanviet": "Tử vị Bá Ngư viết: Nhữ vi “Chu Nam”, “Triệu Nam” hĩ hồ? Nhân nhi bất vi “Chu Nam” “Triệu Nam” kỳ do chính tường diện nhi; lập dã dự?",
             "nghia": "Khổng tử nói với con là Bá Ngư: Con đã học hai bài Chu Nam và Triệu Nam chưa? Người nào không đọc hai bài ấy thì như đứng úp mặt vào vách tường vậy.",
             "binh": "Đó là hai nhóm bài ca dao trong Kinh Thi, sưu tầm ở đất Chu Nam và Triệu Nam, nói về đạo lý tu thân và tề gia"
           },
           {
             "id": "17.10",
-            "hanviet": "Tử viết: Lễ vân lễ vân, ngọc bạch vân hồ tai ? Nhạc vân nhạc vân, chung cổ vân hồ tai?",
-            "nghia": "Khổng tử nói: Lễ có nghĩa phong phú (vân vân), phải chăng chỉ là tơ lụa ngọc quí ! Nhạc cần sự hòa hợp chứ phải đâu chỉ là chuông với trống !",
+            "hanviet": "Tử viết: Lễ vân lễ vân, ngọc bạch vân hồ tai? Nhạc vân nhạc vân, chung cổ vân hồ tai?",
+            "nghia": "Khổng tử nói: Lễ có nghĩa phong phú (vân vân), phải chăng chỉ là tơ lụa ngọc quí! Nhạc cần sự hòa hợp chứ phải đâu chỉ là chuông với trống!",
             "binh": "Nói đến lễ, hãy chú ý tinh thần, không nên trọng vật chất. Nhạc không chỉ là nhạc cụ mà là sự hài hòa"
           },
           {
             "id": "17.11",
-            "hanviet": "Tử viêt: Sắc lệ nhi nội nhẫm, thí chư tiểu nhân, kỳ do xuyên du chi đạo dã dư ?",
+            "hanviet": "Tử viêt: Sắc lệ nhi nội nhẫm, thí chư tiểu nhân, kỳ do xuyên du chi đạo dã dư?",
             "nghia": "Khổng tử nói: Kẻ bề ngoài uy nghi mà bên trong yếu ớt thì cũng như tiểu nhân thôi, cũng như kẻ đào tường khoét vách ăn trộm vậy.",
             "binh": ""
           },
@@ -2895,7 +2895,7 @@ const TU_THU_LIBRARY = {
           {
             "id": "17.17",
             "hanviet": "Tử viết: Dư dục vô ngôn. Tử Cống viết: Tử như bất ngôn, tắc tiểu tử hà thuật yên? Tử viết: Thiên hà ngôn tai? Tứ thì hành yên, bách vật sinh yên, thiên hà ngôn tai?",
-            "nghia": "Khổng tử nói: “Ta chẳng muốn nói gì nữa”. Tử Cống thưa: “Thầy không nói nữa thì chúng con biết đi truyền bá gì nữa”. Khổng tử bảo: “Trời có nói gì đâu ! Bốn mùa vẫn vận hành trôi chảy, muôn vật sinh trưởng, trời có nói gì đâu !”.",
+            "nghia": "Khổng tử nói: “Ta chẳng muốn nói gì nữa”. Tử Cống thưa: “Thầy không nói nữa thì chúng con biết đi truyền bá gì nữa”. Khổng tử bảo: “Trời có nói gì đâu! Bốn mùa vẫn vận hành trôi chảy, muôn vật sinh trưởng, trời có nói gì đâu!”.",
             "binh": "Khổng tử muốn nói rằng cứ chịu khó quan sát thế giới mà hiểu được qui luật, mặt khác nhìn vào những tấm gương sống mà noi theo"
           },
           {
@@ -2906,14 +2906,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "17.19",
-            "hanviet": "Tể Ngã vấn: “Tam niên chi tang, kỳ dĩ cữu hĩ. Quân tử tam niên bất vi lễ, lễ tất phôi; Tam niên bất vi nhạc, nhạc tất băng. Cựu cốc ký một, tân cốc ký thăng, toàn toại cải hỏa, kỳ khả dĩ hĩ”. Tử viết: Thực phu đạo, y phu cẩm, ư nhữ an hồ? Tể Ngã viết “An”. Tử viết: Nhữ an tắc vi chi. Phu quân tử chi cư tang, thực chỉ bất cam, văn nhạc bất lạc, cư xứ bất an, cố bất vi dã. Kim nhữ an, tắc vi chi”. Tể Ngã xuất, Tử viết: “Dữ chi bất nhân dã ! Tử sinh tam niên, nhiên hậu miễn ư phụ mẫu chi hoài, phu tam niên chi tang, thiên hạ chi thông tang dã. Dữ dã hữu tam niên chi ái ư kỳ phụ mẫu hồ ? Tể",
-            "nghia": "Ngã hỏi: Để tang ba năm, như thế quá lâu ! Ba năm quân tử không ôn tập việc lễ, lễ sẽ phôi pha. Ba năm không luyện nhạc, nhạc quên hết. Lúa cũ ăn hết, lúa mới đã chín (một năm) những thứ cây để đánh lửa cũng dùng hết rồi. Khổng tử hỏi: Ăn gạo thơm, mặc áo gấm (trong lúc để tang) ngươi có an tâm không ? Tể Ngã đáp: An tâm. Khổng tử bảo: Ngươi an tâm thì cứ làm vậy đi. Quân tử để tang ăn không biết ngon, nghe nhạc mà không vui, ở đâu cũng thấy bất an, lí do để tang (ba năm) là vậy. Nay ngươi thấy an tâm thì cứ làm đi. Tể Ngã về rồi, Khổng tử nói: Ta cho rằng Tể Ngã là kẻ bất nhân. Anh ta sinh ra ba năm mới có thể rời khỏi cánh tay ẵm bồng của cha mẹ, thiên hạ đều để tang ba năm. Chẳng lẽ Tể Ngã không được cha mẹ ẵm bồng ba năm sao ?",
+            "hanviet": "Tể Ngã vấn: “Tam niên chi tang, kỳ dĩ cữu hĩ. Quân tử tam niên bất vi lễ, lễ tất phôi; Tam niên bất vi nhạc, nhạc tất băng. Cựu cốc ký một, tân cốc ký thăng, toàn toại cải hỏa, kỳ khả dĩ hĩ”. Tử viết: Thực phu đạo, y phu cẩm, ư nhữ an hồ? Tể Ngã viết “An”. Tử viết: Nhữ an tắc vi chi. Phu quân tử chi cư tang, thực chỉ bất cam, văn nhạc bất lạc, cư xứ bất an, cố bất vi dã. Kim nhữ an, tắc vi chi”. Tể Ngã xuất, Tử viết: “Dữ chi bất nhân dã! Tử sinh tam niên, nhiên hậu miễn ư phụ mẫu chi hoài, phu tam niên chi tang, thiên hạ chi thông tang dã. Dữ dã hữu tam niên chi ái ư kỳ phụ mẫu hồ? Tể",
+            "nghia": "Ngã hỏi: Để tang ba năm, như thế quá lâu! Ba năm quân tử không ôn tập việc lễ, lễ sẽ phôi pha. Ba năm không luyện nhạc, nhạc quên hết. Lúa cũ ăn hết, lúa mới đã chín (một năm) những thứ cây để đánh lửa cũng dùng hết rồi. Khổng tử hỏi: Ăn gạo thơm, mặc áo gấm (trong lúc để tang) ngươi có an tâm không? Tể Ngã đáp: An tâm. Khổng tử bảo: Ngươi an tâm thì cứ làm vậy đi. Quân tử để tang ăn không biết ngon, nghe nhạc mà không vui, ở đâu cũng thấy bất an, lí do để tang (ba năm) là vậy. Nay ngươi thấy an tâm thì cứ làm đi. Tể Ngã về rồi, Khổng tử nói: Ta cho rằng Tể Ngã là kẻ bất nhân. Anh ta sinh ra ba năm mới có thể rời khỏi cánh tay ẵm bồng của cha mẹ, thiên hạ đều để tang ba năm. Chẳng lẽ Tể Ngã không được cha mẹ ẵm bồng ba năm sao?",
             "binh": ""
           },
           {
             "id": "17.20",
-            "hanviet": "Tử viết: Bão thực chung nhật, vô sở dụng tâm, nan hĩ tai ! Bất hữu bác dịch giả hồ ? Vi chi, do hiền hồ dĩ.",
-            "nghia": "Khổng tử nói: Người nào suốt ngày chỉ biết ăn no ở không, chẳng bận tâm việc gì, thật khó làm nên. Sao chẳng biết chơi cờ bạc ? Thà làm việc ấy còn hơn ngồi không. (Lời bàn: Có lẽ Khổng tử không nên xúi người đánh bạc, chỉ nên chơi cờ giải trí thôi. Hay là thời cổ đại, đánh bạc chưa tai hại như bây giờ ?)",
+            "hanviet": "Tử viết: Bão thực chung nhật, vô sở dụng tâm, nan hĩ tai! Bất hữu bác dịch giả hồ? Vi chi, do hiền hồ dĩ.",
+            "nghia": "Khổng tử nói: Người nào suốt ngày chỉ biết ăn no ở không, chẳng bận tâm việc gì, thật khó làm nên. Sao chẳng biết chơi cờ bạc? Thà làm việc ấy còn hơn ngồi không. (Lời bàn: Có lẽ Khổng tử không nên xúi người đánh bạc, chỉ nên chơi cờ giải trí thôi. Hay là thời cổ đại, đánh bạc chưa tai hại như bây giờ?)",
             "binh": ""
           },
           {
@@ -2924,7 +2924,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "17.22",
-            "hanviet": "Tử Cống viết: Quân tử diệc hữu ố hồ ? Tử viết: Hữu ố. Ố xứng nhân chi ố giả, ố cư hạ lưu nhi san thượng giả, ố dũng nhi vô lễ giả, ố quả cảm nhi trất giả. Viết: Tứ dã diệc hữu ố hồ ? Ố kiếu dĩ vi tri giả, ố bất tôn dĩ vi dũng giả, ố kiết dĩ vi trực giả. Tử",
+            "hanviet": "Tử Cống viết: Quân tử diệc hữu ố hồ? Tử viết: Hữu ố. Ố xứng nhân chi ố giả, ố cư hạ lưu nhi san thượng giả, ố dũng nhi vô lễ giả, ố quả cảm nhi trất giả. Viết: Tứ dã diệc hữu ố hồ? Ố kiếu dĩ vi tri giả, ố bất tôn dĩ vi dũng giả, ố kiết dĩ vi trực giả. Tử",
             "nghia": "Cống hỏi: Người quân tử có ghét ai không? Khổng tử nói: Có ghét. Ghét kẻ đi nói xấu người khác, ghét cấp dười gièm pha cấp trên, ghét người dũng mà không giữ lễ, ghét người quả quyết mà không thông hiểu lý lẽ. Ngươi nói xem có ghét ai không? Tử Cống đáp: Con ghét kẻ hay rình mò người khác mà tự nhận người trí, ghét kẻ thiếu khiêm tốn mà nhận mình là dũng, ghét người bới móc chuyện riêng tư người khác mà tự nhận mình ngay thẳng.",
             "binh": "Tử Cống ghét ba loại người nhưng e rằng bậc quân tử không được ghét người nên mới hỏi thầy)."
           },
@@ -2956,8 +2956,8 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "18.2",
-            "hanviet": "Liễu Hạ Huệ vi sĩ sư, tam truất. Nhân viết: Tử vị khả dĩ khứ hồ ? Viết: Trực đạo nhi sự nhân, yên vãng nhi bất tam truất ? Uổng đạo nhi sự nhân, hà tất khứ phụ mẫu chi bang.",
-            "nghia": "Liễu Hạ Huệ làm quan, chức sĩ sư, ba lần bị giáng chức. Có người nói: Sao ông chưa bỏ đi ? Liễu Hạ Huệ đáp: Tôi đem đạo chính trực đi phục vụ người thì ở đâu mà chẳng bị cách chức ba lần như trước đây? Làm vậy là uổng phí đạo phục vụ người, lại còn xa rời đất nước cha mẹ tôi đang ở.",
+            "hanviet": "Liễu Hạ Huệ vi sĩ sư, tam truất. Nhân viết: Tử vị khả dĩ khứ hồ? Viết: Trực đạo nhi sự nhân, yên vãng nhi bất tam truất? Uổng đạo nhi sự nhân, hà tất khứ phụ mẫu chi bang.",
+            "nghia": "Liễu Hạ Huệ làm quan, chức sĩ sư, ba lần bị giáng chức. Có người nói: Sao ông chưa bỏ đi? Liễu Hạ Huệ đáp: Tôi đem đạo chính trực đi phục vụ người thì ở đâu mà chẳng bị cách chức ba lần như trước đây? Làm vậy là uổng phí đạo phục vụ người, lại còn xa rời đất nước cha mẹ tôi đang ở.",
             "binh": "(Chú thich: Liễu Hạ Huệ quan nước Lỗ thời Xuân thu, bị vua bạc đãi nhưng vẫn kiên trì làm việc vì ông tin rằng mình phục vụ nhân dân chứ không phục vụ nhà vua…"
           },
           {
@@ -2974,25 +2974,25 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "18.5",
-            "hanviet": ":, ! ,, , Sở cuồng Tiếp Dư ca nhi quá Khổng tử viết: Phượng hề Phượng hề ! Hà đức chi suy ? Vãng giả bất khả gián, lai giả do khả truy. Dĩ nhi dĩ nhi ! Kim chi tòng chính giả đãi nhi!. Khổng tử hạ, dục dự chi ngôn. Xu nhi tịch chi, bất đắc dự chi ngôn.",
-            "nghia": "Cuồng sĩ nước Sở tên Tiếp Dư đi qua xe Khổng tử, hát rằng: “Phượng hoàng ơi, phượng hoàng ơi ! Vì sao đức nhân suy đến thế ? Việc đã qua không thể ngăn cản, việc sắp tới có thể còn kịp. Thôi đi, thôi đi ! Làm quan ngày nay nguy lắm đó”. Khổng tử xuống xe, định nói thì anh kia bỏ đi, khiến ngài không thể tiếp chuyện. (Chú thích: Theo tín ngưỡng xưa, khi thấy phượng hoàng hay kỳ lân xuất hiện là báo điềm lành cho đất nước…Tiếp Dư có ý nhắn bảo Khổng tử không nên làm chính trị nữa)",
+            "hanviet": ",!,,, Sở cuồng Tiếp Dư ca nhi quá Khổng tử viết: Phượng hề Phượng hề! Hà đức chi suy? Vãng giả bất khả gián, lai giả do khả truy. Dĩ nhi dĩ nhi! Kim chi tòng chính giả đãi nhi. Khổng tử hạ, dục dự chi ngôn. Xu nhi tịch chi, bất đắc dự chi ngôn.",
+            "nghia": "Cuồng sĩ nước Sở tên Tiếp Dư đi qua xe Khổng tử, hát rằng: “Phượng hoàng ơi, phượng hoàng ơi! Vì sao đức nhân suy đến thế? Việc đã qua không thể ngăn cản, việc sắp tới có thể còn kịp. Thôi đi, thôi đi! Làm quan ngày nay nguy lắm đó”. Khổng tử xuống xe, định nói thì anh kia bỏ đi, khiến ngài không thể tiếp chuyện. (Chú thích: Theo tín ngưỡng xưa, khi thấy phượng hoàng hay kỳ lân xuất hiện là báo điềm lành cho đất nước…Tiếp Dư có ý nhắn bảo Khổng tử không nên làm chính trị nữa)",
             "binh": ""
           },
           {
             "id": "18.6",
-            "hanviet": "Tràng Thư, Kiệt Nịch ngẫu nhi canh. Khổng tử quá chi, sử Tử Lộ vấn tân yên. Tràng Thư viết: Phu chấp dư giả vi thùy ?Tử Lộ viết: Vi Khổng Khâu. Viết: Thị Lỗ Khổng Khâu dữ ? Viết: Thị dã ? Viết: Thị tri tân hĩ. Vấn ư Kiệt Nịch. Kiệt Nịch viết: Tử vi thùy ? Viết: Vi Trọng Do. Viết: Thị Khổng Khâu chi đồ dữ ? Đối viết: Nhiên. Viết: Thao thao giả thiên hạ giai thị dã, nhi thùy dĩ dịch chi ? Thả nhi dự kỳ tòng tịch nhân chi sĩ dã, khải nhược tòng tịch thế chi sĩ tai ? Ưu nhi bất chuyết. Tử Lộ hành dĩ cáo. Phu tử vũ nhiên viết: Mã thú bất khả dự đồng quần. Ngô phi tư nhân chi đồ dữ nhi thùy dự. Thiên hạ hữu đạo, Khâu bất dự dịch dã. Tràng Thư và Kiệt Nịch đang làm ruộng cùng nhau, Khổng tử đi qua đó, bảo Tử Lộ tới hỏi thăm đường đến bến đò. Tràng Thư hỏi Tử Lộ: “Người cầm cương ngựa kia là ai?”. Tử",
-            "nghia": "Lộ đáp: “Là thầy Khổng Khâu”. Tràng Thư hỏi lại: Có phải Khổng Khâu nước Lỗ không ? Tử Lộ nói phải. Tràng Thư hỏi tiếp: Thế thì Khổng Khâu đã biết bến đò rồi… Tử Lộ hỏi Kiệt Nịch. Kiệt Nịch hỏi: Ngươi là ai ? Tử Lộ trả lời: Tôi là Trọng Do. Kiệt Nịch hỏi lại: Có phải là học trò của Khổng Khâu nước Lỗ không ? Trả lời : Phải. Kiệt Nịch nói: Thiên hạ loạn lạc như nước chảy cuồn cuộn rồi, Khổng Tử sẽ cùng ai thay đổi được đây? Ngươi đi theo kẻ sĩ chỉ lo tránh kẻ vô đạo, không thể bằng chúng ta là kẻ sĩ tránh đời? Nói rồi Kiệt Nịch vẫn tiếp tục làm ruộng. Tử Lộ đành phải quay về xe thưa lại với Khổng tử. Khổng tử nghe rồi ngậm ngùi thở dài nói: Loài chim và loài thú không thể cùng họp bầy. Nếu không sống chung với người đời thì ta biết sống với ai ? Nếu thiên hạ có đạo, Khổng Khâu này không cần phải thay đổi nữa.",
+            "hanviet": "Tràng Thư, Kiệt Nịch ngẫu nhi canh. Khổng tử quá chi, sử Tử Lộ vấn tân yên. Tràng Thư viết: Phu chấp dư giả vi thùy? Tử Lộ viết: Vi Khổng Khâu. Viết: Thị Lỗ Khổng Khâu dữ? Viết: Thị dã? Viết: Thị tri tân hĩ. Vấn ư Kiệt Nịch. Kiệt Nịch viết: Tử vi thùy? Viết: Vi Trọng Do. Viết: Thị Khổng Khâu chi đồ dữ? Đối viết: Nhiên. Viết: Thao thao giả thiên hạ giai thị dã, nhi thùy dĩ dịch chi? Thả nhi dự kỳ tòng tịch nhân chi sĩ dã, khải nhược tòng tịch thế chi sĩ tai? Ưu nhi bất chuyết. Tử Lộ hành dĩ cáo. Phu tử vũ nhiên viết: Mã thú bất khả dự đồng quần. Ngô phi tư nhân chi đồ dữ nhi thùy dự. Thiên hạ hữu đạo, Khâu bất dự dịch dã. Tràng Thư và Kiệt Nịch đang làm ruộng cùng nhau, Khổng tử đi qua đó, bảo Tử Lộ tới hỏi thăm đường đến bến đò. Tràng Thư hỏi Tử Lộ: “Người cầm cương ngựa kia là ai?”. Tử",
+            "nghia": "Lộ đáp: “Là thầy Khổng Khâu”. Tràng Thư hỏi lại: Có phải Khổng Khâu nước Lỗ không? Tử Lộ nói phải. Tràng Thư hỏi tiếp: Thế thì Khổng Khâu đã biết bến đò rồi… Tử Lộ hỏi Kiệt Nịch. Kiệt Nịch hỏi: Ngươi là ai? Tử Lộ trả lời: Tôi là Trọng Do. Kiệt Nịch hỏi lại: Có phải là học trò của Khổng Khâu nước Lỗ không? Trả lời: Phải. Kiệt Nịch nói: Thiên hạ loạn lạc như nước chảy cuồn cuộn rồi, Khổng Tử sẽ cùng ai thay đổi được đây? Ngươi đi theo kẻ sĩ chỉ lo tránh kẻ vô đạo, không thể bằng chúng ta là kẻ sĩ tránh đời? Nói rồi Kiệt Nịch vẫn tiếp tục làm ruộng. Tử Lộ đành phải quay về xe thưa lại với Khổng tử. Khổng tử nghe rồi ngậm ngùi thở dài nói: Loài chim và loài thú không thể cùng họp bầy. Nếu không sống chung với người đời thì ta biết sống với ai? Nếu thiên hạ có đạo, Khổng Khâu này không cần phải thay đổi nữa.",
             "binh": "Tràng Thư và Kiệt Nịch là bậc hiền sĩ bỏ đi ở ẩn. Khổng tử không đồng ý với họ, nói mình là con người thì phải giúp người cùng loài)."
           },
           {
             "id": "18.7",
-            "hanviet": "Tử Lộ tòng nhi hậu, ngộ trượng nhân, dĩ trượng hà điệu. Tử Lộ vấn viết: Tử kiến phu tử hồ ? Trượng nhân viết: Tứ thể bất cần, ngũ cốc bất phân, thục vi phu tử? Thực kỳ trượng nhi vân. Tử Lộ củng nhi lập. Chỉ Tử Lộ túc, sát kê vi thử nhi thực chi. Kiến kỳ nhị tử yên. Minh nhật, Tử Lộ hành dĩ cáo. Tử viết: “Ẩn giả dã”.Sử Tử Lộ phản kiến chi. Chí, tắc hành hĩ. Tử Lộ viết: Bất sĩ vô nghĩa. Trưởng ấu chi tiết, bất khả phế dã; Quân thần chi nghĩa, như chi hà kỳ phế chi ? Dục khiết kỳ thân, nhi loạn đại luân. Quân tử chi sĩ dã; Hành kỳ nghĩa dã. Đạo chi bất hành, dĩ tri chi hĩ.",
-            "nghia": "Tử Lộ đi theo thầy, lạc lại sau, gặp một lão trượng cầm cây gậy quảy cái cuốc. Tử Lộ hỏi: Cụ có thấy thầy tôi không? Lão trượng đáp: Tay chân chả siêng năng, không phân biệt được năm giống lương thực, biết ai là phu tử thầy ngươi?! Nói xong cắm cây gậy xuống đất, bắt đầu làm cỏ. Tử Lộ cung kính đứng chờ bên cạnh. Sau đó lão trượng mời Tử Lộ nghỉ lại đêm ấy, mổ gà làm cơm đãi khách, lại cho hai con ra chào Tử Lộ. Ngày hôm sau, đuổi kịp Khổng tử, Tử Lộ thuật lại chuyện. Khổng tử nghe xong bảo: Đây là một ẩn sĩ, rồi bảo Tử Lộ quay lại thăm một lần nữa. Đến nơi thì cụ già đi vắng rồi. Tử Lộ nói nhắn (với người nhà): “Không làm quan là không hợp đạo nghĩa. Lễ tiết của người lớn với trẻ nhỏ đã không thể vứt bỏ thì đạo nghĩa vua tôi sao lại có thế bỏ đi ? Chỉ muốn giữ thân mình trong sạch, như vậy là làm loạn đại luân. Quân tử làm quan để thực hiện nghĩa vua tôi. Còn việc hành Đạo không thể thực hiện thì đã biết trước rồi”.",
+            "hanviet": "Tử Lộ tòng nhi hậu, ngộ trượng nhân, dĩ trượng hà điệu. Tử Lộ vấn viết: Tử kiến phu tử hồ? Trượng nhân viết: Tứ thể bất cần, ngũ cốc bất phân, thục vi phu tử? Thực kỳ trượng nhi vân. Tử Lộ củng nhi lập. Chỉ Tử Lộ túc, sát kê vi thử nhi thực chi. Kiến kỳ nhị tử yên. Minh nhật, Tử Lộ hành dĩ cáo. Tử viết: “Ẩn giả dã”. Sử Tử Lộ phản kiến chi. Chí, tắc hành hĩ. Tử Lộ viết: Bất sĩ vô nghĩa. Trưởng ấu chi tiết, bất khả phế dã; Quân thần chi nghĩa, như chi hà kỳ phế chi? Dục khiết kỳ thân, nhi loạn đại luân. Quân tử chi sĩ dã; Hành kỳ nghĩa dã. Đạo chi bất hành, dĩ tri chi hĩ.",
+            "nghia": "Tử Lộ đi theo thầy, lạc lại sau, gặp một lão trượng cầm cây gậy quảy cái cuốc. Tử Lộ hỏi: Cụ có thấy thầy tôi không? Lão trượng đáp: Tay chân chả siêng năng, không phân biệt được năm giống lương thực, biết ai là phu tử thầy ngươi! Nói xong cắm cây gậy xuống đất, bắt đầu làm cỏ. Tử Lộ cung kính đứng chờ bên cạnh. Sau đó lão trượng mời Tử Lộ nghỉ lại đêm ấy, mổ gà làm cơm đãi khách, lại cho hai con ra chào Tử Lộ. Ngày hôm sau, đuổi kịp Khổng tử, Tử Lộ thuật lại chuyện. Khổng tử nghe xong bảo: Đây là một ẩn sĩ, rồi bảo Tử Lộ quay lại thăm một lần nữa. Đến nơi thì cụ già đi vắng rồi. Tử Lộ nói nhắn (với người nhà): “Không làm quan là không hợp đạo nghĩa. Lễ tiết của người lớn với trẻ nhỏ đã không thể vứt bỏ thì đạo nghĩa vua tôi sao lại có thế bỏ đi? Chỉ muốn giữ thân mình trong sạch, như vậy là làm loạn đại luân. Quân tử làm quan để thực hiện nghĩa vua tôi. Còn việc hành Đạo không thể thực hiện thì đã biết trước rồi”.",
             "binh": "Cụ già có ý trách thầy trò Khổng tử đã không thực hành đạo được thì sao chẳng ở nhà làm ruộng. Tử Lộ nêu ra cái chí quân tử, coi nghĩa vua tôi là đại luân (luân lý lớn nhất) làm trọng, cũng như trong gia đình, nghiã cha con không thể bỏ, phải ra cống hiến cho đất nước)."
           },
           {
             "id": "18.8",
-            "hanviet": "Dật dân: Bá Di, Thúc Tề, Ngu Trọng, Di Dật, Chu Trương, Liễu Hạ Huệ, Thiếu Liên. Tử viết: Bất hàng kỳ chí, bất nhục kỳ thân, Bá Di, Thúc Tề dự ? Vị Liễu Hạ Huệ, Thiếu Liên hàng chí nhục thân hĩ, ngôn trung luân, hành trung lự, kỳ tư nhi dĩ hĩ. Vị Ngu Trọng, Di Dật, hàng cư phóng ngôn, thân trung thanh, phế trung quyền. Ngã tắc dị ư thị, vô khả vô bất khả.",
+            "hanviet": "Dật dân: Bá Di, Thúc Tề, Ngu Trọng, Di Dật, Chu Trương, Liễu Hạ Huệ, Thiếu Liên. Tử viết: Bất hàng kỳ chí, bất nhục kỳ thân, Bá Di, Thúc Tề dự? Vị Liễu Hạ Huệ, Thiếu Liên hàng chí nhục thân hĩ, ngôn trung luân, hành trung lự, kỳ tư nhi dĩ hĩ. Vị Ngu Trọng, Di Dật, hàng cư phóng ngôn, thân trung thanh, phế trung quyền. Ngã tắc dị ư thị, vô khả vô bất khả.",
             "nghia": "Những người đi ở ẩn có: Bá Di, Thúc Tề, Ngu Trọng, Di Dật, Chu Trương, Liễu Hạ Huệ, Thiếu Liên. Khổng tử nói: “Không chịu hàng phục, không chịu thân nhục có Bá Di, Thuc Tề. Nói về Liễu Hạ Huệ, Thiếu Liên: dù phải chịu hàng, chịu nhục thân nhưng lời nói của hai vị hợp luân lý, hành động có cân nhắc, hai ông chỉ có thế mà thôi. Nói về Ngu Trọng, Di Dật, ẩn cư tránh đời nói năng phóng túng, giữ được danh trong sạch, hợp lẽ quyền biến. Ta khác mấy người này, không cái gì có thể, chẳng cái gì mà không thể”.",
             "binh": ""
           },
@@ -3030,14 +3030,14 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "19.2",
-            "hanviet": "Tử Trương viết: Chấp đức bất hoằng, tín đạo bất đốc, yên năng vi hữu ? Yên năng vi vong ? Tử",
-            "nghia": "Trương nói: Giữ được đức mà không biết phát huy, tin phục đạo lý mà không kiên định làm theo. Có người ấy thì ích lợi gì ? Không có người ấy thì hại gì ?",
+            "hanviet": "Tử Trương viết: Chấp đức bất hoằng, tín đạo bất đốc, yên năng vi hữu? Yên năng vi vong? Tử",
+            "nghia": "Trương nói: Giữ được đức mà không biết phát huy, tin phục đạo lý mà không kiên định làm theo. Có người ấy thì ích lợi gì? Không có người ấy thì hại gì?",
             "binh": ""
           },
           {
             "id": "19.3",
-            "hanviet": "Tử Hạ chi môn nhân vấn giao ư Tử Trương. Tử Trương viết: Tử Hạ vân hà? Đối viết: “Tử Hạ viết: Khả giả dự chi, kỳ bất khả giả cự chi”. Tử Trương viết: “Dị hồ ngô sở văn. Quân tử tôn hiền nhi dung chúng, gia thiện nhi căng bất năng. Ngã chi đại hiền dự, ư nhân hà sở bất dung ? Ngã chi bất hiền dự, nhân thương cự ngã, như chi hà kỳ cự nhân dã ?",
-            "nghia": "Học trò của Tử Hạ hỏi Tử Trương về việc giao tiếp bạn bè. Tử Trương hỏi lại: Thầy Tử Hạ đã nói thế nào ? Học trò Tử Hạ đáp: Có thể kết giao thì kết giao, không thể thì cự tuyệt. Tử Trương nói: Điều ta từng nghe thì lại khác. Quân tử tôn trọng người hiền và dung nạp người bình thường, khen người hoàn thiện nhưng cũng thương cho người yếu kém. Nếu ta là bậc đại hiền thì sao ta không thể dung nạp họ ? Nếu ta không phải bậc hiền tài, người khác có thể cự tuyệt ta, làm sao ta có thể cự tuyệt họ ?",
+            "hanviet": "Tử Hạ chi môn nhân vấn giao ư Tử Trương. Tử Trương viết: Tử Hạ vân hà? Đối viết: “Tử Hạ viết: Khả giả dự chi, kỳ bất khả giả cự chi”. Tử Trương viết: “Dị hồ ngô sở văn. Quân tử tôn hiền nhi dung chúng, gia thiện nhi căng bất năng. Ngã chi đại hiền dự, ư nhân hà sở bất dung? Ngã chi bất hiền dự, nhân thương cự ngã, như chi hà kỳ cự nhân dã?",
+            "nghia": "Học trò của Tử Hạ hỏi Tử Trương về việc giao tiếp bạn bè. Tử Trương hỏi lại: Thầy Tử Hạ đã nói thế nào? Học trò Tử Hạ đáp: Có thể kết giao thì kết giao, không thể thì cự tuyệt. Tử Trương nói: Điều ta từng nghe thì lại khác. Quân tử tôn trọng người hiền và dung nạp người bình thường, khen người hoàn thiện nhưng cũng thương cho người yếu kém. Nếu ta là bậc đại hiền thì sao ta không thể dung nạp họ? Nếu ta không phải bậc hiền tài, người khác có thể cự tuyệt ta, làm sao ta có thể cự tuyệt họ?",
             "binh": ""
           },
           {
@@ -3078,7 +3078,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "19.10",
-            "hanviet": "Tử Hạ viết: Quân tử tín nhi hậu lao kỳ dân; Vị tín, tắc dĩ vi lệ kỷ dã. Tín nhi hậu gián; Vị tín, tắc dĩ vi báng kỷ dã.. Tử",
+            "hanviet": "Tử Hạ viết: Quân tử tín nhi hậu lao kỳ dân; Vị tín, tắc dĩ vi lệ kỷ dã. Tín nhi hậu gián; Vị tín, tắc dĩ vi báng kỷ dã. Tử",
             "nghia": "Hạ nói: Quân tử làm quan sao cho dân tin cậy, sau đó mới khiến cho họ làm việc khó nhọc. Nếu dân chưa tin đã vội sai khiến họ làm, họ sẽ cho là mình làm hại họ. Với người bậc trên, phải đạt được lòng tin trước, sau mới can gián, nếu không người trên cho rằng mình chê trách họ.",
             "binh": ""
           },
@@ -3090,7 +3090,7 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "19.12",
-            "hanviet": ":,,,,, , :, Tử Du viết: Tử Hạ chi môn nhân tiểu tử, đương sái tảo, ứng đối, tiến thoái tắc khả hĩ, ức mạt dã. Bản chi tắc vô, như chi hà? Tử Hạ văn chi, viết: Ôi, ngôn Du quá hĩ ! Quân tử chi đạo, thục hậu quyện yên, thục tiên truyền yên? Thí chư thảo mộc, khu dĩ biệt hĩ. Quân tử chi đạo, yên khả vu dã ? Hữu thỉ hữu tốt giả, kỳ duy thánh nhân hồ ? Tử",
+            "hanviet": ",,,,,,:, Tử Du viết: Tử Hạ chi môn nhân tiểu tử, đương sái tảo, ứng đối, tiến thoái tắc khả hĩ, ức mạt dã. Bản chi tắc vô, như chi hà? Tử Hạ văn chi, viết: Ôi, ngôn Du quá hĩ! Quân tử chi đạo, thục hậu quyện yên, thục tiên truyền yên? Thí chư thảo mộc, khu dĩ biệt hĩ. Quân tử chi đạo, yên khả vu dã? Hữu thỉ hữu tốt giả, kỳ duy thánh nhân hồ? Tử",
             "nghia": "Du nói: Học trò của thầy Tử Hạ vảy nước quét dọn giỏi, đối đáp nhanh, đi lại đúng phép, chỉ có cái ngọn vậy thôi. Còn cái gốc chưa học được. Học như thế sẽ ra sao? Tử Hạ nghe vậy, nói: “Ôi, thầy Tử Du sai rồi! Đạo quân tử phải đem cái ngọn dạy trước, việc gốc truyền sau. Học trò như cỏ cây có phân biệt lớn nhỏ, đạo dạy học của người quân tử sao có thể tùy tiện. Dạy điều mở đầu mà biết được kết cục, chẳng phải chỉ có thánh nhân mới được vậy ư?",
             "binh": ""
           },
@@ -3120,13 +3120,13 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "19.17",
-            "hanviet": "Tăng tử viết: Ngô văn chư phu tử, nhân vị hữu tự trí giả dã, tất dã thân tang hồ ?",
-            "nghia": "Tăng tử nói: Ta nghe thầy Khổng dạy rằng người chưa đem hết tình cảm ra làm việc khác nhưng trong việc tang cha mẹ lại không thể đem hết tình ra hay sao ?",
+            "hanviet": "Tăng tử viết: Ngô văn chư phu tử, nhân vị hữu tự trí giả dã, tất dã thân tang hồ?",
+            "nghia": "Tăng tử nói: Ta nghe thầy Khổng dạy rằng người chưa đem hết tình cảm ra làm việc khác nhưng trong việc tang cha mẹ lại không thể đem hết tình ra hay sao?",
             "binh": ""
           },
           {
             "id": "19.18",
-            "hanviet": ":,,;, Tăng tử viết: Ngô văn chư phu tử, Mạnh Trang tử chi hiếu dã, kỳ tha khả năng dã; Kỳ bất cải phụ chi thần dư phụ chi chính, thị nan năng dã.",
+            "hanviet": ",,;, Tăng tử viết: Ngô văn chư phu tử, Mạnh Trang tử chi hiếu dã, kỳ tha khả năng dã; Kỳ bất cải phụ chi thần dư phụ chi chính, thị nan năng dã.",
             "nghia": "Tăng tử nói: Ta nghe thầy Khổng khen đức hiếu của Mạnh Trang tử, rằng những điều khác người ta có thể làm theo được, còn cái việc Mạnh không thay đổi bề tôi và phép cai trị của cha thì thiên hạ khó làm theo.",
             "binh": "Mạnh Trang tử là con Mạnh Hiếu tử, một trong ba dòng họ quan đại thần nước Lỗ thời ấy (họ Mạnh, họ Quí, họ Thúc). Khi được kế nhiệm địa vị của cha, Mạnh Trang tử có hiếu nên không thay đổi những việc cha từng làm, mà kế thừa điều hay của cha)."
           },
@@ -3144,32 +3144,32 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "19.21",
-            "hanviet": ", Tử Cống viết: Quân tử chi quá dã, như nhật nguyệt chi thực yên. Quá dã, nhân giai kiến chi; Canh dã, nhân giai ngưỡng chi. Tử",
+            "hanviet": "Tử Cống viết: Quân tử chi quá dã, như nhật nguyệt chi thực yên. Quá dã, nhân giai kiến chi; Canh dã, nhân giai ngưỡng chi. Tử",
             "nghia": "Cống nói: Sai lầm của người quân tử như nhật thực và nguyệt thực, ai cũng nhìn thấy. Quân tử sửa chữa lỗi được rồi thì ai cũng vẫn ngưỡng mộ.",
             "binh": ""
           },
           {
             "id": "19.22",
-            "hanviet": ":? :,,, , Vệ Công Tôn Triều vấn ư Tử Cống viết: Trọng Ni yên học ? Tử Cống viết: Văn vũ chi đạo, vị trụy ư địa, tại nhân.Hiền giả chí kỳ đại giả, bất hiền giả chí kỳ tiểu giả, mạc bất hữu văn vũ chi đạo yên. Phu tử yên bất học? Nhi diệc hà thường sư chi hữu?",
-            "nghia": "Đại phu nước Vệ là Công Tôn Triều hỏi Tử Cống: “Khổng tử học với ai vậy?”. Tử Cống nói: Đạo của vua Văn Vương, vua Vũ Vương bị chôn vùi dưới đất vẫn còn lưu lại trong dân gian. Người hiền tài học thì biết việc rộng lớn, người thường học được việc nhỏ. Đạo của hai vua chỗ nào cũng có. Thầy tôi không chỗ nào không học, cần gì phải có một thầy nào !",
+            "hanviet": "?:,,,, Vệ Công Tôn Triều vấn ư Tử Cống viết: Trọng Ni yên học? Tử Cống viết: Văn vũ chi đạo, vị trụy ư địa, tại nhân. Hiền giả chí kỳ đại giả, bất hiền giả chí kỳ tiểu giả, mạc bất hữu văn vũ chi đạo yên. Phu tử yên bất học? Nhi diệc hà thường sư chi hữu?",
+            "nghia": "Đại phu nước Vệ là Công Tôn Triều hỏi Tử Cống: “Khổng tử học với ai vậy?”. Tử Cống nói: Đạo của vua Văn Vương, vua Vũ Vương bị chôn vùi dưới đất vẫn còn lưu lại trong dân gian. Người hiền tài học thì biết việc rộng lớn, người thường học được việc nhỏ. Đạo của hai vua chỗ nào cũng có. Thầy tôi không chỗ nào không học, cần gì phải có một thầy nào!",
             "binh": ""
           },
           {
             "id": "19.23",
-            "hanviet": "Thúc Tôn Vũ Thúc ngữ đại phu ư triều viết: Tử Cống hiền ư Trọng Ni. Tử Phục Cảnh Bá dĩ cáo Tử Cống. Tử Cống viết: Thí chi cung tường, tứ chi từng dã cập kiên, khuy kiến thất gia chi hảo. Phu tử chi tường số nhận, bất đắc kỳ môn nhi nhập, bất kiến tông miếu chi loại, bách quan chi phú. Đắc kỳ môn giả hoặc quả hĩ. Phu tử chi vân, bất diệc nghi hồ !",
+            "hanviet": "Thúc Tôn Vũ Thúc ngữ đại phu ư triều viết: Tử Cống hiền ư Trọng Ni. Tử Phục Cảnh Bá dĩ cáo Tử Cống. Tử Cống viết: Thí chi cung tường, tứ chi từng dã cập kiên, khuy kiến thất gia chi hảo. Phu tử chi tường số nhận, bất đắc kỳ môn nhi nhập, bất kiến tông miếu chi loại, bách quan chi phú. Đắc kỳ môn giả hoặc quả hĩ. Phu tử chi vân, bất diệc nghi hồ!",
             "nghia": "Thúc Tôn Vũ Thúc nói với các vị đai phu trong triều nước Lỗ rằng: “Tử Cống có đạo đức tài năng hơn hẳn Khổng tử”. Tử Phục Cảnh Bá nói lại với Tử Cống. Tử Cống nói: “Lấy bức tường làm thí dụ vậy. Tường nhà tôi chỉ cao bằng vai, ai nhìn vào có thể thấy hết những cái tốt đẹp trong nhà. Còn bức tường của thầy tôi cao đến mấy thước, nếu không tìm được cửa vào thì không thể thấy được kiến trúc tráng lệ đa dạng bên trong. Chỉ có ít người tìm được cửa vào. Thúc Tôn Vũ Thúc nói như thế thật chẳng thích hợp.",
             "binh": ""
           },
           {
             "id": "19.24",
-            "hanviet": "Thúc Tôn Vũ Thúc hủy Trọng Ni. Tử Cống viết: Vô dĩ vi dã ! Trọng Ni bất khả hủy dã. Tha nhân chi hiền giả, khâu lăng dã, do khả du dã; Trọng Ni. Nhật nguyệt dã, vô đắc nhi du yên. Nhân tuy dục tự tuyệt, kỳ hà thương ư nhật nguyệt hồ ? Đa kiến kỳ bất tri lượng dã. Thúc Tôn Vũ Thúc chê Khổng tử. Tử",
+            "hanviet": "Thúc Tôn Vũ Thúc hủy Trọng Ni. Tử Cống viết: Vô dĩ vi dã! Trọng Ni bất khả hủy dã. Tha nhân chi hiền giả, khâu lăng dã, do khả du dã; Trọng Ni. Nhật nguyệt dã, vô đắc nhi du yên. Nhân tuy dục tự tuyệt, kỳ hà thương ư nhật nguyệt hồ? Đa kiến kỳ bất tri lượng dã. Thúc Tôn Vũ Thúc chê Khổng tử. Tử",
             "nghia": "Cống nói: Làm thế chả có ích gì. Không thể làm mất uy tín của thầy tôi được! Tài đức của người khác ví như cái núi nhỏ, có thể vượt qua được. Còn tài đức của Khổng tử cao xa như mặt trăng mặt trời, chẳng có ai qua được. Ai đó muốn đoạn tuyệt với đạo của thầy tôi thì cũng chẳng hại gì được mặt trăng mặt trời. Chê trách như thế chỉ chứng tỏ ông ta không biết lượng sức mình mà thôi.",
             "binh": ""
           },
           {
             "id": "19.25",
-            "hanviet": "Trần Tử Cầm vị Tử Cống viết: Tử vi cung dã, Trọng Ni khải hiền ư tử hồ? Tử Cống viết: Quân tử nhất ngôn dĩ vi tri, nhất ngôn dĩ vi bất tri, ngôn bất khả thận dã. Phu tử chi bất khả cập dã, do thiên chi bất khả giai nhi thăng dã. Phu tử chi đắc bang gia giả. Sở vị lập chi tư lập, đạo chi tư hành, nỗi chi tư lai, đông chi tư hòa. Kỳ sinh dã vinh, kỳ tử dã ai, như chi hà kỳ khả cập dã ?",
-            "nghia": "Trần Tử Cầm nói với Tử Cống: Anh quá khiêm tốn và cung kính với thầy Khổng tử đó thôi. Khổng tử chắc gì đã hơn anh ? Tử Cống nói: Người quân tử nói ra một câu khiến người ta có thể hiểu rõ anh ta thông minh hay ngu dốt, vì vậy phải thận trọng khi nói. Chúng ta không thể đuổi kịp thầy như là không thể bắc thang trèo lên trời vậy. Thầy chúng ta nếu được nắm giữ một nước thì sẽ như lời cổ nhân: “Gây sinh kế cho dân thì dân tự hiểu lễ mà làm, hướng dẫn dân thì dân tự đi theo, săn sóc an ủi dân thì dân sẽ qui thuận, cổ vũ dân thì dân nhất định đồng tâm hiệp lực”. Khi sống, thầy chúng ta được mọi người tôn vinh, chết được nhân dân thương xót. Như thế còn ai theo kịp được thầy chúng ta? Hết thiên 19",
+            "hanviet": "Trần Tử Cầm vị Tử Cống viết: Tử vi cung dã, Trọng Ni khải hiền ư tử hồ? Tử Cống viết: Quân tử nhất ngôn dĩ vi tri, nhất ngôn dĩ vi bất tri, ngôn bất khả thận dã. Phu tử chi bất khả cập dã, do thiên chi bất khả giai nhi thăng dã. Phu tử chi đắc bang gia giả. Sở vị lập chi tư lập, đạo chi tư hành, nỗi chi tư lai, đông chi tư hòa. Kỳ sinh dã vinh, kỳ tử dã ai, như chi hà kỳ khả cập dã?",
+            "nghia": "Trần Tử Cầm nói với Tử Cống: Anh quá khiêm tốn và cung kính với thầy Khổng tử đó thôi. Khổng tử chắc gì đã hơn anh? Tử Cống nói: Người quân tử nói ra một câu khiến người ta có thể hiểu rõ anh ta thông minh hay ngu dốt, vì vậy phải thận trọng khi nói. Chúng ta không thể đuổi kịp thầy như là không thể bắc thang trèo lên trời vậy. Thầy chúng ta nếu được nắm giữ một nước thì sẽ như lời cổ nhân: “Gây sinh kế cho dân thì dân tự hiểu lễ mà làm, hướng dẫn dân thì dân tự đi theo, săn sóc an ủi dân thì dân sẽ qui thuận, cổ vũ dân thì dân nhất định đồng tâm hiệp lực”. Khi sống, thầy chúng ta được mọi người tôn vinh, chết được nhân dân thương xót. Như thế còn ai theo kịp được thầy chúng ta? Hết thiên 19",
             "binh": ""
           }
         ]
@@ -3182,7 +3182,7 @@ const TU_THU_LIBRARY = {
         "passages": [
           {
             "id": "20.1",
-            "hanviet": "Nghiêu viết: Tư, nhĩ Thuấn ! Thiên chi lịch sác tại nhĩ cung, doãn chấp kỳ trung. Tứ hải khốn cùng, thiên lộc vĩnh chung. Thuấn diệc dĩ mệnh Vũ. Vua",
+            "hanviet": "Nghiêu viết: Tư, nhĩ Thuấn! Thiên chi lịch sác tại nhĩ cung, doãn chấp kỳ trung. Tứ hải khốn cùng, thiên lộc vĩnh chung. Thuấn diệc dĩ mệnh Vũ. Vua",
             "nghia": "Nghiêu nói: Hỡi ngươi Thuấn, mệnh trời đã định đến lúc ngươi nối ngôi của ta, hãy thành thực chấp hành đạo trung chính. Dân bốn biển (mà) khốn cùng thì lộc trời ban cho ngươi cũng hết. Vua Thuấn (sau này khi nhường ngôi cho vua Vũ) cũng truyền lại mệnh ấy.",
             "binh": ""
           },
@@ -3194,20 +3194,20 @@ const TU_THU_LIBRARY = {
           },
           {
             "id": "20.3",
-            "hanviet": "Chu hữu đại lại, thiện nhân thị phú. “Tuy hữu Chu thân, bất như nhân nhân. Bách tính hữu quá, tại dư nhất nhân”...Cẩn quyền lượng, thẩm pháp độ, tu phế quan, tứ phương chi chính hành yên. Hưng diệt quốc, kế tuyệt thế, cử dật dân, thiên hạ chi dân qui tâm yên. Sở trọng dân: thực, tang, tế. Khoan tắc đắc chúng, tín tắc dân nhiệm yên. Mẫn tắc hữu công, công tắc duyệt.",
+            "hanviet": "Chu hữu đại lại, thiện nhân thị phú. “Tuy hữu Chu thân, bất như nhân nhân. Bách tính hữu quá, tại dư nhất nhân”. Cẩn quyền lượng, thẩm pháp độ, tu phế quan, tứ phương chi chính hành yên. Hưng diệt quốc, kế tuyệt thế, cử dật dân, thiên hạ chi dân qui tâm yên. Sở trọng dân: thực, tang, tế. Khoan tắc đắc chúng, tín tắc dân nhiệm yên. Mẫn tắc hữu công, công tắc duyệt.",
             "nghia": "Nhà Chu (sau khi diệt được vua Trụ) xuất của cải chia cho dân, người hiền trở nên giàu có. (Khi đem quân đánh vua Trụ, vua Chu Vũ vương thề rằng):“Tuy (vua Trụ) có nhiều người thân họ Chu, chẳng bằng (ta có) nhiều người nhân đức. Nếu trăm họ mắc tội, lỗi chỉ tại một người (là ta) thôi”… (Vua Vũ vương) định lại cân,dụng cụ đo lường và phép tắc luật lệ, dùng lại những quan chức bị (nhà Trụ) bãi bỏ, cai quản bốn phương thông suốt. Khôi phục lại những nước chư hầu đã bị diệt, cho người nối tiếp những dòng họ bị đứt quãng. Mời kẻ hiền sĩ ẩn dật ra làm việc, người trong thiên hạ hết lòng qui phục.",
             "binh": "(Vua Vũ vương) coi trọng ba việc của dân là: lương thực, tang lễ và tế tự. Khoan dung ắt được dân ủng hộ, trung tín thành thực được dân dựa vào mình. Cần mẫn làm việc thu được công lao, công bằng sẽ làm vui lòng người."
           },
           {
             "id": "20.4",
-            "hanviet": "Tử Trương vấn Khổng tử viết: Hà như tư khả dĩ tòng chính hĩ ?. Tử viết: Tôn ngũ mỹ, bính tứ ố, kỳ khả dĩ tòng chính hĩ. Tử Trương viết: Hà vị ngũ mỹ ?. Tử viết: Quân tử huệ nhi bất phí, lao nhi bất oán, dục nhi bất tham, thái nhi bất kiêu, uy nhi bất mãnh. Tử Trương viết: Khả vị huệ nhi bất phí ? Tử viết: Nhân dân chi sở lợi nhi lợi chi, tư bất diệc huệ nhi bất phí hồ ? Trạch khả lao nhi lao chi, hựu thùy oán ? Dục nhân nhi đắc nhân, hựu yên tham ? Quân tử vô chúng quả, vô đại tiểu, vô cảm mạn, tư bất diệc thái nhi bất kiêu hồ ? Quân tử chính kỳ y quan, tôn kỳ chiêm thị, nghiễm nhiên nhân vọng nhi úy chi, tư bất diệc uy nhi bất mãnh hồ ? Tử Trương viết: Hà vị tứ ố ? Tử viết: Bất giáo nhi sát vị chi ngược, bất giới thị thành vị chi bạo; mạn lệnh trí kỳ vị chi tặc; do chi dự nhân dã, xuất nạp chi lận vị chi hữu tư. Tử Trương hỏi Khổng tử: Như thế nào mới làm được quan chính trực ?",
-            "nghia": "Khổng tử nói: Biết tôn trọng 5 việc tốt, loại trừ 4 việc xấu, có thể làm quan chính trực. Tử Trương hỏi tiếp: Thế nào là 5 việc tốt ? Khổng tử đáp: Quân tử làm ân huệ cho dân mà không hao tổn tiền bạc, bảo dân làm viêc khó nhọc mà dân chẳng oán ghét, ham muốn mà không tham lam, trang trọng mà không kiêu ngạo, uy nghiêm mà không hung bạo. Tử Trương lại hỏi: Thế nào là làm ân huệ mà không hao tiền bạc? Khổng tử nói: Thuận theo lợi của dân mà hướng dẫn họ làm lợi, như thế là ân huệ cho dân mà không tốn tiền. Chọn việc đáng làm vào lúc thích hợp, đúng mùa vụ, thời tiết, đôn đốc dân làm việc khó nhọc, như thế thì có ai lại oán ghét mình ? Ham muốn làm việc nhân đức mà được điều nhân sao gọi là tham lam ?! Quân tử làm việc không kể việc lớn nhỏ đều không dám coi thường, vậy là trang trọng mà không ngạo mạn. Quân tử áo mũ chỉnh tề, ánh mắt nghiêm túc khiến người khác nhìn thấy nể sợ, đó là uy nghiêm mà không hung bạo.",
+            "hanviet": "Tử Trương vấn Khổng tử viết: Hà như tư khả dĩ tòng chính hĩ. Tử viết: Tôn ngũ mỹ, bính tứ ố, kỳ khả dĩ tòng chính hĩ. Tử Trương viết: Hà vị ngũ mỹ. Tử viết: Quân tử huệ nhi bất phí, lao nhi bất oán, dục nhi bất tham, thái nhi bất kiêu, uy nhi bất mãnh. Tử Trương viết: Khả vị huệ nhi bất phí? Tử viết: Nhân dân chi sở lợi nhi lợi chi, tư bất diệc huệ nhi bất phí hồ? Trạch khả lao nhi lao chi, hựu thùy oán? Dục nhân nhi đắc nhân, hựu yên tham? Quân tử vô chúng quả, vô đại tiểu, vô cảm mạn, tư bất diệc thái nhi bất kiêu hồ? Quân tử chính kỳ y quan, tôn kỳ chiêm thị, nghiễm nhiên nhân vọng nhi úy chi, tư bất diệc uy nhi bất mãnh hồ? Tử Trương viết: Hà vị tứ ố? Tử viết: Bất giáo nhi sát vị chi ngược, bất giới thị thành vị chi bạo; mạn lệnh trí kỳ vị chi tặc; do chi dự nhân dã, xuất nạp chi lận vị chi hữu tư. Tử Trương hỏi Khổng tử: Như thế nào mới làm được quan chính trực?",
+            "nghia": "Khổng tử nói: Biết tôn trọng 5 việc tốt, loại trừ 4 việc xấu, có thể làm quan chính trực. Tử Trương hỏi tiếp: Thế nào là 5 việc tốt? Khổng tử đáp: Quân tử làm ân huệ cho dân mà không hao tổn tiền bạc, bảo dân làm viêc khó nhọc mà dân chẳng oán ghét, ham muốn mà không tham lam, trang trọng mà không kiêu ngạo, uy nghiêm mà không hung bạo. Tử Trương lại hỏi: Thế nào là làm ân huệ mà không hao tiền bạc? Khổng tử nói: Thuận theo lợi của dân mà hướng dẫn họ làm lợi, như thế là ân huệ cho dân mà không tốn tiền. Chọn việc đáng làm vào lúc thích hợp, đúng mùa vụ, thời tiết, đôn đốc dân làm việc khó nhọc, như thế thì có ai lại oán ghét mình? Ham muốn làm việc nhân đức mà được điều nhân sao gọi là tham lam! Quân tử làm việc không kể việc lớn nhỏ đều không dám coi thường, vậy là trang trọng mà không ngạo mạn. Quân tử áo mũ chỉnh tề, ánh mắt nghiêm túc khiến người khác nhìn thấy nể sợ, đó là uy nghiêm mà không hung bạo.",
             "binh": ""
           },
           {
             "id": "20.5",
-            "hanviet": "Khổng tử viết: Bất tri mệnh, vô dĩ vi quân tử dã ; Bất tri lễ, vô dĩ lập dã; Bất tri tín, vô dĩ tri nhân dã.",
-            "nghia": "Khổng tử nói: Không biết mệnh trời thì không thể làm người quân tử. Không biết lễ thì không thể tự lập thân. Không biết chữ tín thì không hiểu được người. [ Lời bàn: Khó nhất là làm sao biết được mệnh trời ! Mệnh trời là thời cơ chăng ? Liệu có nhà tiên tri nào báo trước? Tuy nhiên, người quân tử hãy tự mình làm hai điều sau (tín, lễ) coi như hai điều kiện tiên quyết / điều kiện cần. Chữ Lễ là cội nguồn cảm hứng nghiên cứu, du thuyết và dạy học của Khổng tử, kết thúc Luận ngữ cũng là chữLễ, thêm Tín và Mệnh . Hết",
+            "hanviet": "Khổng tử viết: Bất tri mệnh, vô dĩ vi quân tử dã; Bất tri lễ, vô dĩ lập dã; Bất tri tín, vô dĩ tri nhân dã.",
+            "nghia": "Khổng tử nói: Không biết mệnh trời thì không thể làm người quân tử. Không biết lễ thì không thể tự lập thân. Không biết chữ tín thì không hiểu được người. [ Lời bàn: Khó nhất là làm sao biết được mệnh trời! Mệnh trời là thời cơ chăng? Liệu có nhà tiên tri nào báo trước? Tuy nhiên, người quân tử hãy tự mình làm hai điều sau (tín, lễ) coi như hai điều kiện tiên quyết / điều kiện cần. Chữ Lễ là cội nguồn cảm hứng nghiên cứu, du thuyết và dạy học của Khổng tử, kết thúc Luận ngữ cũng là chữLễ, thêm Tín và Mệnh. Hết",
             "binh": ""
           }
         ]
