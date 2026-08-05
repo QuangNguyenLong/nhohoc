@@ -662,7 +662,7 @@ const TU_THU_LIBRARY = {
             },
             {
               "id": "5.11",
-              "hanviet": "Tử viết: Ngô vị kiến cương giả. Hoặc đối viết: Thân Trành. Tử viết Trành dã dục, yên đắc cương?.",
+              "hanviet": "Tử viết: Ngô vị kiến cương giả. Hoặc đối viết: Thân Trành. Tử viết Trành dã dục, yên đắc cương?",
               "nghia": "Khổng tử nói: Ta chưa thấy người nào kiên cường. Có người đáp “Thân Trành là người như vậy”. Khổng tử nói: Thân Trành nhiều dục vọng, sao gọi là kiên cường?",
               "binh": "Thân Trành là người kiêu hãnh, vị kỷ, người ta tưởng nhầm là kiên cường"
             },
@@ -1966,9 +1966,9 @@ const TU_THU_LIBRARY = {
             },
             {
               "id": "12.19",
-              "hanviet": "Quý Khang tử vấn chính ư Khổng tử viết: Như sát vô đạo, dĩ tựu hữu đạo, hà như?",
-              "nghia": "Khổng tử đối viết: “Tử vi chính, yên dụng sát? Tử dục thiện nhi dân thiện hĩ. Quân tử chi đức",
-              "binh": "phong, nhân tiểu chi đức thảo, thảo thượng chi phong, tất yển. Quý Khang tử hỏi Khổng tử về chính sự: Giết kẻ vô đạo, khiến dân biết mà theo đạo, được không? Khổng tử đáp: Ngài cầm quyền quốc gia, cần gì phải giết người? Ngài thực sự làm điều thiện thì dân sẽ làm điều thiện. Đức hạnh quân tử như gió, đức hạnh kẻ tiểu nhân như cỏ. Gió thổi trên cỏ thì cỏ nhất định rạp theo chiều gió."
+              "hanviet": "Quý Khang tử vấn chính ư Khổng tử viết: Như sát vô đạo, dĩ tựu hữu đạo, hà như? Khổng tử đối viết: “Tử vi chính, yên dụng sát ? Tử dục thiện nhi dân thiện hĩ. Quân tử chi đức phong, nhân tiểu chi đức thảo, thảo thượng chi phong, tất yển.",
+              "nghia": "Quý Khang tử hỏi Khổng tử về chính sự: Giết kẻ vô đạo, khiến dân biết mà theo đạo, được không ? Khổng tử đáp: Ngài cầm quyền quốc gia, cần gì phải giết người ? Ngài thực sự làm điều thiện thì dân sẽ làm điều thiện. Đức hạnh quân tử như gió, đức hạnh kẻ tiểu nhân như cỏ. Gió thổi trên cỏ thì cỏ nhất định rạp theo chiều gió.",
+              "binh": ""
             },
             {
               "id": "12.20",
@@ -2687,7 +2687,7 @@ const TU_THU_LIBRARY = {
             {
               "id": "15.37",
               "hanviet": "Tử viết: Quân tử trinh nhi bất lượng.",
-              "nghia": "Khổng tử nói: Quân tử giữ vững khí tiết nhưng biết bao dung người khác (kém hơn mình.",
+              "nghia": "Khổng tử nói: Quân tử giữ vững khí tiết nhưng biết bao dung người khác (kém hơn mình).",
               "binh": ""
             },
             {
@@ -3170,7 +3170,7 @@ const TU_THU_LIBRARY = {
               "id": "19.20",
               "hanviet": "Tử Cống viết: Trụ chi bất thiện, bất như thị chi thậm dã. Thị dĩ quân tử ố cư hạ lưu, thiên hạ chi ác giai quy yên",
               "nghia": "Tử Cống nói: Những điều bất thiện của vua Trụ không đến nỗi như thiên hạ nói. Người quân tử rất ghét ở chung với đám hạ lưu, vì mọi điều xấu trong xã hội đều đổ dồn về chỗ họ.",
-              "binh": "“Hạ lưu” là đám người dồn cặn như rác rưởi cuối dòng nước chảy. Đám này thường nói xấu tất cả những gì họ muốn. Vua Trụ có xấu xa nhưng kẻ hạ lưu thường dậu đổ bìm leo nói thêm vào. Tử Cống đòi hỏi sự công bằng ngay cả đối với kẻ xâu"
+              "binh": "“Hạ lưu” là đám người dồn cặn như rác rưởi cuối dòng nước chảy. Đám này thường nói xấu tất cả những gì họ muốn. Vua Trụ có xấu xa nhưng kẻ hạ lưu thường dậu đổ bìm leo nói thêm vào. Tử Cống đòi hỏi sự công bằng ngay cả đối với kẻ xấu"
             },
             {
               "id": "19.21",
@@ -3238,7 +3238,7 @@ const TU_THU_LIBRARY = {
               "id": "20.5",
               "hanviet": "Khổng tử viết: Bất tri mệnh, vô dĩ vi quân tử dã; Bất tri lễ, vô dĩ lập dã; Bất tri tín, vô dĩ tri nhân dã.",
               "nghia": "Khổng tử nói: Không biết mệnh trời thì không thể làm người quân tử. Không biết lễ thì không thể tự lập thân. Không biết chữ tín thì không hiểu được người.",
-              "binh": "Lời bàn: Khó nhất là làm sao biết đƣợc mệnh trời ! Mệnh trời là thời cơ chăng ? Liệu có nhà tiên tri nào báo trƣớc? Tuy nhiên, ngƣời quân tử hãy tự mình làm hai điều sau (tín, lễ) coi nhƣ hai điều kiện tiên quyết / điều kiện cần. Chữ Lễ là cội nguồn cảm hứng nghiên cứu, du thuyết và dạy học của Khổng tử, kết thúc Luận ngữ cũng là chữ Lễ, thêm Tín và Mệnh"
+              "binh": "Lời bàn: Khó nhất là làm sao biết được mệnh trời ! Mệnh trời là thời cơ chăng ? Liệu có nhà tiên tri nào báo trước? Tuy nhiên, người quân tử hãy tự mình làm hai điều sau (tín, lễ) coi như hai điều kiện tiên quyết / điều kiện cần. Chữ Lễ là cội nguồn cảm hứng nghiên cứu, du thuyết và dạy học của Khổng tử, kết thúc Luận ngữ cũng là chữ Lễ, thêm Tín và Mệnh"
             }
           ]
         }
