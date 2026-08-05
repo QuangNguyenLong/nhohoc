@@ -1,0 +1,6 @@
+*
+!.gitignore
+!app.js
+!data.js
+!index.html
+!styles.css
