@@ -400,6 +400,16 @@ main { padding-top: 32px; }
   max-width: 56ch;
 }
 
+/* ===== Flashcard =====
+   IMPORTANT: the two faces are stacked in the same grid cell (grid-area: 1 / 1),
+   so the wrapper's height auto-sizes to whichever face has MORE content.
+   Faces must NOT have a fixed max-height + overflow:auto here — nesting a
+   scrollable region inside an ancestor with a 3D transform (transform-style:
+   preserve-3d, used for the flip) is a known mobile Safari/Chrome bug: touch
+   scroll gestures get swallowed by the transform layer instead of scrolling
+   the content, which is exactly the "stuck, can't scroll on mobile" issue.
+   Letting the card grow and having the PAGE scroll instead avoids that bug
+   entirely and guarantees no content is ever cropped. */
 .card-wrap {
   width: 100%;
   perspective: 1400px;
@@ -409,36 +419,82 @@ main { padding-top: 32px; }
 .flashcard {
   position: relative;
   width: 100%;
+  height: 360px; /* fixed size — identical for every card, front and back */
   cursor: pointer;
-  display: grid;
   transform-style: preserve-3d;
   transition: transform 0.5s cubic-bezier(.4,.2,.2,1);
 }
 
 .flashcard.flipped { transform: rotateY(180deg); }
 
+/* Outer face: fixed size, owns the flip/backface-hidden. NOT scrollable itself. */
 .flashcard-face {
-  grid-area: 1 / 1;
-  min-height: 220px;
-  max-height: 60vh;
-  overflow-y: auto;
+  position: absolute;
+  inset: 0;
   backface-visibility: hidden;
   background: var(--card-bg);
   border: 1px solid var(--line);
-  padding: 32px 28px;
+  overflow: hidden;
+}
+
+/* Inner wrapper: owns the scrolling. Deliberately has NO backface-visibility
+   and no transform of its own — iOS Safari has a well-known bug where an
+   element with overflow-y:auto AND backface-visibility:hidden on the SAME
+   element loses touch/momentum scrolling. Splitting the two responsibilities
+   across parent/child sidesteps that bug entirely. */
+.face-scroll {
+  position: absolute;
+  inset: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
+  padding: 28px 24px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Vertical centering via margin:auto instead of justify-content:center.
+   justify-content:center on a scrollable flex container is a documented
+   source of broken/unreliable touch scrolling on iOS once content overflows
+   (the browser can't cleanly resolve the scrollable region). margin:auto
+   centers short content the same way, but degrades gracefully to plain
+   top-anchored, fully-scrollable behavior once content is taller than the
+   card — which is exactly the front-vs-back asymmetry you just hit. */
+.face-inner {
+  margin: auto 0;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   text-align: center;
 }
 
-.flashcard-back { transform: rotateY(180deg); justify-content: flex-start; text-align: left; align-items: stretch; }
+.flashcard-back .face-inner {
+  align-items: stretch;
+  text-align: left;
+}
+
+.flashcard-back { transform: rotateY(180deg); }
+
+/* backface-visibility only controls what's PAINTED — it does not reliably
+   stop the hidden face from still receiving touch/scroll events on mobile
+   Safari, especially since .flashcard-back is later in the DOM and sits on
+   top in stacking order regardless of which face is visually showing. That
+   mismatch is what made the front face's scroll silently get eaten by the
+   invisible back face underneath. Explicitly gating pointer-events on the
+   .flipped state removes the ambiguity: only the actually-visible face can
+   ever receive touch/scroll/click. */
+.flashcard-front { pointer-events: auto; }
+.flashcard-back { pointer-events: none; }
+.flashcard.flipped .flashcard-front { pointer-events: none; }
+.flashcard.flipped .flashcard-back { pointer-events: auto; }
 
 .flashcard-front .seal {
   position: static;
   transform: rotate(-4deg);
   margin-bottom: 20px;
+  flex: 0 0 auto;
 }
 
 .card-hanviet {
@@ -448,6 +504,7 @@ main { padding-top: 32px; }
   line-height: 1.65;
   margin: 0;
   overflow-wrap: break-word;
+  hyphens: auto;
 }
 
 .flip-hint {
@@ -457,6 +514,7 @@ main { padding-top: 32px; }
   color: var(--ink-soft);
   text-transform: uppercase;
   letter-spacing: 0.08em;
+  flex: 0 0 auto;
 }
 
 .card-label {
@@ -573,7 +631,8 @@ main { padding-top: 32px; }
   .passage-card { padding: 60px 16px 16px; }
   .seal { top: 16px; left: 16px; }
   .rate-btn { font-size: 12px; padding: 10px 4px; }
-  .flashcard-face { padding: 22px 18px; max-height: 55vh; }
+  .flashcard { height: 300px; }
+  .face-scroll { padding: 20px 16px; }
   .book-tab { margin-left: 8px; font-size: 12px; }
   .site-header { padding-top: 24px; }
 }
