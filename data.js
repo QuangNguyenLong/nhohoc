@@ -1164,8 +1164,8 @@ const TU_THU_LIBRARY = {
             },
             {
               "id": "7.34",
-              "hanviet": "",
-              "nghia": "Tử viết: Nhược thánh dữ nhân, tắc ngô khải cảm? Ức vi chi bất yếm, hối nhân bất quyện, tắc khả vị vân nhĩ dĩ hĩ. Công Tây Hoa viết: Chính duy đệ tử bất năng học dã. Khổng tử nói: Nếu bảo là người nhân đức, ta đâu dám nhận? Hành động theo thánh nhân thì ta chưa biết chán, dạy người chưa biết mệt mỏi, chỉ có thể nói vậy thôi. Công Tây Hoa nói: Những điều đó, học trò tụi con không học nổi.",
+              "hanviet": "Tử viết: Nhược thánh dữ nhân, tắc ngô khải cảm? Ức vi chi bất yếm, hối nhân bất quyện, tắc khả vị vân nhĩ dĩ hĩ. Công Tây Hoa viết: Chính duy đệ tử bất năng học dã.",
+              "nghia": "Khổng tử nói: Nếu bảo là người nhân đức, ta đâu dám nhận? Hành động theo thánh nhân thì ta chưa biết chán, dạy người chưa biết mệt mỏi, chỉ có thể nói vậy thôi. Công Tây Hoa nói: Những điều đó, học trò tụi con không học nổi.",
               "binh": ""
             },
             {
@@ -2022,9 +2022,9 @@ const TU_THU_LIBRARY = {
             },
             {
               "id": "13.3",
-              "hanviet": "Tử Lộ viết: Vệ quân đãi tử vi chính, tử thương hề tiên ? Tử viết: Tất dã chính danh hồ! Tử Lộ viết: Hữu thị tai, tử chi vu dã ! Hề kỳ chính ? Tử viết: Dã tai, Do dã ! Quân tử ư kỳ sở bất tri, thiện khuyết như dã. Danh bất chính tắc ngôn bất thuận, ngôn bất thuận tắc sự bất thành, sự bất thành tắc lễ nhạc bất hưng, lễ nhạc bất hưng tắc hình phạt bất trung, hình phạt bất trung tắc dân vô sở thố thủ túc. Cố quân tử danh chi tất khả ngôn dã, ngôn chi tất khả hành dã. Quân tử ư kỳ ngôn, vô sở cẩu nhi dĩ hĩ.",
-              "nghia": "thiện khuyết như dã. Danh bất chính tắc ngôn bất thuận, ngôn bất thuận tắc sự bất thành, sự",
-              "binh": "bất thành tắc lễ nhạc bất hưng, lễ nhạc bất hưng tắc hình phạt bất trung, hình phạt bất trung tắc dân vô sở thố thủ túc. Cố quân tử danh chi tất khả ngôn dã, ngôn chi tất khả hành dã. Quân tử ư kỳ ngôn, vô sở cẩu nhi dĩ hĩ. Tử Lộ nói: Nếu vua nước Vệ mời thầy đi làm quan, thầy làm gì trước tiên? Khổng tử nói: Tất phải chính danh đã. Tử Lộ nói: Phải vậy ư? Thầy nói viển vông quá, sao phải chính danh? Khổng tử nói: Trò Do sao nói năng thô thiển thế? Quân tử gặp việc mình chưa rõ thì không nên nói tùy tiện…Danh không hợp thì lời nói sẽ không thuận, nói không thuận thì việc không thành. Việc không thành thì lễ nhạc mất trật tự. Lễ nhạc mất trật tự thì hình phạt không đúng đắn, hình phạt không đúng thì dân không biết làm thế nào cho đúng. Vậy người quân tử khi có danh phù hợp với thực thì có thể nói ra được, nói được thì thực hành thông suốt. Quân tử không bao giờ sơ suất với lời nói của mình. (Chú thích: Bài này thể hiện rõ Thuyết chính danh của Khổng tử"
+              "hanviet": "Tử Lộ viết: Vệ quân đãi tử vi chính, tử thương hề tiên ? Tử viết: Tất dã chính danh hồ! Tử Lộ viết: Hữu thị tai, tử chi vu dã ! Hề kỳ chính ? Tử viết: Dã tai, Do dã ! Quân tử ư kỳ sở bất tri, thiện khuyết như dã. Danh bất chính tắc ngôn bất thuận, ngôn bất thuận tắc sự bất thành, sự bất thành tắc lễ nhạc bất hưng, lễ nhạc bất hưng tắc hình phạt bất trung, hình phạt bất trung tắc dân vô sở thố thủ túc. Cố quân tử danh chi tất khả ngôn dã, ngôn chi tất khả hành dã. Quân tử ư kỳ ngôn, vô sở cẩu nhi dĩ hĩ. thiện khuyết như dã. Danh bất chính tắc ngôn bất thuận, ngôn bất thuận tắc sự bất thành, sự bất thành tắc lễ nhạc bất hưng, lễ nhạc bất hưng tắc hình phạt bất trung, hình phạt bất trung tắc dân vô sở thố thủ túc. Cố quân tử danh chi tất khả ngôn dã, ngôn chi tất khả hành dã. Quân tử ư kỳ ngôn, vô sở cẩu nhi dĩ hĩ.",
+              "nghia": "Tử Lộ nói: Nếu vua nước Vệ mời thầy đi làm quan, thầy làm gì trước tiên? Khổng tử nói: Tất phải chính danh đã. Tử Lộ nói: Phải vậy ư ? Thầy nói viển vông quá, sao phải chính danh ? Khổng tử nói: Trò Do sao nói năng thô thiển thế? Quân tử gặp việc mình chưa rõ thì không nên nói tùy tiện…Danh không hợp thì lời nói sẽ không thuận, nói không thuận thì việc không thành. Việc không thành thì lễ nhạc mất trật tự. Lễ nhạc mất trật tự thì hình phạt không đúng đắn, hình phạt không đúng thì dân không biết làm thế nào cho đúng. Vậy người quân tử khi có danh phù hợp với thực thì có thể nói ra được, nói được thì thực hành thông suốt. Quân tử không bao giờ sơ suất với lời nói của mình.",
+              "binh": "Bài này thể hiện rõ Thuyết chính danh của Khổng tử"
             },
             {
               "id": "13.4",
@@ -2036,7 +2036,7 @@ const TU_THU_LIBRARY = {
               "id": "13.5",
               "hanviet": "Tử viết: Thông thi tam bách, thụ chi dĩ chính, bất đạt; Sử ư tứ phương, bất năng chuyên đối. Tuy đa, diệc hề dĩ vi?",
               "nghia": "Khổng tử nói: Học thông ba trăm bài Kinh Thi, khi được giao chính sự thì làm không nổi, đi sứ nước ngoài không ứng đối được. Học nhiều thế có ích gì?",
-              "binh": "Khổng tử chê cái anh thuộc lòng mà không hiểu nghĩa l ý"
+              "binh": "Khổng tử chê cái anh thuộc lòng mà không hiểu nghĩa lý"
             },
             {
               "id": "13.6",
