@@ -766,7 +766,7 @@ const TU_THU_LIBRARY = {
               "id": "5.28",
               "hanviet": "Tử viết: Thập thất chi ấp, tất hữu trung tín như Khâu giả yên, bất như Khâu chi hiếu học dã.",
               "nghia": "Khổng tử: Một thôn có chục nhà thì nhất định có một người trung tín như ta, nhưng không hiếu học như ta.",
-              "binh": "Khổng tử tin tưởng rằng nơi nào cũng có người nhân đức, nhưng chưa hẳn đã hiếu học)"
+              "binh": "Khổng tử tin tưởng rằng nơi nào cũng có người nhân đức, nhưng chưa hẳn đã hiếu học."
             }
           ]
         },
@@ -1158,8 +1158,8 @@ const TU_THU_LIBRARY = {
             },
             {
               "id": "7.33",
-              "hanviet": "",
-              "nghia": "Tử viết: Văn, mạc ngô do nhân dã. Cung hành quân tử, tắc ngô vị chi hữu đắc. Khổng tử nói: Về tri thức văn hoá, ta cũng chỉ bằng người khác. Ta tự mình thực hành đạo nhân thì chưa thỏa mãn được bao nhiêu.",
+              "hanviet": "Tử viết: Văn, mạc ngô do nhân dã. Cung hành quân tử, tắc ngô vị chi hữu đắc.",
+              "nghia": "Khổng tử nói: Về tri thức văn hoá, ta cũng chỉ bằng người khác. Ta tự mình thực hành đạo nhân thì chưa thỏa mãn được bao nhiêu.",
               "binh": ""
             },
             {
@@ -1316,7 +1316,7 @@ const TU_THU_LIBRARY = {
             },
             {
               "id": "8.20",
-              "hanviet": "Thuấn hữu thần ngũ nhân nhi thiên hạ trị. Vũ vương viết: Dư hữu thập nhân. Khổng tử viết: Tài nan, bất kỳ nhiên hồ? Đường Ngu chi tế, ư tư kỳ thịnh, hữu phụ nhân yên cửu nhân nhi dĩ. Tam phân thiên hạ hữu kỳ nhị, dĩ phục sự Ân.Chuchi đức, kỳ khả vị chí đức dã dĩ hĩ.",
+              "hanviet": "Thuấn hữu thần ngũ nhân nhi thiên hạ trị. Vũ vương viết: Dư hữu thập nhân. Khổng tử viết: Tài nan, bất kỳ nhiên hồ? Đường Ngu chi tế, ư tư kỳ thịnh, hữu phụ nhân yên cửu nhân nhi dĩ. Tam phân thiên hạ hữu kỳ nhị, dĩ phục sự Ân.Chu chi đức, kỳ khả vị chí đức dã dĩ hĩ.",
               "nghia": "Vua Thuấn chỉ có năm hiền thần mà thiên hạ bền vững. Vua Vũ Vương từng nói: Ta có mười người. Khổng tử nói: Có được nhân tài khó thay, chẳng phải vậy ư? Sau thời Đường Ngu có lúc Vũ vương đạt đến thịnh vượng, nhưng trong 10 người chỉ có 1 người là nữ, nên thực ra chỉ có 9 người mà thôi. Được hai phần ba thiên hạ, vua Vũ vẫn lấy thân phận chư hầu phục vụ nhà Ân. Đức của vua Chu Vũ Vương là cao quí nhất.",
               "binh": ""
             },
@@ -1518,7 +1518,7 @@ const TU_THU_LIBRARY = {
               "id": "9.31",
               "hanviet": "Đường lệ chi hoa, thiên kỳ phản nhi. Khải bất nhĩ tư, thất thị viễn nhi. Tử viết: Vị chi tư dã, phù hà viễn chi hữu?",
               "nghia": "“Cây đường lệ nở hoa Đung đưa nở rồi khép Anh đâu quên nhớ em Chỉ vì nhà xa quá!” Đọc xong 4 câu thơ trên, Khổng tử bình luận: Vậy là chẳng “nhớ” gì đâu. Nhớ thật thì có gì là xa xôi?!",
-              "binh": "; Khổng tử là một nhà phê bình văn học sắc sảo đến lạnh lùng…Những người làm thơ viết nhạc trẻ đã viết ra những thơ tình, nhạc tình sướt mướt, uốn éo giả tạo nghĩ gì khi đọc Khổng tử?! Khổng tử còn mượn bài thơ nói về một chuyện khác: Yêu đạo lý là thật lòng nhưng người học kêu khó quá, kêu thiếu thời gian, nại ra mọi lý do lý trấu để trì hoãn việc học đạo…)"
+              "binh": "; Khổng tử là một nhà phê bình văn học sắc sảo đến lạnh lùng…Những người làm thơ viết nhạc trẻ đã viết ra những thơ tình, nhạc tình sướt mướt, uốn éo giả tạo nghĩ gì khi đọc Khổng tử?! Khổng tử còn mượn bài thơ nói về một chuyện khác: Yêu đạo lý là thật lòng nhưng người học kêu khó quá, kêu thiếu thời gian, nại ra mọi lý do lý trấu để trì hoãn việc học đạo…"
             }
           ]
         },
@@ -2022,7 +2022,7 @@ const TU_THU_LIBRARY = {
             },
             {
               "id": "13.3",
-              "hanviet": "Tử Lộ viết: Vệ quân đãi tử vi chính, tử thương hề tiên? Tử viết: Tất dã chính danh hồ! Tử Lộ viết: Hữu thị tai, tử chi vu dã! Hề kỳ chính? Tử viết: Dã tai, Do dã! Quân tử ư kỳ sở bất tri,",
+              "hanviet": "Tử Lộ viết: Vệ quân đãi tử vi chính, tử thương hề tiên ? Tử viết: Tất dã chính danh hồ! Tử Lộ viết: Hữu thị tai, tử chi vu dã ! Hề kỳ chính ? Tử viết: Dã tai, Do dã ! Quân tử ư kỳ sở bất tri, thiện khuyết như dã. Danh bất chính tắc ngôn bất thuận, ngôn bất thuận tắc sự bất thành, sự bất thành tắc lễ nhạc bất hưng, lễ nhạc bất hưng tắc hình phạt bất trung, hình phạt bất trung tắc dân vô sở thố thủ túc. Cố quân tử danh chi tất khả ngôn dã, ngôn chi tất khả hành dã. Quân tử ư kỳ ngôn, vô sở cẩu nhi dĩ hĩ.",
               "nghia": "thiện khuyết như dã. Danh bất chính tắc ngôn bất thuận, ngôn bất thuận tắc sự bất thành, sự",
               "binh": "bất thành tắc lễ nhạc bất hưng, lễ nhạc bất hưng tắc hình phạt bất trung, hình phạt bất trung tắc dân vô sở thố thủ túc. Cố quân tử danh chi tất khả ngôn dã, ngôn chi tất khả hành dã. Quân tử ư kỳ ngôn, vô sở cẩu nhi dĩ hĩ. Tử Lộ nói: Nếu vua nước Vệ mời thầy đi làm quan, thầy làm gì trước tiên? Khổng tử nói: Tất phải chính danh đã. Tử Lộ nói: Phải vậy ư? Thầy nói viển vông quá, sao phải chính danh? Khổng tử nói: Trò Do sao nói năng thô thiển thế? Quân tử gặp việc mình chưa rõ thì không nên nói tùy tiện…Danh không hợp thì lời nói sẽ không thuận, nói không thuận thì việc không thành. Việc không thành thì lễ nhạc mất trật tự. Lễ nhạc mất trật tự thì hình phạt không đúng đắn, hình phạt không đúng thì dân không biết làm thế nào cho đúng. Vậy người quân tử khi có danh phù hợp với thực thì có thể nói ra được, nói được thì thực hành thông suốt. Quân tử không bao giờ sơ suất với lời nói của mình. (Chú thích: Bài này thể hiện rõ Thuyết chính danh của Khổng tử"
             },
@@ -2408,8 +2408,8 @@ const TU_THU_LIBRARY = {
             },
             {
               "id": "14.36",
-              "hanviet": "Công Bá Liêu tố Tử Lộ ư Qu í Tôn. Tử Phục Cảnh Bá dĩ cáo, viết: “Phu tử cố hữu hoặc chí ư Công Bá Liêu, ngô lực do năng tứ chư thị triêu”. Tử viết: “Đạo chi thương hành dã dự, mệnh dã; Đạo chi thương phế dã dự, mệnh dã. Công Bá Liêu kỳ như mênh hà!”.",
-              "nghia": "Công Bá Liêu nói xấu Tử Lộ ở nhà Qu í Tôn. Tử Phục Cảnh Bá nghe được, nói: Quý Tôn đã bị Công Bá Liêu mê hoặc rồi. Con có thể làm cho Quý Tôn giết Công Bá Liêu đem bêu xác ngoài chợ để thị uy. Khổng tử nói: Đạo của ta có thực hiện được hay không là do mệnh trời. Công Bá Liêu làm sao bằng mệnh trời được.",
+              "hanviet": "Công Bá Liêu tố Tử Lộ ư Quí Tôn. Tử Phục Cảnh Bá dĩ cáo, viết: “Phu tử cố hữu hoặc chí ư Công Bá Liêu, ngô lực do năng tứ chư thị triêu”. Tử viết: “Đạo chi thương hành dã dự, mệnh dã; Đạo chi thương phế dã dự, mệnh dã. Công Bá Liêu kỳ như mênh hà!”.",
+              "nghia": "Công Bá Liêu nói xấu Tử Lộ ở nhà Quí Tôn. Tử Phục Cảnh Bá nghe được, nói: Quý Tôn đã bị Công Bá Liêu mê hoặc rồi. Con có thể làm cho Quý Tôn giết Công Bá Liêu đem bêu xác ngoài chợ để thị uy. Khổng tử nói: Đạo của ta có thực hiện được hay không là do mệnh trời. Công Bá Liêu làm sao bằng mệnh trời được.",
               "binh": "Công Bá Liêu là kẻ xấu, muốn phá hoại sự nghiệp của thầy trò Khổng tử nên thường nói xấu với nhà Quý Tôn đại thần nước Lỗ. Tử Phục Cảnh Bá là một học trò của Khổng tử muốn giết Công Bá Liêu nhưng Khổng tử không đồng ý, ngài tin ở mệnh trời"
             },
             {
@@ -2988,7 +2988,7 @@ const TU_THU_LIBRARY = {
               "id": "18.2",
               "hanviet": "Liễu Hạ Huệ vi sĩ sư, tam truất. Nhân viết: Tử vị khả dĩ khứ hồ? Viết: Trực đạo nhi sự nhân, yên vãng nhi bất tam truất? Uổng đạo nhi sự nhân, hà tất khứ phụ mẫu chi bang.",
               "nghia": "Liễu Hạ Huệ làm quan, chức sĩ sư, ba lần bị giáng chức. Có người nói: Sao ông chưa bỏ đi? Liễu Hạ Huệ đáp: Tôi đem đạo chính trực đi phục vụ người thì ở đâu mà chẳng bị cách chức ba lần như trước đây? Làm vậy là uổng phí đạo phục vụ người, lại còn xa rời đất nước cha mẹ tôi đang ở.",
-              "binh": "Chú thich: Liễu Hạ Huệ quan nước Lỗ thời Xuân thu, bị vua bạc đãi nhưng vẫn kiên trì làm việc vì ông tin rằng mình phục vụ nhân dân chứ không phục vụ nhà vua…"
+              "binh": "Liễu Hạ Huệ quan nước Lỗ thời Xuân thu, bị vua bạc đãi nhưng vẫn kiên trì làm việc vì ông tin rằng mình phục vụ nhân dân chứ không phục vụ nhà vua…"
             },
             {
               "id": "18.3",
